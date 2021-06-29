@@ -1,0 +1,2824 @@
+QUANTITYORDERED,PRICEEACH,ORDERLINENUMBER,SALES,ORDERDATE,MONTH_ID,YEAR_ID,PRODUCTLINE,MSRP,PRODUCTCODE,COUNTRY,DEALSIZE
+30,95.7,2,2871.0,2003-02-24,2,2003,Motorcycles,95,0,USA,Small
+34,81.35,5,2765.9,2003-05-07,5,2003,Motorcycles,95,0,France,Small
+41,94.74,2,3884.34,2003-07-01,7,2003,Motorcycles,95,0,France,Medium
+45,83.26,6,3746.7,2003-08-25,8,2003,Motorcycles,95,0,USA,Medium
+49,100.0,14,5205.27,2003-10-10,10,2003,Motorcycles,95,0,USA,Medium
+36,96.66,1,3479.76,2003-10-28,10,2003,Motorcycles,95,0,USA,Medium
+29,86.13,9,2497.77,2003-11-11,11,2003,Motorcycles,95,0,France,Small
+48,100.0,1,5512.32,2003-11-18,11,2003,Motorcycles,95,0,Norway,Medium
+22,98.57,2,2168.54,2003-12-01,12,2003,Motorcycles,95,0,USA,Small
+41,100.0,14,4708.44,2004-01-15,1,2004,Motorcycles,95,0,France,Medium
+37,100.0,1,3965.66,2004-02-20,2,2004,Motorcycles,95,0,Australia,Medium
+23,100.0,7,2333.12,2004-04-05,4,2004,Motorcycles,95,0,USA,Small
+28,100.0,2,3188.64,2004-05-18,5,2004,Motorcycles,95,0,USA,Medium
+34,100.0,2,3676.76,2004-06-28,6,2004,Motorcycles,95,0,USA,Medium
+45,92.83,1,4177.35,2004-07-23,7,2004,Motorcycles,95,0,France,Medium
+36,100.0,6,4099.68,2004-08-27,8,2004,Motorcycles,95,0,USA,Medium
+23,100.0,9,2597.39,2004-09-30,9,2004,Motorcycles,95,0,Finland,Small
+41,100.0,5,4394.38,2004-10-15,10,2004,Motorcycles,95,0,Norway,Medium
+46,94.74,1,4358.04,2004-11-02,11,2004,Motorcycles,95,0,USA,Medium
+42,100.0,1,4396.14,2004-11-15,11,2004,Motorcycles,95,0,USA,Medium
+41,100.0,9,7737.93,2004-11-24,11,2004,Motorcycles,95,0,Austria,Large
+20,72.55,13,1451.0,2004-12-17,12,2004,Motorcycles,95,0,Australia,Small
+21,34.91,12,733.11,2005-02-03,2,2005,Motorcycles,95,0,France,Small
+42,76.36,4,3207.12,2005-03-03,3,2005,Motorcycles,95,0,USA,Medium
+24,100.0,7,2434.56,2005-04-08,4,2005,Motorcycles,95,0,UK,Small
+66,100.0,2,7516.08,2005-05-13,5,2005,Motorcycles,95,0,Spain,Large
+26,100.0,11,5404.62,2003-01-29,1,2003,Classic Cars,214,1,Norway,Medium
+29,100.0,1,7209.11,2003-03-24,3,2003,Classic Cars,214,1,Sweden,Large
+38,100.0,11,7329.06,2003-05-28,5,2003,Classic Cars,214,1,Spain,Large
+37,100.0,11,7374.1,2003-07-24,7,2003,Classic Cars,214,1,USA,Large
+45,100.0,8,10993.5,2003-09-19,9,2003,Classic Cars,214,1,Singapore,Large
+21,100.0,1,4860.24,2003-10-20,10,2003,Classic Cars,214,1,USA,Medium
+34,100.0,4,8014.82,2003-11-06,11,2003,Classic Cars,214,1,Australia,Large
+23,100.0,8,5372.57,2003-11-13,11,2003,Classic Cars,214,1,USA,Medium
+42,100.0,11,7290.36,2003-11-25,11,2003,Classic Cars,214,1,France,Large
+47,100.0,6,9064.89,2003-12-05,12,2003,Classic Cars,214,1,Canada,Large
+35,100.0,3,6075.3,2004-01-29,1,2004,Classic Cars,214,1,USA,Medium
+29,100.0,2,6463.23,2004-03-10,3,2004,Classic Cars,214,1,USA,Medium
+34,100.0,9,6120.34,2004-05-04,5,2004,Classic Cars,214,1,USA,Medium
+32,100.0,6,7680.64,2004-06-15,6,2004,Classic Cars,214,1,Japan,Large
+21,100.0,9,4905.39,2004-07-19,7,2004,Classic Cars,214,1,Australia,Medium
+34,100.0,2,8014.82,2004-08-17,8,2004,Classic Cars,214,1,Italy,Large
+37,100.0,11,7136.19,2004-09-08,9,2004,Classic Cars,214,1,Sweden,Large
+47,100.0,6,10172.7,2004-10-11,10,2004,Classic Cars,214,1,France,Large
+48,100.0,3,11623.7,2004-10-21,10,2004,Classic Cars,214,1,USA,Large
+40,100.0,1,6000.4,2004-11-04,11,2004,Classic Cars,214,1,USA,Medium
+26,100.0,3,3003.0,2004-11-18,11,2004,Classic Cars,214,1,USA,Medium
+30,100.0,1,3944.7,2004-11-29,11,2004,Classic Cars,214,1,Australia,Medium
+32,100.0,10,5691.84,2004-12-10,12,2004,Classic Cars,214,1,USA,Medium
+41,100.0,2,4514.92,2005-01-20,1,2005,Classic Cars,214,1,USA,Medium
+36,100.0,3,8254.8,2005-02-17,2,2005,Classic Cars,214,1,USA,Large
+24,100.0,4,2416.56,2005-03-09,3,2005,Classic Cars,214,1,Australia,Small
+23,100.0,9,4140.23,2005-05-01,5,2005,Classic Cars,214,1,Canada,Medium
+50,100.0,6,12001.0,2005-05-31,5,2005,Classic Cars,214,1,Spain,Large
+39,99.91,5,3896.49,2003-02-24,2,2003,Motorcycles,118,2,USA,Medium
+29,96.34,3,2793.86,2003-04-29,4,2003,Motorcycles,118,2,Australia,Small
+27,100.0,5,3307.77,2003-07-01,7,2003,Motorcycles,118,2,France,Medium
+37,100.0,9,5192.95,2003-08-25,8,2003,Motorcycles,118,2,USA,Medium
+37,100.0,17,5016.83,2003-10-10,10,2003,Motorcycles,118,2,USA,Medium
+27,100.0,4,3660.93,2003-10-28,10,2003,Motorcycles,118,2,USA,Medium
+42,100.0,12,4695.6,2003-11-11,11,2003,Motorcycles,118,2,France,Medium
+38,96.34,4,3660.92,2003-11-18,11,2003,Motorcycles,118,2,Norway,Medium
+24,100.0,5,3025.92,2003-12-01,12,2003,Motorcycles,118,2,USA,Medium
+23,100.0,2,3009.09,2004-01-12,1,2004,Motorcycles,118,2,Japan,Medium
+47,100.0,4,5422.39,2004-02-20,2,2004,Motorcycles,118,2,Australia,Medium
+22,100.0,1,2852.08,2004-04-03,4,2004,Motorcycles,118,2,USA,Small
+44,100.0,5,5756.52,2004-05-18,5,2004,Motorcycles,118,2,USA,Medium
+40,100.0,5,4472.0,2004-06-28,6,2004,Motorcycles,118,2,USA,Medium
+22,100.0,4,2904.44,2004-07-23,7,2004,Motorcycles,118,2,France,Small
+47,100.0,9,6484.59,2004-08-27,8,2004,Motorcycles,118,2,USA,Medium
+39,96.34,1,3757.26,2004-09-27,9,2004,Motorcycles,118,2,France,Medium
+34,100.0,2,4043.96,2004-10-15,10,2004,Motorcycles,118,2,USA,Medium
+45,100.0,4,5566.5,2004-11-02,11,2004,Motorcycles,118,2,USA,Medium
+20,100.0,2,3176.0,2004-11-15,11,2004,Motorcycles,118,2,USA,Medium
+40,68.92,4,2756.8,2004-11-23,11,2004,Motorcycles,118,2,Japan,Small
+26,51.15,8,1329.9,2004-12-17,12,2004,Motorcycles,118,2,Australia,Small
+39,100.0,5,5288.01,2005-02-02,2,2005,Motorcycles,118,2,Australia,Medium
+50,44.51,5,2225.5,2005-03-03,3,2005,Motorcycles,118,2,USA,Small
+45,100.0,1,5833.8,2005-04-07,4,2005,Motorcycles,118,2,France,Medium
+45,100.0,5,5887.35,2005-05-13,5,2005,Motorcycles,118,2,Spain,Medium
+27,100.0,4,6065.55,2003-02-24,2,2003,Motorcycles,193,3,USA,Medium
+46,100.0,2,9264.86,2003-04-29,4,2003,Motorcycles,193,3,Australia,Large
+31,100.0,4,7023.98,2003-07-01,7,2003,Motorcycles,193,3,France,Large
+33,100.0,8,5176.38,2003-08-25,8,2003,Motorcycles,193,3,USA,Medium
+22,100.0,16,4132.7,2003-10-10,10,2003,Motorcycles,193,3,USA,Medium
+20,100.0,3,4183.0,2003-10-28,10,2003,Motorcycles,193,3,USA,Medium
+41,100.0,11,8892.9,2003-11-11,11,2003,Motorcycles,193,3,France,Large
+45,100.0,3,8714.7,2003-11-18,11,2003,Motorcycles,193,3,Norway,Large
+49,100.0,4,8065.89,2003-12-01,12,2003,Motorcycles,193,3,USA,Large
+34,100.0,1,6123.4,2004-01-12,1,2004,Motorcycles,193,3,Japan,Medium
+49,100.0,3,9774.03,2004-02-20,2,2004,Motorcycles,193,3,Australia,Large
+39,100.0,9,7023.9,2004-04-05,4,2004,Motorcycles,193,3,USA,Large
+43,100.0,4,7078.23,2004-05-18,5,2004,Motorcycles,193,3,USA,Large
+41,100.0,4,8336.94,2004-06-28,6,2004,Motorcycles,193,3,USA,Large
+36,100.0,3,6901.92,2004-07-23,7,2004,Motorcycles,193,3,France,Medium
+27,100.0,8,5438.07,2004-08-27,8,2004,Motorcycles,193,3,USA,Medium
+29,100.0,11,6683.34,2004-09-30,9,2004,Motorcycles,193,3,Finland,Medium
+20,100.0,1,4570.4,2004-10-15,10,2004,Motorcycles,193,3,USA,Medium
+37,100.0,3,7667.14,2004-11-02,11,2004,Motorcycles,193,3,USA,Large
+26,100.0,3,5868.2,2004-11-15,11,2004,Motorcycles,193,3,USA,Medium
+39,76.67,3,2990.13,2004-11-23,11,2004,Motorcycles,193,3,Japan,Small
+22,100.0,4,3664.1,2005-01-05,1,2005,Motorcycles,193,3,USA,Medium
+22,100.0,1,3834.38,2005-02-02,2,2005,Motorcycles,193,3,Australia,Medium
+21,86.77,7,1822.17,2005-03-03,3,2005,Motorcycles,193,3,USA,Small
+66,100.0,9,11886.6,2005-04-08,4,2005,Motorcycles,193,3,UK,Large
+56,100.0,4,9218.16,2005-05-13,5,2005,Motorcycles,193,3,Spain,Large
+50,100.0,2,7208.0,2003-02-11,2,2003,Classic Cars,136,4,Denmark,Large
+46,100.0,11,5004.8,2003-04-28,4,2003,Classic Cars,136,4,Austria,Medium
+33,100.0,2,4398.24,2003-06-12,6,2003,Classic Cars,136,4,UK,Medium
+49,100.0,15,5597.76,2003-08-10,8,2003,Classic Cars,136,4,USA,Medium
+32,100.0,13,4526.08,2003-10-06,10,2003,Classic Cars,136,4,Finland,Medium
+44,100.0,9,5924.16,2003-10-23,10,2003,Classic Cars,136,4,Sweden,Medium
+24,100.0,12,3492.48,2003-11-08,11,2003,Classic Cars,136,4,France,Medium
+26,100.0,9,3854.24,2003-11-14,11,2003,Classic Cars,136,4,UK,Medium
+45,100.0,6,5324.4,2003-11-26,11,2003,Classic Cars,136,4,Spain,Medium
+39,100.0,8,5197.92,2004-01-09,1,2004,Classic Cars,136,4,USA,Medium
+49,100.0,12,5997.6,2004-02-19,2,2004,Classic Cars,136,4,USA,Medium
+20,100.0,3,2910.4,2004-05-07,5,2004,Classic Cars,136,4,USA,Small
+27,100.0,1,3378.24,2004-06-17,6,2004,Classic Cars,136,4,Canada,Medium
+30,100.0,4,3508.8,2004-07-21,7,2004,Classic Cars,136,4,Belgium,Medium
+25,100.0,6,2992.0,2004-08-20,8,2004,Classic Cars,136,4,Canada,Small
+24,100.0,1,3427.2,2004-09-10,9,2004,Classic Cars,136,4,USA,Medium
+22,100.0,9,2692.8,2004-10-14,10,2004,Classic Cars,136,4,USA,Small
+33,100.0,17,4128.96,2004-11-01,11,2004,Classic Cars,136,4,UK,Medium
+47,64.93,6,3051.71,2004-11-05,11,2004,Classic Cars,136,4,Norway,Medium
+25,48.05,8,1201.25,2004-11-21,11,2004,Classic Cars,136,4,USA,Small
+26,75.47,5,1962.22,2004-12-02,12,2004,Classic Cars,136,4,Spain,Small
+48,54.68,6,2624.64,2004-12-15,12,2004,Classic Cars,136,4,France,Small
+39,100.0,3,4046.25,2005-01-31,1,2005,Classic Cars,136,4,Finland,Medium
+34,100.0,4,4846.7,2005-02-23,2,2005,Classic Cars,136,4,USA,Medium
+32,100.0,2,3370.56,2005-03-17,3,2005,Classic Cars,136,4,France,Medium
+64,100.0,9,9661.44,2005-04-01,4,2005,Classic Cars,136,4,USA,Large
+19,100.0,3,2764.88,2005-05-06,5,2005,Classic Cars,136,4,USA,Small
+42,100.0,4,5398.26,2003-01-29,1,2003,Classic Cars,147,5,Norway,Medium
+31,100.0,8,4305.28,2003-04-01,4,2003,Classic Cars,147,5,France,Medium
+22,100.0,4,3347.74,2003-05-28,5,2003,Classic Cars,147,5,Spain,Medium
+26,100.0,4,3188.12,2003-07-24,7,2003,Classic Cars,147,5,USA,Medium
+20,100.0,1,3191.2,2003-09-19,9,2003,Classic Cars,147,5,Singapore,Medium
+21,100.0,2,3536.82,2003-10-21,10,2003,Classic Cars,147,5,Austria,Medium
+33,100.0,9,5362.83,2003-11-06,11,2003,Classic Cars,147,5,UK,Medium
+28,100.0,1,3433.36,2003-11-13,11,2003,Classic Cars,147,5,USA,Medium
+26,100.0,4,4263.74,2003-11-25,11,2003,Classic Cars,147,5,France,Medium
+31,100.0,15,4076.19,2003-12-09,12,2003,Classic Cars,147,5,USA,Medium
+48,100.0,4,7020.48,2004-02-04,2,2004,Classic Cars,147,5,Singapore,Large
+50,100.0,9,6426.5,2004-03-11,3,2004,Classic Cars,147,5,USA,Medium
+28,100.0,2,4591.72,2004-05-04,5,2004,Classic Cars,147,5,USA,Medium
+26,100.0,12,4033.38,2004-06-15,6,2004,Classic Cars,147,5,Singapore,Medium
+32,100.0,2,4302.08,2004-07-19,7,2004,Classic Cars,147,5,Australia,Medium
+44,100.0,9,7020.64,2004-08-19,8,2004,Classic Cars,147,5,USA,Large
+30,100.0,4,3855.9,2004-09-08,9,2004,Classic Cars,147,5,Sweden,Medium
+38,100.0,13,6680.78,2004-10-13,10,2004,Classic Cars,147,5,USA,Medium
+40,100.0,7,6678.0,2004-10-22,10,2004,Classic Cars,147,5,Canada,Medium
+46,61.99,8,2851.54,2004-11-04,11,2004,Classic Cars,147,5,USA,Small
+26,100.0,2,3188.12,2004-11-19,11,2004,Classic Cars,147,5,Sweden,Medium
+27,100.0,2,4428.0,2004-11-29,11,2004,Classic Cars,147,5,Australia,Medium
+43,100.0,9,5780.92,2004-12-10,12,2004,Classic Cars,147,5,USA,Medium
+35,65.63,4,2297.05,2005-01-20,1,2005,Classic Cars,147,5,Australia,Small
+37,100.0,6,6231.54,2005-02-17,2,2005,Classic Cars,147,5,USA,Medium
+37,46.9,7,1735.3,2005-03-09,3,2005,Classic Cars,147,5,Australia,Small
+27,100.0,2,4427.73,2005-05-01,5,2005,Classic Cars,147,5,Canada,Medium
+38,100.0,12,5894.94,2005-05-31,5,2005,Classic Cars,147,5,France,Medium
+33,100.0,6,5265.15,2003-03-03,3,2003,Classic Cars,194,6,Philippines,Medium
+42,100.0,10,7599.9,2003-05-08,5,2003,Classic Cars,194,6,France,Large
+42,100.0,7,8008.56,2003-07-02,7,2003,Classic Cars,194,6,USA,Large
+48,100.0,7,9245.76,2003-09-05,9,2003,Classic Cars,194,6,USA,Large
+41,100.0,2,8296.35,2003-10-10,10,2003,Classic Cars,194,6,USA,Large
+30,100.0,2,5019.9,2003-11-04,11,2003,Classic Cars,194,6,Australia,Medium
+27,100.0,14,5411.07,2003-11-12,11,2003,Classic Cars,194,6,Norway,Medium
+21,100.0,3,3840.9,2003-11-20,11,2003,Classic Cars,194,6,Germany,Medium
+20,100.0,8,3930.4,2003-12-02,12,2003,Classic Cars,194,6,Spain,Medium
+41,100.0,2,7498.9,2004-01-15,1,2004,Classic Cars,194,6,France,Large
+27,100.0,9,4517.91,2004-02-22,2,2004,Classic Cars,194,6,Switzerland,Medium
+28,100.0,3,5774.72,2004-04-09,4,2004,Classic Cars,194,6,Denmark,Medium
+24,100.0,13,3922.56,2004-06-01,6,2004,Classic Cars,194,6,UK,Medium
+44,100.0,14,9160.36,2004-07-06,7,2004,Classic Cars,194,6,Italy,Large
+50,100.0,3,9631.0,2004-08-02,8,2004,Classic Cars,194,6,USA,Large
+21,100.0,12,3432.24,2004-08-30,8,2004,Classic Cars,194,6,Switzerland,Medium
+33,100.0,5,5521.89,2003-10-04,10,2003,Classic Cars,194,6,Germany,Medium
+33,100.0,10,6934.62,2004-10-16,10,2004,Classic Cars,194,6,Germany,Medium
+31,100.0,3,6876.11,2004-11-03,11,2004,Classic Cars,194,6,Sweden,Medium
+41,71.47,5,2930.27,2004-11-15,11,2004,Classic Cars,194,6,USA,Small
+45,79.65,2,3584.25,2004-11-24,11,2004,Classic Cars,194,6,Austria,Medium
+33,85.39,3,2817.87,2005-01-06,1,2005,Classic Cars,194,6,Finland,Small
+45,76.0,7,3420.0,2005-02-03,2,2005,Classic Cars,194,6,France,Medium
+26,99.04,4,2575.04,2005-03-03,3,2005,Classic Cars,194,6,Sweden,Small
+12,100.0,13,1961.28,2005-05-17,5,2005,Classic Cars,194,6,Austria,Small
+41,100.0,15,8690.36,2003-02-11,2,2003,Classic Cars,207,7,Denmark,Large
+33,100.0,9,6034.38,2003-04-16,4,2003,Classic Cars,207,7,Singapore,Medium
+46,100.0,2,11279.2,2003-06-03,6,2003,Classic Cars,207,7,USA,Large
+33,100.0,12,8023.29,2003-08-08,8,2003,Classic Cars,207,7,USA,Large
+20,100.0,11,4904.0,2003-09-28,9,2003,Classic Cars,207,7,Spain,Medium
+44,100.0,3,8594.52,2003-10-22,10,2003,Classic Cars,207,7,Singapore,Large
+33,100.0,2,7474.5,2003-11-06,11,2003,Classic Cars,207,7,Italy,Large
+21,100.0,13,3883.74,2003-11-14,11,2003,Classic Cars,207,7,USA,Medium
+47,100.0,5,8887.7,2003-11-26,11,2003,Classic Cars,207,7,USA,Large
+46,100.0,13,8602.92,2004-01-02,1,2004,Classic Cars,207,7,France,Large
+32,100.0,2,7181.44,2004-02-12,2,2004,Classic Cars,207,7,Ireland,Large
+42,100.0,2,8378.58,2004-03-19,3,2004,Classic Cars,207,7,Spain,Large
+44,100.0,2,10606.2,2004-05-05,5,2004,Classic Cars,207,7,Finland,Large
+35,100.0,2,5818.4,2004-07-20,7,2004,Classic Cars,207,7,USA,Medium
+41,100.0,5,7071.27,2004-08-20,8,2004,Classic Cars,207,7,USA,Large
+46,100.0,8,8411.56,2004-09-09,9,2004,Classic Cars,207,7,Italy,Large
+31,100.0,13,6570.76,2004-10-14,10,2004,Classic Cars,207,7,UK,Medium
+38,100.0,5,7975.44,2004-10-22,10,2004,Classic Cars,207,7,Denmark,Large
+42,64.0,8,2688.0,2004-11-05,11,2004,Classic Cars,207,7,Norway,Small
+33,57.22,10,1888.26,2004-11-20,11,2004,Classic Cars,207,7,France,Small
+48,52.36,8,2513.28,2004-11-01,11,2004,Classic Cars,207,7,Spain,Small
+42,100.0,8,4764.48,2004-12-15,12,2004,Classic Cars,207,7,France,Medium
+32,100.0,6,3560.64,2005-01-23,1,2005,Classic Cars,207,7,USA,Medium
+34,100.0,10,3823.64,2005-02-17,2,2005,Classic Cars,207,7,USA,Medium
+33,69.12,1,2280.96,2005-03-17,3,2005,Classic Cars,207,7,France,Small
+36,100.0,2,8677.8,2005-05-05,5,2005,Classic Cars,207,7,USA,Large
+27,100.0,8,3394.98,2003-01-29,1,2003,Trucks and Buses,136,8,Norway,Medium
+21,100.0,2,3415.44,2003-03-26,3,2003,Trucks and Buses,136,8,USA,Medium
+21,100.0,8,2439.57,2003-05-28,5,2003,Trucks and Buses,136,8,Spain,Small
+38,100.0,8,4829.8,2003-07-24,7,2003,Trucks and Buses,136,8,USA,Medium
+30,100.0,5,4100.1,2003-09-19,9,2003,Trucks and Buses,136,8,Singapore,Medium
+49,100.0,6,6563.06,2003-10-21,10,2003,Trucks and Buses,136,8,Austria,Medium
+43,100.0,1,6817.22,2003-11-06,11,2003,Trucks and Buses,136,8,Australia,Medium
+41,100.0,5,6163.94,2003-11-13,11,2003,Trucks and Buses,136,8,USA,Medium
+38,100.0,8,4933.92,2003-11-25,11,2003,Trucks and Buses,136,8,France,Medium
+28,100.0,3,4056.36,2003-12-05,12,2003,Trucks and Buses,136,8,Canada,Medium
+43,100.0,1,5759.42,2004-02-02,2,2004,Trucks and Buses,136,8,France,Medium
+25,100.0,13,3451.0,2004-03-11,3,2004,Trucks and Buses,136,8,USA,Medium
+38,100.0,6,5920.4,2004-05-04,5,2004,Trucks and Buses,136,8,USA,Medium
+41,100.0,3,6668.24,2004-06-15,6,2004,Trucks and Buses,136,8,Japan,Medium
+28,100.0,6,4094.72,2004-07-19,7,2004,Trucks and Buses,136,8,Australia,Medium
+25,100.0,13,2938.5,2004-08-19,8,2004,Trucks and Buses,136,8,USA,Small
+41,100.0,8,6387.8,2004-09-08,9,2004,Trucks and Buses,136,8,Sweden,Medium
+39,100.0,3,6396.0,2004-10-11,10,2004,Trucks and Buses,136,8,France,Medium
+21,100.0,11,2669.1,2004-10-22,10,2004,Trucks and Buses,136,8,Canada,Small
+27,100.0,9,4784.13,2004-11-04,11,2004,Trucks and Buses,136,8,USA,Medium
+33,99.21,6,3273.93,2004-11-18,11,2004,Trucks and Buses,136,8,USA,Medium
+29,100.0,3,3586.43,2004-11-29,11,2004,Trucks and Buses,136,8,Australia,Medium
+49,100.0,8,5960.36,2004-12-10,12,2004,Trucks and Buses,136,8,USA,Medium
+49,100.0,8,8470.14,2005-01-20,1,2005,Trucks and Buses,136,8,Australia,Large
+20,100.0,1,2952.0,2005-02-17,2,2005,Trucks and Buses,136,8,USA,Small
+39,63.2,9,2464.8,2005-03-09,3,2005,Trucks and Buses,136,8,Australia,Small
+40,100.0,6,6232.0,2005-05-01,5,2005,Trucks and Buses,136,8,Canada,Medium
+49,100.0,3,7969.36,2005-05-31,5,2005,Trucks and Buses,136,8,Spain,Large
+21,100.0,1,3036.6,2003-02-24,2,2003,Motorcycles,150,9,USA,Medium
+50,100.0,4,8284.0,2003-05-07,5,2003,Motorcycles,150,9,France,Large
+20,100.0,1,2711.2,2003-07-01,7,2003,Motorcycles,150,9,France,Small
+49,100.0,5,8339.8,2003-08-25,8,2003,Motorcycles,150,9,USA,Large
+38,100.0,13,6238.84,2003-10-10,10,2003,Motorcycles,150,9,USA,Medium
+35,100.0,13,4639.25,2003-11-04,11,2003,Motorcycles,150,9,Australia,Medium
+40,100.0,8,6747.6,2003-11-11,11,2003,Motorcycles,150,9,France,Medium
+28,100.0,1,4512.48,2003-11-18,11,2003,Motorcycles,150,9,USA,Medium
+25,100.0,1,4029.0,2003-12-01,12,2003,Motorcycles,150,9,USA,Medium
+36,100.0,13,4771.8,2004-01-15,1,2004,Motorcycles,150,9,France,Medium
+43,100.0,6,6087.94,2004-02-21,2,2004,Motorcycles,150,9,France,Medium
+32,100.0,6,4193.28,2004-04-05,4,2004,Motorcycles,150,9,USA,Medium
+46,100.0,1,7552.28,2004-05-18,5,2004,Motorcycles,150,9,USA,Large
+48,100.0,1,6434.4,2004-06-28,6,2004,Motorcycles,150,9,USA,Medium
+43,100.0,14,5181.5,2004-08-02,8,2004,Motorcycles,150,9,USA,Medium
+49,100.0,5,6863.92,2004-08-27,8,2004,Motorcycles,150,9,USA,Medium
+24,100.0,8,4157.04,2004-09-30,9,2004,Motorcycles,150,9,Finland,Medium
+26,100.0,4,4660.24,2004-10-15,10,2004,Motorcycles,150,9,Norway,Medium
+30,100.0,9,4111.8,2004-11-03,11,2004,Motorcycles,150,9,USA,Medium
+24,100.0,6,3542.64,2004-11-15,11,2004,Motorcycles,150,9,USA,Medium
+55,100.0,8,8118.55,2004-11-24,11,2004,Motorcycles,150,9,Austria,Large
+22,100.0,1,3877.06,2005-01-05,1,2005,Motorcycles,150,9,USA,Medium
+49,78.92,13,3867.08,2005-02-03,2,2005,Motorcycles,150,9,France,Medium
+44,100.0,6,5951.44,2005-03-03,3,2005,Motorcycles,150,9,USA,Medium
+66,100.0,6,8648.64,2005-04-08,4,2005,Motorcycles,150,9,UK,Large
+21,100.0,1,3447.78,2005-05-13,5,2005,Motorcycles,150,9,Spain,Medium
+34,100.0,1,5958.5,2003-01-31,1,2003,Classic Cars,151,10,Spain,Medium
+43,100.0,10,5911.64,2003-04-16,4,2003,Classic Cars,151,10,Singapore,Medium
+46,100.0,3,7366.44,2003-06-03,6,2003,Classic Cars,151,10,USA,Large
+33,100.0,13,4985.64,2003-08-08,8,2003,Classic Cars,151,10,USA,Medium
+42,100.0,12,5393.64,2003-09-28,9,2003,Classic Cars,151,10,Spain,Medium
+34,100.0,4,4880.02,2003-10-22,10,2003,Classic Cars,151,10,Singapore,Medium
+47,100.0,3,8378.69,2003-11-06,11,2003,Classic Cars,151,10,Italy,Large
+33,100.0,14,4038.21,2003-11-14,11,2003,Classic Cars,151,10,USA,Medium
+24,100.0,6,3807.12,2003-11-26,11,2003,Classic Cars,151,10,USA,Medium
+26,100.0,14,3142.36,2004-01-02,1,2004,Classic Cars,151,10,France,Medium
+30,100.0,3,4713.6,2004-02-12,2,2004,Classic Cars,151,10,Ireland,Medium
+43,100.0,1,7016.31,2004-03-15,3,2004,Classic Cars,151,10,Germany,Large
+25,100.0,3,4381.25,2004-05-05,5,2004,Classic Cars,151,10,Finland,Medium
+27,100.0,3,4283.01,2004-07-20,7,2004,Classic Cars,151,10,USA,Medium
+27,100.0,6,4364.82,2004-08-20,8,2004,Classic Cars,151,10,USA,Medium
+24,100.0,9,4242.24,2004-09-09,9,2004,Classic Cars,151,10,Italy,Medium
+34,100.0,14,4982.7,2004-10-14,10,2004,Classic Cars,151,10,UK,Medium
+46,100.0,6,6393.54,2004-10-22,10,2004,Classic Cars,151,10,Denmark,Medium
+27,54.33,1,1466.91,2004-11-05,11,2004,Classic Cars,151,10,USA,Small
+33,100.0,11,4059.33,2004-11-20,11,2004,Classic Cars,151,10,France,Medium
+47,100.0,4,4801.52,2004-11-01,11,2004,Classic Cars,151,10,Spain,Medium
+49,55.34,5,2711.66,2004-12-10,12,2004,Classic Cars,151,10,Spain,Small
+40,100.0,4,5862.0,2005-01-26,1,2005,Classic Cars,151,10,Japan,Medium
+37,100.0,11,4071.85,2005-02-17,2,2005,Classic Cars,151,10,USA,Medium
+47,100.0,3,8236.75,2005-05-05,5,2005,Classic Cars,151,10,USA,Large
+45,100.0,4,6130.35,2003-03-03,3,2003,Classic Cars,117,11,Philippines,Medium
+37,99.82,8,3693.34,2003-05-08,5,2003,Classic Cars,117,11,France,Medium
+48,100.0,5,6031.68,2003-07-02,7,2003,Classic Cars,117,11,USA,Medium
+31,100.0,5,3494.94,2003-09-05,9,2003,Classic Cars,117,11,USA,Medium
+46,100.0,6,5294.14,2003-10-11,10,2003,Classic Cars,117,11,USA,Medium
+47,100.0,4,5464.69,2003-11-04,11,2003,Classic Cars,117,11,Austria,Medium
+28,100.0,12,2860.76,2003-11-12,11,2003,Classic Cars,117,11,Norway,Small
+40,100.0,1,5590.0,2003-11-20,11,2003,Classic Cars,117,11,Germany,Medium
+20,100.0,6,2254.8,2003-12-02,12,2003,Classic Cars,117,11,Spain,Small
+39,100.0,16,4946.76,2004-01-16,1,2004,Classic Cars,117,11,Spain,Medium
+25,99.82,7,2495.5,2004-02-22,2,2004,Classic Cars,117,11,Switzerland,Small
+29,100.0,1,3167.38,2004-04-09,4,2004,Classic Cars,117,11,Denmark,Medium
+22,100.0,11,2402.84,2004-06-01,6,2004,Classic Cars,117,11,UK,Small
+22,100.0,12,2454.54,2004-07-06,7,2004,Classic Cars,117,11,Italy,Small
+47,100.0,1,5464.69,2004-08-02,8,2004,Classic Cars,117,11,USA,Medium
+45,100.0,10,4756.5,2004-08-30,8,2004,Classic Cars,117,11,Switzerland,Medium
+29,100.0,3,3984.6,2003-10-04,10,2003,Classic Cars,117,11,Germany,Medium
+24,100.0,8,3100.32,2004-10-16,10,2004,Classic Cars,117,11,Germany,Medium
+35,100.0,1,4850.3,2004-11-03,11,2004,Classic Cars,117,11,Sweden,Medium
+46,83.63,13,3846.98,2004-11-15,11,2004,Classic Cars,117,11,USA,Medium
+44,95.93,1,4220.92,2004-11-24,11,2004,Classic Cars,117,11,Austria,Medium
+34,96.73,4,3288.82,2005-01-06,1,2005,Classic Cars,117,11,Finland,Medium
+35,100.0,1,3987.2,2005-02-08,2,2005,Classic Cars,117,11,USA,Medium
+25,72.38,6,1809.5,2005-03-03,3,2005,Classic Cars,117,11,Sweden,Small
+10,100.0,11,1092.2,2005-05-17,5,2005,Classic Cars,117,11,Austria,Small
+29,100.0,14,4566.05,2003-02-11,2,2003,Classic Cars,173,12,Denmark,Medium
+39,100.0,8,5938.14,2003-04-16,4,2003,Classic Cars,173,12,Singapore,Medium
+42,100.0,1,8138.76,2003-06-03,6,2003,Classic Cars,173,12,USA,Large
+46,100.0,11,9470.94,2003-08-08,8,2003,Classic Cars,173,12,USA,Large
+49,100.0,10,7036.89,2003-09-28,9,2003,Classic Cars,173,12,Spain,Large
+27,100.0,2,5559.03,2003-10-22,10,2003,Classic Cars,173,12,Singapore,Medium
+50,100.0,1,7872.5,2003-11-06,11,2003,Classic Cars,173,12,Italy,Large
+43,100.0,12,7886.2,2003-11-14,11,2003,Classic Cars,173,12,USA,Large
+38,100.0,4,7232.16,2003-11-26,11,2003,Classic Cars,173,12,USA,Large
+20,100.0,12,3114.4,2004-01-02,1,2004,Classic Cars,173,12,France,Medium
+27,100.0,1,5045.22,2004-02-12,2,2004,Classic Cars,173,12,Ireland,Medium
+49,100.0,1,6952.12,2004-03-19,3,2004,Classic Cars,173,12,Spain,Medium
+27,100.0,1,4157.73,2004-05-05,5,2004,Classic Cars,173,12,Finland,Medium
+39,100.0,1,7962.24,2004-07-20,7,2004,Classic Cars,173,12,USA,Large
+24,100.0,4,3778.8,2004-08-20,8,2004,Classic Cars,173,12,USA,Medium
+45,100.0,7,8253.0,2004-09-09,9,2004,Classic Cars,173,12,Italy,Large
+20,100.0,12,3633.4,2004-10-14,10,2004,Classic Cars,173,12,UK,Medium
+36,100.0,4,6913.8,2004-10-22,10,2004,Classic Cars,173,12,Denmark,Medium
+24,100.0,1,2583.6,2004-11-05,11,2004,Classic Cars,173,12,Norway,Small
+49,63.38,1,3105.62,2004-11-20,11,2004,Classic Cars,173,12,France,Medium
+26,100.0,10,4408.56,2004-12-01,12,2004,Classic Cars,173,12,USA,Medium
+49,62.09,5,3042.41,2004-12-15,12,2004,Classic Cars,173,12,France,Medium
+34,100.0,1,5941.5,2005-01-26,1,2005,Classic Cars,173,12,Japan,Medium
+34,95.35,12,3241.9,2005-02-17,2,2005,Classic Cars,173,12,USA,Medium
+33,100.0,3,6109.29,2005-03-23,3,2005,Classic Cars,173,12,USA,Medium
+22,100.0,1,3387.78,2005-05-05,5,2005,Classic Cars,173,12,USA,Medium
+39,89.38,7,3485.82,2003-03-03,3,2003,Classic Cars,79,13,Philippines,Medium
+32,63.84,11,2042.88,2003-05-08,5,2003,Classic Cars,79,13,France,Small
+24,75.01,8,1800.24,2003-07-02,7,2003,Classic Cars,79,13,USA,Small
+21,63.84,8,1340.64,2003-09-05,9,2003,Classic Cars,79,13,USA,Small
+24,73.42,3,1762.08,2003-10-10,10,2003,Classic Cars,79,13,USA,Small
+36,63.84,3,2298.24,2003-11-04,11,2003,Classic Cars,79,13,Australia,Small
+20,81.4,15,1628.0,2003-11-12,11,2003,Classic Cars,79,13,Norway,Small
+30,64.64,4,1939.2,2003-11-20,11,2003,Classic Cars,79,13,Germany,Small
+44,82.99,9,3651.56,2003-12-02,12,2003,Classic Cars,79,13,Spain,Medium
+28,92.57,3,2591.96,2004-01-15,1,2004,Classic Cars,79,13,France,Small
+37,77.41,10,2864.17,2004-02-22,2,2004,Classic Cars,79,13,Switzerland,Small
+20,74.21,4,1484.2,2004-04-09,4,2004,Classic Cars,79,13,Denmark,Small
+25,90.17,14,2254.25,2004-06-01,6,2004,Classic Cars,79,13,UK,Small
+35,76.61,15,2681.35,2004-07-06,7,2004,Classic Cars,79,13,Italy,Small
+38,83.79,4,3184.02,2004-08-02,8,2004,Classic Cars,79,13,USA,Medium
+41,69.43,13,2846.63,2004-08-30,8,2004,Classic Cars,79,13,Switzerland,Small
+22,76.61,6,1685.42,2003-10-04,10,2003,Classic Cars,79,13,Germany,Small
+49,81.4,11,3988.6,2004-10-16,10,2004,Classic Cars,79,13,Germany,Medium
+38,73.42,4,2789.96,2004-11-03,11,2004,Classic Cars,79,13,Sweden,Small
+33,100.0,14,3607.56,2004-11-15,11,2004,Classic Cars,79,13,USA,Medium
+36,93.56,10,3368.16,2004-11-24,11,2004,Classic Cars,79,13,Austria,Medium
+34,81.62,5,2775.08,2005-01-06,1,2005,Classic Cars,79,13,Finland,Small
+24,67.83,5,1627.92,2005-02-09,2,2005,Classic Cars,79,13,Finland,Small
+36,70.26,7,2529.36,2005-03-03,3,2005,Classic Cars,79,13,Sweden,Small
+34,90.17,14,3065.78,2005-05-17,5,2005,Classic Cars,79,13,Austria,Medium
+41,100.0,9,4615.78,2003-01-31,1,2003,Trucks and Buses,118,14,Spain,Medium
+46,100.0,5,5723.78,2003-04-04,4,2003,Trucks and Buses,118,14,USA,Medium
+24,100.0,11,2559.6,2003-06-03,6,2003,Trucks and Buses,118,14,USA,Small
+21,100.0,5,2140.11,2003-08-01,8,2003,Trucks and Buses,118,14,Finland,Small
+24,100.0,3,3327.6,2003-09-21,9,2003,Trucks and Buses,118,14,Finland,Medium
+48,100.0,12,6825.6,2003-10-22,10,2003,Trucks and Buses,118,14,Singapore,Medium
+26,100.0,1,3543.28,2003-11-06,11,2003,Trucks and Buses,118,14,UK,Medium
+37,100.0,6,4516.22,2003-11-14,11,2003,Trucks and Buses,118,14,Spain,Medium
+49,100.0,6,6445.46,2003-11-25,11,2003,Trucks and Buses,118,14,USA,Medium
+34,99.54,7,3384.36,2003-12-09,12,2003,Trucks and Buses,118,14,USA,Medium
+48,100.0,2,4891.68,2004-02-10,2,2004,Trucks and Buses,118,14,USA,Medium
+36,100.0,1,4521.96,2004-03-11,3,2004,Trucks and Buses,118,14,USA,Medium
+46,100.0,5,5069.66,2004-05-05,5,2004,Trucks and Buses,118,14,Spain,Medium
+46,100.0,4,6541.2,2004-06-15,6,2004,Trucks and Buses,118,14,Singapore,Medium
+31,97.17,5,3012.27,2004-07-20,7,2004,Trucks and Buses,118,14,USA,Medium
+41,100.0,1,5247.18,2004-08-19,8,2004,Trucks and Buses,118,14,USA,Medium
+21,100.0,8,2214.87,2004-09-08,9,2004,Trucks and Buses,118,14,USA,Small
+38,100.0,5,4773.18,2004-10-13,10,2004,Trucks and Buses,118,14,USA,Medium
+45,100.0,14,6185.7,2004-10-22,10,2004,Trucks and Buses,118,14,Denmark,Medium
+26,58.38,7,1517.88,2004-11-05,11,2004,Trucks and Buses,118,14,USA,Small
+38,100.0,3,6372.6,2004-11-20,11,2004,Trucks and Buses,118,14,France,Medium
+48,100.0,9,5232.96,2004-12-01,12,2004,Trucks and Buses,118,14,USA,Medium
+42,64.16,9,2694.72,2004-12-10,12,2004,Trucks and Buses,118,14,Spain,Small
+49,35.71,4,1749.79,2005-01-23,1,2005,Trucks and Buses,118,14,USA,Small
+32,66.58,13,2130.56,2005-02-17,2,2005,Trucks and Buses,118,14,USA,Small
+54,100.0,5,5951.34,2005-05-03,5,2005,Trucks and Buses,118,14,Spain,Medium
+33,100.0,4,4692.6,2005-05-31,5,2005,Trucks and Buses,118,14,France,Medium
+36,100.0,3,3731.04,2003-03-03,3,2003,Classic Cars,115,15,Philippines,Medium
+20,100.0,7,2142.0,2003-05-08,5,2003,Classic Cars,115,15,France,Small
+29,97.89,4,2838.81,2003-07-02,7,2003,Classic Cars,115,15,USA,Small
+33,97.89,4,3230.37,2003-09-05,9,2003,Classic Cars,115,15,USA,Medium
+50,100.0,5,5182.0,2003-10-11,10,2003,Classic Cars,115,15,USA,Medium
+41,100.0,3,4391.1,2003-11-04,11,2003,Classic Cars,115,15,Austria,Medium
+36,100.0,11,4477.32,2003-11-12,11,2003,Classic Cars,115,15,Norway,Medium
+27,100.0,16,3544.56,2003-11-20,11,2003,Classic Cars,115,15,USA,Medium
+47,100.0,5,5195.85,2003-12-02,12,2003,Classic Cars,115,15,Spain,Medium
+33,100.0,15,4180.44,2004-01-16,1,2004,Classic Cars,115,15,Spain,Medium
+21,100.0,6,2684.43,2004-02-22,2,2004,Classic Cars,115,15,Switzerland,Small
+21,93.28,5,1958.88,2004-04-12,4,2004,Classic Cars,115,15,Finland,Small
+41,100.0,10,4910.57,2004-06-01,6,2004,Classic Cars,115,15,UK,Medium
+40,100.0,11,4468.4,2004-07-06,7,2004,Classic Cars,115,15,Italy,Medium
+28,100.0,1,3127.88,2004-08-04,8,2004,Classic Cars,115,15,Singapore,Medium
+23,100.0,9,2675.13,2004-08-30,8,2004,Classic Cars,115,15,Switzerland,Small
+23,100.0,2,2807.61,2003-10-04,10,2003,Classic Cars,115,15,Germany,Small
+25,100.0,7,2504.75,2004-10-16,10,2004,Classic Cars,115,15,Germany,Small
+24,100.0,15,2984.88,2004-11-04,11,2004,Classic Cars,115,15,USA,Small
+39,64.74,15,2524.86,2004-11-15,11,2004,Classic Cars,115,15,USA,Small
+55,75.2,7,4136.0,2004-11-24,11,2004,Classic Cars,115,15,Austria,Medium
+46,88.45,6,4068.7,2005-01-06,1,2005,Classic Cars,115,15,Finland,Medium
+50,100.0,1,5182.0,2005-02-09,2,2005,Classic Cars,115,15,Finland,Medium
+47,100.0,8,5243.79,2005-03-03,3,2005,Classic Cars,115,15,Sweden,Medium
+97,93.28,5,9048.16,2005-04-14,4,2005,Classic Cars,115,15,France,Large
+32,100.0,10,3832.64,2005-05-17,5,2005,Classic Cars,115,15,Austria,Medium
+35,100.0,10,3920.0,2003-01-29,1,2003,Trucks and Buses,116,16,Norway,Medium
+49,100.0,4,4916.66,2003-03-26,3,2003,Trucks and Buses,116,16,USA,Medium
+38,100.0,10,3857.0,2003-05-28,5,2003,Trucks and Buses,116,16,Spain,Medium
+32,100.0,10,4181.44,2003-07-24,7,2003,Trucks and Buses,116,16,USA,Medium
+34,100.0,7,4641.0,2003-09-19,9,2003,Trucks and Buses,116,16,Singapore,Medium
+36,99.17,8,3570.12,2003-10-21,10,2003,Trucks and Buses,116,16,Austria,Medium
+48,93.34,3,4480.32,2003-11-06,11,2003,Trucks and Buses,116,16,Australia,Medium
+21,96.84,7,2033.64,2003-11-13,11,2003,Trucks and Buses,116,16,USA,Small
+21,93.34,10,1960.14,2003-11-25,11,2003,Trucks and Buses,116,16,France,Small
+34,100.0,5,3966.78,2003-12-05,12,2003,Trucks and Buses,116,16,Canada,Medium
+46,100.0,2,5152.0,2004-01-29,1,2004,Trucks and Buses,116,16,USA,Medium
+32,100.0,1,3360.0,2004-03-10,3,2004,Trucks and Buses,116,16,USA,Medium
+29,100.0,8,3451.0,2004-05-04,5,2004,Trucks and Buses,116,16,USA,Medium
+41,100.0,5,5453.0,2004-06-15,6,2004,Trucks and Buses,116,16,Japan,Medium
+43,96.84,8,4164.12,2004-07-19,7,2004,Trucks and Buses,116,16,Australia,Medium
+24,100.0,1,2800.08,2004-08-17,8,2004,Trucks and Buses,116,16,Italy,Small
+41,100.0,10,4687.94,2004-09-08,9,2004,Trucks and Buses,116,16,Sweden,Medium
+46,98.0,5,4508.0,2004-10-11,10,2004,Trucks and Buses,116,16,France,Medium
+32,100.0,2,4181.44,2004-10-21,10,2004,Trucks and Buses,116,16,USA,Medium
+22,100.0,10,2251.04,2004-11-04,11,2004,Trucks and Buses,116,16,USA,Small
+29,40.25,7,1167.25,2004-11-18,11,2004,Trucks and Buses,116,16,USA,Small
+42,49.6,5,2083.2,2004-11-29,11,2004,Trucks and Buses,116,16,Australia,Small
+39,98.0,1,3822.0,2004-12-10,12,2004,Trucks and Buses,116,16,USA,Medium
+27,100.0,1,3911.49,2005-01-20,1,2005,Trucks and Buses,116,16,Australia,Medium
+48,98.0,2,4704.0,2005-02-17,2,2005,Trucks and Buses,116,16,USA,Medium
+29,85.1,10,2467.9,2005-03-09,3,2005,Trucks and Buses,116,16,Australia,Small
+27,100.0,8,3213.0,2005-05-01,5,2005,Trucks and Buses,116,16,Canada,Medium
+54,100.0,5,7182.0,2005-05-31,5,2005,Trucks and Buses,116,16,Spain,Large
+26,100.0,4,4379.18,2003-03-10,3,2003,Classic Cars,141,17,USA,Medium
+34,100.0,2,5004.8,2003-05-08,5,2003,Classic Cars,141,17,France,Medium
+25,100.0,2,3644.75,2003-07-04,7,2003,Classic Cars,141,17,France,Medium
+23,100.0,13,2702.04,2003-09-11,9,2003,Classic Cars,141,17,Australia,Small
+28,100.0,12,3764.88,2003-10-17,10,2003,Classic Cars,141,17,Denmark,Medium
+35,100.0,2,4508.0,2003-11-05,11,2003,Classic Cars,141,17,Canada,Medium
+44,100.0,6,5418.16,2003-11-12,11,2003,Classic Cars,141,17,Norway,Medium
+22,100.0,11,3300.66,2003-11-20,11,2003,Classic Cars,141,17,USA,Medium
+42,100.0,17,6182.4,2003-12-02,12,2003,Classic Cars,141,17,USA,Medium
+29,100.0,10,4186.73,2004-01-16,1,2004,Classic Cars,141,17,Spain,Medium
+32,100.0,1,4529.28,2004-02-22,2,2004,Classic Cars,141,17,Switzerland,Medium
+41,100.0,3,5628.89,2004-04-13,4,2004,Classic Cars,141,17,Japan,Medium
+26,100.0,5,3054.48,2004-06-01,6,2004,Classic Cars,141,17,UK,Medium
+21,100.0,6,2526.51,2004-07-06,7,2004,Classic Cars,141,17,Italy,Small
+34,100.0,6,4667.86,2004-08-06,8,2004,Classic Cars,141,17,USA,Medium
+41,100.0,4,6499.32,2004-08-30,8,2004,Classic Cars,141,17,Switzerland,Medium
+37,100.0,8,5917.78,2003-10-05,10,2003,Classic Cars,141,17,Norway,Medium
+37,100.0,2,6231.91,2004-10-16,10,2004,Classic Cars,141,17,Germany,Medium
+41,100.0,10,5803.14,2004-11-04,11,2004,Classic Cars,141,17,USA,Medium
+46,100.0,6,6434.02,2004-11-17,11,2004,Classic Cars,141,17,USA,Medium
+40,100.0,2,6454.4,2004-11-24,11,2004,Classic Cars,141,17,Australia,Medium
+43,97.6,8,4196.8,2004-12-09,12,2004,Classic Cars,141,17,France,Medium
+30,87.06,1,2611.8,2005-01-07,1,2005,Classic Cars,141,17,USA,Small
+35,100.0,2,5895.05,2005-02-09,2,2005,Classic Cars,141,17,Finland,Medium
+36,93.77,14,3375.72,2005-03-04,3,2005,Classic Cars,141,17,USA,Medium
+61,100.0,3,8374.69,2005-04-15,4,2005,Classic Cars,141,17,Denmark,Large
+38,100.0,5,4464.24,2005-05-17,5,2005,Classic Cars,141,17,Austria,Medium
+39,100.0,2,4808.31,2003-01-10,1,2003,Vintage Cars,102,18,USA,Medium
+33,99.66,6,3288.78,2003-03-25,3,2003,Vintage Cars,102,18,USA,Medium
+32,100.0,1,3254.72,2003-05-21,5,2003,Vintage Cars,102,18,Australia,Medium
+31,100.0,7,3184.94,2003-07-16,7,2003,Vintage Cars,102,18,Australia,Medium
+50,100.0,4,5907.5,2003-09-12,9,2003,Vintage Cars,102,18,USA,Medium
+48,91.44,2,4389.12,2003-10-18,10,2003,Vintage Cars,102,18,USA,Medium
+43,100.0,6,5036.16,2003-11-05,11,2003,Vintage Cars,102,18,Italy,Medium
+25,87.33,3,2183.25,2003-11-12,11,2003,Vintage Cars,102,18,USA,Small
+28,100.0,7,3106.88,2003-11-21,11,2003,Vintage Cars,102,18,Australia,Medium
+36,100.0,2,3735.72,2003-12-03,12,2003,Vintage Cars,102,18,Spain,Medium
+27,89.38,10,2413.26,2004-01-29,1,2004,Vintage Cars,102,18,USA,Small
+25,100.0,3,2953.75,2004-03-02,3,2004,Vintage Cars,102,18,France,Small
+40,100.0,7,4684.8,2004-04-29,4,2004,Vintage Cars,102,18,Spain,Medium
+34,95.55,2,3248.7,2004-06-08,6,2004,Vintage Cars,102,18,Denmark,Medium
+50,100.0,9,5239.5,2004-08-17,8,2004,Vintage Cars,102,18,Italy,Medium
+38,100.0,2,4567.98,2004-09-03,9,2004,Vintage Cars,102,18,Norway,Medium
+37,95.55,13,3535.35,2004-10-11,10,2004,Vintage Cars,102,18,France,Medium
+43,89.38,10,3843.34,2004-10-21,10,2004,Vintage Cars,102,18,USA,Medium
+43,86.3,14,3710.9,2004-11-04,11,2004,Vintage Cars,102,18,USA,Medium
+46,95.13,15,4375.98,2004-11-17,11,2004,Vintage Cars,102,18,UK,Medium
+42,36.11,3,1516.62,2004-11-29,11,2004,Vintage Cars,102,18,USA,Small
+50,50.18,9,2509.0,2004-12-09,12,2004,Vintage Cars,102,18,France,Small
+44,100.0,8,9240.44,2005-01-20,1,2005,Vintage Cars,102,18,USA,Large
+27,93.16,13,2515.32,2005-02-16,2,2005,Vintage Cars,102,18,Spain,Small
+35,100.0,2,5548.9,2005-03-09,3,2005,Vintage Cars,102,18,Australia,Medium
+51,95.55,2,4873.05,2005-05-30,5,2005,Vintage Cars,102,18,USA,Medium
+41,50.14,1,2055.74,2003-01-10,1,2003,Vintage Cars,53,19,USA,Small
+48,49.06,5,2354.88,2003-03-25,3,2003,Vintage Cars,53,19,USA,Small
+42,54.99,17,2309.58,2003-05-28,5,2003,Vintage Cars,53,19,Spain,Small
+49,43.13,6,2113.37,2003-07-16,7,2003,Vintage Cars,53,19,Australia,Small
+30,58.22,3,1746.6,2003-09-12,9,2003,Vintage Cars,53,19,USA,Small
+45,51.21,1,2304.45,2003-10-18,10,2003,Vintage Cars,53,19,USA,Small
+48,44.21,5,2122.08,2003-11-05,11,2003,Vintage Cars,53,19,Italy,Small
+32,54.45,2,1742.4,2003-11-12,11,2003,Vintage Cars,53,19,USA,Small
+46,53.37,6,2455.02,2003-11-21,11,2003,Vintage Cars,53,19,Australia,Small
+48,63.61,1,3053.28,2003-12-03,12,2003,Vintage Cars,53,19,Spain,Medium
+33,43.13,9,1423.29,2004-01-29,1,2004,Vintage Cars,53,19,USA,Small
+31,48.52,2,1504.12,2004-03-02,3,2004,Vintage Cars,53,19,France,Small
+20,58.22,6,1164.4,2004-04-29,4,2004,Vintage Cars,53,19,Spain,Small
+29,51.75,1,1500.75,2004-06-08,6,2004,Vintage Cars,53,19,Denmark,Small
+27,57.68,8,1557.36,2004-08-17,8,2004,Vintage Cars,53,19,Italy,Small
+24,56.07,1,1345.68,2004-09-03,9,2004,Vintage Cars,53,19,Norway,Small
+37,48.52,12,1795.24,2004-10-11,10,2004,Vintage Cars,53,19,France,Small
+25,44.21,9,1105.25,2004-10-21,10,2004,Vintage Cars,53,19,USA,Small
+41,57.68,5,2364.88,2004-11-04,11,2004,Vintage Cars,53,19,USA,Small
+27,89.89,16,2427.03,2004-11-17,11,2004,Vintage Cars,53,19,UK,Small
+21,58.95,7,1237.95,2004-11-29,11,2004,Vintage Cars,53,19,Australia,Small
+22,72.41,6,1593.02,2004-12-09,12,2004,Vintage Cars,53,19,France,Small
+32,98.63,7,3156.16,2005-01-20,1,2005,Vintage Cars,53,19,USA,Medium
+25,52.83,9,1320.75,2005-02-17,2,2005,Vintage Cars,53,19,USA,Small
+42,100.0,3,4998.0,2005-03-09,3,2005,Vintage Cars,53,19,Australia,Medium
+25,51.75,1,1293.75,2005-05-30,5,2005,Vintage Cars,53,19,USA,Small
+37,100.0,16,5433.08,2003-03-18,3,2003,Classic Cars,124,20,UK,Medium
+26,100.0,2,3073.72,2003-05-20,5,2003,Classic Cars,124,20,France,Medium
+44,99.55,2,4380.2,2003-07-10,7,2003,Classic Cars,124,20,France,Medium
+47,100.0,9,5848.68,2003-09-11,9,2003,Classic Cars,124,20,Australia,Medium
+43,100.0,8,6153.73,2003-10-17,10,2003,Classic Cars,124,20,Denmark,Medium
+42,100.0,6,4965.24,2003-11-05,11,2003,Classic Cars,124,20,USA,Medium
+42,100.0,2,5435.64,2003-11-12,11,2003,Classic Cars,124,20,Norway,Medium
+29,100.0,7,4258.36,2003-11-20,11,2003,Classic Cars,124,20,USA,Medium
+40,100.0,13,4032.0,2003-12-02,12,2003,Classic Cars,124,20,USA,Medium
+38,100.0,6,4492.36,2004-01-16,1,2004,Classic Cars,124,20,Spain,Medium
+38,100.0,4,4161.38,2004-02-26,2,2004,Classic Cars,124,20,USA,Medium
+21,100.0,11,2508.66,2004-04-13,4,2004,Classic Cars,124,20,France,Small
+24,100.0,1,3374.88,2004-06-01,6,2004,Classic Cars,124,20,UK,Medium
+36,100.0,2,5196.6,2004-07-06,7,2004,Classic Cars,124,20,Italy,Medium
+23,100.0,2,2604.52,2004-08-06,8,2004,Classic Cars,124,20,USA,Small
+20,100.0,14,2936.8,2004-09-01,9,2004,Classic Cars,124,20,Singapore,Small
+32,100.0,4,3424.64,2003-10-05,10,2003,Classic Cars,124,20,Norway,Medium
+29,100.0,9,2923.2,2004-10-16,10,2004,Classic Cars,124,20,Spain,Small
+44,100.0,6,4489.76,2004-11-04,11,2004,Classic Cars,124,20,USA,Medium
+44,100.0,14,4849.24,2004-11-17,11,2004,Classic Cars,124,20,USA,Medium
+36,100.0,4,5848.92,2004-11-24,11,2004,Classic Cars,124,20,France,Medium
+49,56.3,1,2758.7,2005-01-12,1,2005,Classic Cars,124,20,USA,Small
+34,42.64,5,1449.76,2005-02-10,2,2005,Classic Cars,124,20,Spain,Small
+59,100.0,11,7048.14,2005-04-22,4,2005,Classic Cars,124,20,USA,Large
+37,100.0,1,5202.94,2005-05-17,5,2005,Classic Cars,124,20,Austria,Medium
+36,100.0,12,5279.4,2003-02-17,2,2003,Planes,157,21,Italy,Medium
+43,100.0,3,6916.12,2003-04-28,4,2003,Planes,157,21,Austria,Medium
+21,100.0,4,2781.66,2003-06-16,6,2003,Planes,157,21,USA,Small
+32,100.0,7,5248.0,2003-08-10,8,2003,Planes,157,21,USA,Medium
+38,100.0,5,6531.44,2003-10-06,10,2003,Planes,157,21,Finland,Medium
+43,100.0,1,5763.72,2003-10-23,10,2003,Planes,157,21,Sweden,Medium
+42,100.0,4,6490.68,2003-11-08,11,2003,Planes,157,21,France,Medium
+32,100.0,1,6004.8,2003-11-14,11,2003,Planes,157,21,UK,Medium
+42,100.0,4,7483.98,2003-11-27,11,2003,Planes,157,21,Philippines,Large
+31,100.0,17,5719.5,2004-01-12,1,2004,Planes,157,21,Japan,Medium
+49,100.0,4,6954.08,2004-02-19,2,2004,Planes,157,21,USA,Medium
+45,100.0,14,8160.3,2004-05-11,5,2004,Planes,157,21,USA,Large
+49,100.0,9,6567.96,2004-06-24,6,2004,Planes,157,21,Spain,Medium
+41,100.0,1,6724.0,2004-07-21,7,2004,Planes,157,21,USA,Medium
+45,100.0,11,5747.85,2004-08-21,8,2004,Planes,157,21,Norway,Medium
+36,100.0,7,5676.84,2004-09-15,9,2004,Planes,157,21,Germany,Medium
+39,100.0,1,7379.97,2004-10-14,10,2004,Planes,157,21,USA,Large
+27,100.0,9,3704.13,2004-11-01,11,2004,Planes,157,21,UK,Medium
+25,100.0,6,2804.75,2004-11-10,11,2004,Planes,157,21,Denmark,Small
+41,100.0,1,5624.79,2004-11-22,11,2004,Planes,157,21,Belgium,Medium
+39,99.52,1,3881.28,2004-12-03,12,2004,Planes,157,21,UK,Medium
+28,57.55,4,1611.4,2005-01-31,1,2005,Planes,157,21,Finland,Small
+25,54.57,7,1364.25,2005-03-01,3,2005,Planes,157,21,Spain,Small
+33,100.0,11,4215.09,2005-03-30,3,2005,Planes,157,21,France,Medium
+34,100.0,1,6433.82,2005-04-01,4,2005,Planes,157,21,USA,Medium
+24,100.0,14,4352.16,2005-05-10,5,2005,Planes,157,21,Italy,Medium
+30,100.0,3,5151.0,2003-01-06,1,2003,Vintage Cars,170,22,USA,Medium
+42,100.0,7,6069.0,2003-03-18,3,2003,Vintage Cars,170,22,UK,Medium
+21,100.0,6,2856.0,2003-05-21,5,2003,Vintage Cars,170,22,USA,Small
+34,100.0,11,5375.4,2003-09-12,9,2003,Vintage Cars,170,22,USA,Medium
+29,100.0,9,5176.5,2003-10-18,10,2003,Vintage Cars,170,22,USA,Medium
+24,100.0,13,3508.8,2003-11-05,11,2003,Vintage Cars,170,22,Italy,Medium
+44,100.0,10,7554.8,2003-11-12,11,2003,Vintage Cars,170,22,USA,Large
+21,100.0,14,3141.6,2003-11-21,11,2003,Vintage Cars,170,22,Australia,Medium
+33,100.0,4,5890.5,2003-12-02,12,2003,Vintage Cars,170,22,USA,Medium
+30,100.0,7,5967.0,2004-01-26,1,2004,Vintage Cars,170,22,Spain,Medium
+26,100.0,10,3712.8,2004-03-02,3,2004,Vintage Cars,170,22,France,Medium
+41,100.0,2,7597.3,2004-04-13,4,2004,Vintage Cars,170,22,France,Large
+26,100.0,16,3668.6,2004-08-17,8,2004,Vintage Cars,170,22,Italy,Medium
+32,100.0,5,5875.2,2004-09-01,9,2004,Vintage Cars,170,22,Singapore,Medium
+43,100.0,1,7310.0,2003-10-06,10,2003,Vintage Cars,170,22,UK,Large
+48,100.0,17,8078.4,2004-10-21,10,2004,Vintage Cars,170,22,USA,Large
+44,74.04,7,3257.76,2004-11-17,11,2004,Vintage Cars,170,22,USA,Medium
+45,100.0,1,7650.0,2004-11-25,11,2004,Vintage Cars,170,22,France,Large
+37,100.0,3,4703.81,2005-01-12,1,2005,Vintage Cars,170,22,USA,Medium
+39,100.0,2,5399.55,2005-02-10,2,2005,Vintage Cars,170,22,Spain,Medium
+76,100.0,2,14082.8,2005-04-22,4,2005,Vintage Cars,170,22,USA,Large
+37,100.0,5,5283.6,2005-05-29,5,2005,Vintage Cars,170,22,Australia,Medium
+38,82.39,2,3130.82,2003-03-03,3,2003,Classic Cars,77,23,Philippines,Medium
+43,72.38,6,3112.34,2003-05-08,5,2003,Classic Cars,77,23,France,Medium
+48,79.31,3,3806.88,2003-07-02,7,2003,Classic Cars,77,23,USA,Medium
+26,82.39,3,2142.14,2003-09-05,9,2003,Classic Cars,77,23,USA,Small
+38,88.55,4,3364.9,2003-10-11,10,2003,Classic Cars,77,23,USA,Medium
+20,63.14,2,1262.8,2003-11-04,11,2003,Classic Cars,77,23,Austria,Small
+22,73.92,10,1626.24,2003-11-12,11,2003,Classic Cars,77,23,Norway,Small
+45,90.86,15,4088.7,2003-11-20,11,2003,Classic Cars,77,23,USA,Medium
+45,85.47,4,3846.15,2003-12-02,12,2003,Classic Cars,77,23,Spain,Medium
+20,66.99,14,1339.8,2004-01-16,1,2004,Classic Cars,77,23,Spain,Small
+47,64.68,5,3039.96,2004-02-22,2,2004,Classic Cars,77,23,Switzerland,Medium
+46,73.92,4,3400.32,2004-04-12,4,2004,Classic Cars,77,23,Finland,Medium
+23,83.93,9,1930.39,2004-06-01,6,2004,Classic Cars,77,23,UK,Small
+33,74.69,10,2464.77,2004-07-06,7,2004,Classic Cars,77,23,Italy,Small
+29,90.86,10,2634.94,2004-08-06,8,2004,Classic Cars,77,23,USA,Small
+44,82.39,8,3625.16,2004-08-30,8,2004,Classic Cars,77,23,Switzerland,Medium
+41,92.4,1,3788.4,2003-10-04,10,2003,Classic Cars,77,23,Germany,Medium
+20,91.63,6,1832.6,2004-10-16,10,2004,Classic Cars,77,23,Germany,Small
+37,78.54,14,2905.98,2004-11-04,11,2004,Classic Cars,77,23,USA,Small
+29,100.0,9,2954.81,2004-11-15,11,2004,Classic Cars,77,23,USA,Small
+55,65.45,1,3599.75,2004-11-24,11,2004,Classic Cars,77,23,Australia,Medium
+22,100.0,7,3686.54,2005-01-06,1,2005,Classic Cars,77,23,Finland,Medium
+31,67.76,4,2100.56,2005-02-09,2,2005,Classic Cars,77,23,Finland,Small
+49,79.22,3,3881.78,2005-03-03,3,2005,Classic Cars,77,23,Sweden,Medium
+61,73.92,4,4509.12,2005-04-14,4,2005,Classic Cars,77,23,France,Medium
+39,83.93,9,3273.27,2005-05-17,5,2005,Classic Cars,77,23,Austria,Medium
+38,100.0,3,4432.7,2003-03-10,3,2003,Classic Cars,142,24,USA,Medium
+31,100.0,1,4100.99,2003-05-08,5,2003,Classic Cars,142,24,France,Medium
+36,100.0,1,5274.72,2003-07-04,7,2003,Classic Cars,142,24,France,Medium
+25,100.0,12,4232.0,2003-09-11,9,2003,Classic Cars,142,24,Australia,Medium
+48,100.0,11,6145.44,2003-10-17,10,2003,Classic Cars,142,24,Denmark,Medium
+35,100.0,1,4680.2,2003-11-05,11,2003,Classic Cars,142,24,Canada,Medium
+21,100.0,5,3286.08,2003-11-12,11,2003,Classic Cars,142,24,Norway,Medium
+47,100.0,10,7421.3,2003-11-20,11,2003,Classic Cars,142,24,USA,Large
+38,100.0,16,6432.64,2003-12-02,12,2003,Classic Cars,142,24,USA,Medium
+41,100.0,9,4840.87,2004-01-16,1,2004,Classic Cars,142,24,Spain,Medium
+24,100.0,7,3892.08,2004-02-26,2,2004,Classic Cars,142,24,USA,Medium
+37,100.0,2,5526.32,2004-04-13,4,2004,Classic Cars,142,24,Japan,Medium
+33,100.0,4,4459.62,2004-06-01,6,2004,Classic Cars,142,24,UK,Medium
+49,100.0,5,6203.4,2004-07-06,7,2004,Classic Cars,142,24,Italy,Medium
+29,100.0,5,3754.05,2004-08-06,8,2004,Classic Cars,142,24,USA,Medium
+24,100.0,3,3516.48,2004-08-30,8,2004,Classic Cars,142,24,Switzerland,Medium
+47,100.0,7,7488.04,2003-10-05,10,2003,Classic Cars,142,24,Norway,Large
+24,100.0,1,3448.08,2004-10-16,10,2004,Classic Cars,142,24,Germany,Medium
+25,100.0,9,3734.0,2004-11-04,11,2004,Classic Cars,142,24,USA,Medium
+30,32.47,8,974.1,2004-11-17,11,2004,Classic Cars,142,24,USA,Small
+22,100.0,3,3160.74,2004-11-24,11,2004,Classic Cars,142,24,Australia,Medium
+27,64.69,2,1746.63,2004-12-09,12,2004,Classic Cars,142,24,France,Small
+34,100.0,3,4207.84,2005-01-10,1,2005,Classic Cars,142,24,Belgium,Medium
+36,100.0,6,4352.76,2005-02-09,2,2005,Classic Cars,142,24,Finland,Medium
+34,43.05,15,1463.7,2005-03-04,3,2005,Classic Cars,142,24,USA,Small
+48,100.0,2,7169.28,2005-04-15,4,2005,Classic Cars,142,24,Denmark,Large
+34,100.0,4,4594.76,2005-05-17,5,2005,Classic Cars,142,24,Austria,Medium
+24,100.0,8,3457.92,2003-01-31,1,2003,Classic Cars,163,25,Spain,Medium
+46,100.0,4,7381.16,2003-04-04,4,2003,Classic Cars,163,25,USA,Large
+45,100.0,10,7146.9,2003-06-03,6,2003,Classic Cars,163,25,USA,Large
+39,100.0,4,5938.53,2003-08-01,8,2003,Classic Cars,163,25,Finland,Medium
+43,100.0,2,7110.91,2003-09-21,9,2003,Classic Cars,163,25,Finland,Large
+29,100.0,11,5032.95,2003-10-22,10,2003,Classic Cars,163,25,Singapore,Medium
+20,100.0,10,3667.6,2003-11-06,11,2003,Classic Cars,163,25,Italy,Medium
+46,100.0,5,7381.16,2003-11-14,11,2003,Classic Cars,163,25,Spain,Large
+27,100.0,5,5128.11,2003-11-25,11,2003,Classic Cars,163,25,USA,Medium
+44,100.0,6,7060.24,2003-12-09,12,2003,Classic Cars,163,25,USA,Large
+43,100.0,1,8448.64,2004-02-10,2,2004,Classic Cars,163,25,USA,Large
+49,100.0,8,7300.51,2004-03-15,3,2004,Classic Cars,163,25,Germany,Large
+40,100.0,4,6549.2,2004-05-05,5,2004,Classic Cars,163,25,Spain,Medium
+30,100.0,3,5697.9,2004-06-15,6,2004,Classic Cars,163,25,Singapore,Medium
+50,100.0,4,9169.0,2004-07-20,7,2004,Classic Cars,163,25,USA,Large
+23,100.0,13,3238.63,2004-08-20,8,2004,Classic Cars,163,25,USA,Medium
+26,100.0,7,4554.94,2004-09-08,9,2004,Classic Cars,163,25,USA,Medium
+27,100.0,4,3934.44,2004-10-13,10,2004,Classic Cars,163,25,USA,Medium
+42,100.0,13,5776.26,2004-10-22,10,2004,Classic Cars,163,25,Denmark,Medium
+47,100.0,8,7207.45,2004-11-05,11,2004,Classic Cars,163,25,USA,Large
+49,100.0,6,7460.74,2004-11-20,11,2004,Classic Cars,163,25,France,Large
+38,100.0,8,6719.54,2004-12-01,12,2004,Classic Cars,163,25,USA,Medium
+20,100.0,10,2428.0,2004-12-10,12,2004,Classic Cars,163,25,Spain,Small
+25,100.0,7,2602.25,2005-01-23,1,2005,Classic Cars,163,25,USA,Small
+25,88.0,5,2200.0,2005-02-17,2,2005,Classic Cars,163,25,USA,Small
+41,100.0,4,6712.93,2005-05-03,5,2005,Classic Cars,163,25,Spain,Medium
+28,100.0,3,5318.04,2005-05-31,5,2005,Classic Cars,163,25,France,Medium
+50,67.8,2,3390.0,2003-01-06,1,2003,Vintage Cars,60,26,USA,Medium
+32,50.25,6,1608.0,2003-03-18,3,2003,Vintage Cars,60,26,UK,Small
+42,53.88,5,2262.96,2003-05-21,5,2003,Vintage Cars,60,26,USA,Small
+24,62.36,10,1496.64,2003-09-12,9,2003,Vintage Cars,60,26,USA,Small
+27,69.62,8,1879.74,2003-10-18,10,2003,Vintage Cars,60,26,USA,Small
+26,57.51,12,1495.26,2003-11-05,11,2003,Vintage Cars,60,26,Italy,Small
+38,61.15,9,2323.7,2003-11-12,11,2003,Vintage Cars,60,26,USA,Small
+42,59.33,13,2491.86,2003-11-21,11,2003,Vintage Cars,60,26,Australia,Small
+23,71.44,3,1643.12,2003-12-02,12,2003,Vintage Cars,60,26,USA,Small
+21,62.96,6,1322.16,2004-01-26,1,2004,Vintage Cars,60,26,Spain,Small
+28,50.85,9,1423.8,2004-03-02,3,2004,Vintage Cars,60,26,France,Small
+33,72.65,1,2397.45,2004-04-13,4,2004,Vintage Cars,60,26,France,Small
+25,62.96,15,1574.0,2004-08-17,8,2004,Vintage Cars,60,26,Italy,Small
+28,61.75,4,1729.0,2004-09-01,9,2004,Vintage Cars,60,26,Singapore,Small
+46,49.04,2,2255.84,2004-10-06,10,2004,Vintage Cars,60,26,Spain,Small
+30,61.15,16,1834.5,2004-10-21,10,2004,Vintage Cars,60,26,USA,Small
+38,84.25,9,3201.5,2004-11-17,11,2004,Vintage Cars,60,26,UK,Medium
+40,56.91,2,2276.4,2004-11-25,11,2004,Vintage Cars,60,26,France,Small
+45,100.0,4,8884.8,2005-01-12,1,2005,Vintage Cars,60,26,USA,Large
+27,49.3,1,1331.1,2005-02-10,2,2005,Vintage Cars,60,26,Spain,Small
+42,72.65,1,3051.3,2005-04-22,4,2005,Vintage Cars,60,26,USA,Medium
+36,63.57,4,2288.52,2005-05-29,5,2005,Vintage Cars,60,26,Australia,Small
+29,100.0,12,3772.61,2003-01-31,1,2003,Trucks and Buses,122,27,Spain,Medium
+39,100.0,3,4164.42,2003-04-01,4,2003,Trucks and Buses,122,27,France,Medium
+45,100.0,14,6295.95,2003-06-03,6,2003,Trucks and Buses,122,27,USA,Medium
+47,100.0,8,6287.66,2003-08-01,8,2003,Trucks and Buses,122,27,Finland,Medium
+49,100.0,6,5412.54,2003-09-21,9,2003,Trucks and Buses,122,27,Finland,Medium
+46,100.0,15,5984.14,2003-10-22,10,2003,Trucks and Buses,122,27,Singapore,Medium
+48,100.0,4,5891.04,2003-11-06,11,2003,Trucks and Buses,122,27,UK,Medium
+46,100.0,9,5984.14,2003-11-14,11,2003,Trucks and Buses,122,27,Spain,Medium
+35,100.0,9,3608.15,2003-11-25,11,2003,Trucks and Buses,122,27,USA,Medium
+43,100.0,10,5752.54,2003-12-09,12,2003,Trucks and Buses,122,27,USA,Medium
+26,100.0,4,3765.32,2004-03-11,3,2004,Trucks and Buses,122,27,USA,Medium
+22,98.18,8,2159.96,2004-05-05,5,2004,Trucks and Buses,122,27,Spain,Small
+34,99.41,7,3379.94,2004-06-15,6,2004,Trucks and Buses,122,27,Singapore,Medium
+50,100.0,8,5093.5,2004-07-20,7,2004,Trucks and Buses,122,27,USA,Medium
+48,100.0,4,5773.44,2004-08-19,8,2004,Trucks and Buses,122,27,USA,Medium
+41,100.0,11,4528.86,2004-09-08,9,2004,Trucks and Buses,122,27,USA,Medium
+36,100.0,8,4816.08,2004-10-13,10,2004,Trucks and Buses,122,27,USA,Medium
+29,100.0,2,3416.78,2004-10-22,10,2004,Trucks and Buses,122,27,Canada,Medium
+33,37.48,10,1236.84,2004-11-05,11,2004,Trucks and Buses,122,27,USA,Small
+46,100.0,6,5814.86,2004-11-19,11,2004,Trucks and Buses,122,27,Sweden,Medium
+38,100.0,7,5223.48,2004-12-01,12,2004,Trucks and Buses,122,27,USA,Medium
+20,36.42,11,728.4,2004-12-10,12,2004,Trucks and Buses,122,27,Spain,Small
+22,100.0,5,3949.0,2005-01-20,1,2005,Trucks and Buses,122,27,Australia,Medium
+27,100.0,11,3843.99,2005-02-22,2,2005,Trucks and Buses,122,27,Spain,Medium
+56,98.18,8,5498.08,2005-05-03,5,2005,Trucks and Buses,122,27,Spain,Medium
+38,99.41,7,3777.58,2005-05-31,5,2005,Trucks and Buses,122,27,France,Medium
+25,100.0,4,3782.0,2003-01-09,1,2003,Vintage Cars,127,28,Germany,Medium
+33,100.0,4,3859.68,2003-03-18,3,2003,Vintage Cars,127,28,UK,Medium
+42,100.0,3,4431.84,2003-05-21,5,2003,Vintage Cars,127,28,USA,Medium
+33,100.0,8,4950.33,2003-09-12,9,2003,Vintage Cars,127,28,USA,Medium
+38,100.0,6,4299.7,2003-10-18,10,2003,Vintage Cars,127,28,USA,Medium
+31,100.0,10,4492.83,2003-11-05,11,2003,Vintage Cars,127,28,Italy,Medium
+20,100.0,7,2212.0,2003-11-12,11,2003,Vintage Cars,127,28,USA,Small
+44,100.0,11,4642.88,2003-11-21,11,2003,Vintage Cars,127,28,Australia,Medium
+26,100.0,1,3206.32,2003-12-02,12,2003,Vintage Cars,127,28,USA,Medium
+27,100.0,4,3604.23,2004-01-26,1,2004,Vintage Cars,127,28,Spain,Medium
+46,100.0,7,7017.76,2004-03-02,3,2004,Vintage Cars,127,28,France,Large
+47,100.0,2,6154.18,2004-04-26,4,2004,Vintage Cars,127,28,USA,Medium
+37,100.0,13,4750.8,2004-08-17,8,2004,Vintage Cars,127,28,Italy,Medium
+31,100.0,2,3822.92,2004-09-01,9,2004,Vintage Cars,127,28,Singapore,Medium
+24,100.0,17,2440.8,2004-10-11,10,2004,Vintage Cars,127,28,France,Small
+31,100.0,14,4729.36,2004-10-21,10,2004,Vintage Cars,127,28,USA,Medium
+50,100.0,6,12536.5,2004-11-04,11,2004,Vintage Cars,127,28,USA,Large
+35,64.69,8,2264.15,2004-11-17,11,2004,Vintage Cars,127,28,UK,Small
+30,100.0,3,3928.2,2004-11-25,11,2004,Vintage Cars,127,28,France,Medium
+29,100.0,3,3630.22,2004-12-09,12,2004,Vintage Cars,127,28,France,Medium
+27,100.0,5,4196.07,2005-01-12,1,2005,Vintage Cars,127,28,USA,Medium
+40,100.0,10,4931.6,2005-02-16,2,2005,Vintage Cars,127,28,Spain,Medium
+31,98.99,16,3068.69,2005-03-04,3,2005,Vintage Cars,127,28,USA,Medium
+6,100.0,2,785.64,2005-04-23,4,2005,Vintage Cars,127,28,Singapore,Small
+45,100.0,2,4977.0,2005-05-29,5,2005,Vintage Cars,127,28,Australia,Medium
+22,54.09,2,1189.98,2003-01-29,1,2003,Trucks and Buses,60,29,Norway,Small
+45,68.67,6,3090.15,2003-04-01,4,2003,Trucks and Buses,60,29,France,Medium
+43,65.02,2,2795.86,2003-05-28,5,2003,Trucks and Buses,60,29,Spain,Small
+46,61.99,2,2851.54,2003-07-24,7,2003,Trucks and Buses,60,29,USA,Small
+39,69.28,9,2701.92,2003-09-21,9,2003,Trucks and Buses,60,29,Finland,Small
+31,71.1,18,2204.1,2003-10-22,10,2003,Trucks and Buses,60,29,Singapore,Small
+41,69.28,7,2840.48,2003-11-06,11,2003,Trucks and Buses,60,29,UK,Small
+44,60.16,12,2647.04,2003-11-14,11,2003,Trucks and Buses,60,29,Spain,Small
+45,70.49,2,3172.05,2003-11-25,11,2003,Trucks and Buses,60,29,France,Medium
+37,69.89,13,2585.93,2003-12-09,12,2003,Trucks and Buses,60,29,USA,Small
+35,61.38,2,2148.3,2004-02-04,2,2004,Trucks and Buses,60,29,Singapore,Small
+28,59.55,7,1667.4,2004-03-11,3,2004,Trucks and Buses,60,29,USA,Small
+30,61.99,11,1859.7,2004-05-05,5,2004,Trucks and Buses,60,29,Spain,Small
+30,49.22,10,1476.6,2004-06-15,6,2004,Trucks and Buses,60,29,Singapore,Small
+25,69.28,11,1732.0,2004-07-20,7,2004,Trucks and Buses,60,29,USA,Small
+29,57.73,7,1674.17,2004-08-19,8,2004,Trucks and Buses,60,29,USA,Small
+26,57.73,2,1500.98,2004-09-08,9,2004,Trucks and Buses,60,29,Sweden,Small
+41,53.48,11,2192.68,2004-10-13,10,2004,Trucks and Buses,60,29,USA,Small
+34,52.87,5,1797.58,2004-10-22,10,2004,Trucks and Buses,60,29,Canada,Small
+35,61.21,11,2142.35,2004-11-04,11,2004,Trucks and Buses,60,29,USA,Small
+34,61.38,1,2086.92,2004-11-19,11,2004,Trucks and Buses,60,29,Sweden,Small
+50,100.0,8,6834.5,2004-11-29,11,2004,Trucks and Buses,60,29,Australia,Medium
+41,61.99,7,2541.59,2004-12-10,12,2004,Trucks and Buses,60,29,USA,Small
+22,96.86,7,2130.92,2005-01-20,1,2005,Trucks and Buses,60,29,Australia,Small
+35,48.62,7,1701.7,2005-02-17,2,2005,Trucks and Buses,60,29,USA,Small
+44,38.5,5,1694.0,2005-03-09,3,2005,Trucks and Buses,60,29,Australia,Small
+47,61.99,11,2913.53,2005-05-03,5,2005,Trucks and Buses,60,29,Spain,Small
+19,49.22,10,935.18,2005-05-31,5,2005,Trucks and Buses,60,29,France,Small
+34,90.39,2,3073.26,2003-02-17,2,2003,Planes,84,30,Italy,Medium
+29,71.81,8,2082.49,2003-04-29,4,2003,Planes,84,30,Australia,Small
+49,69.27,3,3394.23,2003-06-27,6,2003,Planes,84,30,Spain,Medium
+30,85.32,14,2559.6,2003-08-25,8,2003,Planes,84,30,USA,Small
+21,70.96,9,1490.16,2003-10-28,10,2003,Planes,84,30,USA,Small
+50,76.88,7,3844.0,2004-01-12,1,2004,Planes,84,30,Japan,Medium
+47,100.0,9,4724.91,2004-02-20,2,2004,Planes,84,30,Australia,Medium
+24,76.03,3,1824.72,2004-04-02,4,2004,Planes,84,30,Canada,Small
+27,98.84,4,2668.68,2004-05-11,5,2004,Planes,84,30,USA,Small
+33,86.17,10,2843.61,2004-06-28,6,2004,Planes,84,30,USA,Small
+35,90.39,9,3163.65,2004-07-23,7,2004,Planes,84,30,France,Medium
+31,71.81,1,2226.11,2004-08-21,8,2004,Planes,84,30,Norway,Small
+25,82.79,4,2069.75,2004-09-16,9,2004,Planes,84,30,Ireland,Small
+27,82.79,7,2235.33,2004-10-15,10,2004,Planes,84,30,USA,Small
+31,100.0,9,3116.43,2004-11-02,11,2004,Planes,84,30,USA,Medium
+45,100.0,8,4781.7,2004-11-10,11,2004,Planes,84,30,Denmark,Medium
+27,100.0,2,2810.7,2004-11-23,11,2004,Planes,84,30,Japan,Small
+27,100.0,1,3515.67,2004-12-04,12,2004,Planes,84,30,USA,Medium
+42,69.27,2,2909.34,2005-02-02,2,2005,Planes,84,30,Australia,Small
+21,74.77,18,1570.17,2005-03-01,3,2005,Planes,84,30,Spain,Small
+34,76.88,15,2613.92,2005-03-30,3,2005,Planes,84,30,France,Small
+42,76.03,3,3193.26,2005-04-03,4,2005,Planes,84,30,USA,Medium
+15,98.84,4,1482.6,2005-05-10,5,2005,Planes,84,30,Italy,Small
+29,70.87,6,2055.23,2003-02-24,2,2003,Motorcycles,60,31,USA,Small
+46,58.15,4,2674.9,2003-04-29,4,2003,Motorcycles,60,31,Australia,Small
+30,61.78,6,1853.4,2003-07-01,7,2003,Motorcycles,60,31,France,Small
+30,49.67,10,1490.1,2003-08-25,8,2003,Motorcycles,60,31,USA,Small
+42,51.48,18,2162.16,2003-10-10,10,2003,Motorcycles,60,31,USA,Small
+46,61.18,5,2814.28,2003-10-28,10,2003,Motorcycles,60,31,USA,Small
+25,64.2,13,1605.0,2003-11-11,11,2003,Motorcycles,60,31,France,Small
+32,65.42,5,2093.44,2003-11-18,11,2003,Motorcycles,60,31,Norway,Small
+30,64.81,6,1944.3,2003-12-01,12,2003,Motorcycles,60,31,USA,Small
+40,49.67,3,1986.8,2004-01-12,1,2004,Motorcycles,60,31,Japan,Small
+28,60.57,5,1695.96,2004-02-20,2,2004,Motorcycles,60,31,Australia,Small
+23,55.72,2,1281.56,2004-04-03,4,2004,Motorcycles,60,31,USA,Small
+29,61.18,6,1774.22,2004-05-18,5,2004,Motorcycles,60,31,USA,Small
+34,58.75,6,1997.5,2004-06-28,6,2004,Motorcycles,60,31,USA,Small
+37,63.6,5,2353.2,2004-07-23,7,2004,Motorcycles,60,31,France,Small
+20,49.06,10,981.2,2004-08-27,8,2004,Motorcycles,60,31,USA,Small
+32,48.46,2,1550.72,2004-09-27,9,2004,Motorcycles,60,31,France,Small
+34,52.09,3,1771.06,2004-10-15,10,2004,Motorcycles,60,31,USA,Small
+42,52.7,5,2213.4,2004-11-02,11,2004,Motorcycles,60,31,USA,Small
+38,100.0,12,5266.04,2004-11-15,11,2004,Motorcycles,60,31,USA,Medium
+30,62.16,1,1864.8,2004-11-23,11,2004,Motorcycles,60,31,Japan,Small
+23,49.67,3,1142.41,2005-01-05,1,2005,Motorcycles,60,31,USA,Small
+22,53.3,4,1172.6,2005-02-02,2,2005,Motorcycles,60,31,Australia,Small
+39,100.0,5,6981.0,2005-03-03,3,2005,Motorcycles,60,31,Sweden,Medium
+55,55.72,2,3064.6,2005-04-07,4,2005,Motorcycles,60,31,France,Medium
+36,61.18,6,2202.48,2005-05-13,5,2005,Motorcycles,60,31,Spain,Small
+26,100.0,1,3773.38,2003-01-09,1,2003,Vintage Cars,168,32,Germany,Medium
+31,100.0,1,5074.39,2003-03-18,3,2003,Vintage Cars,168,32,UK,Medium
+34,100.0,2,6483.46,2003-05-21,5,2003,Vintage Cars,168,32,Australia,Medium
+41,100.0,8,7956.46,2003-07-16,7,2003,Vintage Cars,168,32,Australia,Large
+23,100.0,5,4230.62,2003-09-12,9,2003,Vintage Cars,168,32,USA,Medium
+48,100.0,3,7209.12,2003-10-18,10,2003,Vintage Cars,168,32,USA,Large
+22,100.0,7,3452.68,2003-11-05,11,2003,Vintage Cars,168,32,Italy,Medium
+21,100.0,4,3047.73,2003-11-12,11,2003,Vintage Cars,168,32,USA,Medium
+22,100.0,8,3675.32,2003-11-21,11,2003,Vintage Cars,168,32,Australia,Medium
+40,100.0,3,7492.4,2003-12-03,12,2003,Vintage Cars,168,32,Spain,Large
+50,100.0,1,9534.5,2004-01-26,1,2004,Vintage Cars,168,32,Spain,Large
+29,100.0,4,5579.02,2004-03-02,3,2004,Vintage Cars,168,32,France,Medium
+43,100.0,8,5950.34,2004-04-29,4,2004,Vintage Cars,168,32,Spain,Medium
+24,100.0,1,3726.0,2004-06-04,6,2004,Vintage Cars,168,32,France,Medium
+22,100.0,10,4455.0,2004-08-17,8,2004,Vintage Cars,168,32,Italy,Medium
+43,100.0,3,8272.34,2004-09-03,9,2004,Vintage Cars,168,32,Norway,Large
+20,100.0,14,3577.6,2004-10-11,10,2004,Vintage Cars,168,32,France,Medium
+25,100.0,11,3881.25,2004-10-21,10,2004,Vintage Cars,168,32,USA,Medium
+36,100.0,2,5797.44,2004-11-04,11,2004,Vintage Cars,168,32,USA,Medium
+24,52.67,1,1264.08,2004-11-17,11,2004,Vintage Cars,168,32,UK,Small
+21,100.0,6,4815.3,2004-11-29,11,2004,Vintage Cars,168,32,Australia,Medium
+30,100.0,1,4462.2,2004-12-09,12,2004,Vintage Cars,168,32,France,Medium
+32,94.79,7,3033.28,2005-01-12,1,2005,Vintage Cars,168,32,USA,Medium
+21,47.18,8,990.78,2005-02-16,2,2005,Vintage Cars,168,32,Spain,Small
+26,78.11,7,2030.86,2005-03-04,3,2005,Vintage Cars,168,32,USA,Small
+35,100.0,1,5433.75,2005-05-29,5,2005,Vintage Cars,168,32,USA,Medium
+26,100.0,1,3157.44,2003-03-10,3,2003,Classic Cars,132,33,USA,Medium
+46,100.0,3,5161.2,2003-05-20,5,2003,Classic Cars,132,33,France,Medium
+37,100.0,3,4346.76,2003-07-10,7,2003,Classic Cars,132,33,France,Medium
+27,100.0,10,3528.36,2003-09-11,9,2003,Classic Cars,132,33,Australia,Medium
+23,100.0,9,3187.8,2003-10-17,10,2003,Classic Cars,132,33,Denmark,Medium
+39,100.0,7,6023.16,2003-11-05,11,2003,Classic Cars,132,33,USA,Medium
+27,100.0,3,3884.76,2003-11-12,11,2003,Classic Cars,132,33,Norway,Medium
+38,100.0,8,4965.84,2003-11-20,11,2003,Classic Cars,132,33,USA,Medium
+27,100.0,14,4169.88,2003-12-02,12,2003,Classic Cars,132,33,USA,Medium
+40,100.0,7,4910.4,2004-01-16,1,2004,Classic Cars,132,33,Spain,Medium
+24,100.0,5,3231.36,2004-02-26,2,2004,Classic Cars,132,33,USA,Medium
+44,100.0,12,6853.44,2004-04-13,4,2004,Classic Cars,132,33,France,Medium
+37,100.0,2,5177.04,2004-06-01,6,2004,Classic Cars,132,33,UK,Medium
+20,100.0,3,2824.8,2004-07-06,7,2004,Classic Cars,132,33,Italy,Small
+39,100.0,3,4324.32,2004-08-06,8,2004,Classic Cars,132,33,USA,Medium
+44,100.0,1,5052.96,2004-08-30,8,2004,Classic Cars,132,33,Switzerland,Medium
+22,100.0,5,3223.44,2003-10-05,10,2003,Classic Cars,132,33,Norway,Medium
+43,100.0,10,5278.68,2004-10-16,10,2004,Classic Cars,132,33,Spain,Medium
+27,100.0,7,2851.2,2004-11-04,11,2004,Classic Cars,132,33,USA,Small
+26,64.9,10,1687.4,2004-11-17,11,2004,Classic Cars,132,33,USA,Small
+25,52.32,3,1308.0,2004-11-24,11,2004,Classic Cars,132,33,France,Small
+49,100.0,2,6144.6,2005-01-10,1,2005,Classic Cars,132,33,Belgium,Medium
+29,100.0,5,5127.2,2005-02-10,2,2005,Classic Cars,132,33,Spain,Medium
+41,100.0,12,6386.16,2005-04-22,4,2005,Classic Cars,132,33,USA,Medium
+55,100.0,2,7695.6,2005-05-17,5,2005,Classic Cars,132,33,Austria,Large
+27,83.07,12,2242.89,2003-01-29,1,2003,Vintage Cars,101,34,Norway,Small
+23,100.0,2,2539.89,2003-03-24,3,2003,Vintage Cars,101,34,Sweden,Small
+31,90.17,12,2795.27,2003-05-28,5,2003,Vintage Cars,101,34,Spain,Small
+46,100.0,1,5545.76,2003-07-16,7,2003,Vintage Cars,101,34,Australia,Medium
+47,91.18,9,4285.46,2003-09-19,9,2003,Vintage Cars,101,34,Singapore,Medium
+31,100.0,2,3329.09,2003-10-20,10,2003,Vintage Cars,101,34,USA,Medium
+46,100.0,5,5592.22,2003-11-06,11,2003,Vintage Cars,101,34,Australia,Medium
+37,89.15,9,3298.55,2003-11-13,11,2003,Vintage Cars,101,34,USA,Medium
+28,93.21,1,2609.88,2003-11-21,11,2003,Vintage Cars,101,34,Australia,Small
+37,90.17,7,3336.29,2003-12-05,12,2003,Vintage Cars,101,34,Canada,Medium
+49,100.0,4,5510.05,2004-01-29,1,2004,Vintage Cars,101,34,USA,Medium
+24,100.0,3,2504.4,2004-03-10,3,2004,Vintage Cars,101,34,USA,Small
+30,100.0,1,3525.6,2004-04-29,4,2004,Vintage Cars,101,34,Spain,Medium
+50,88.14,1,4407.0,2004-06-14,6,2004,Vintage Cars,101,34,USA,Medium
+31,96.24,10,2983.44,2004-07-19,7,2004,Vintage Cars,101,34,Australia,Small
+46,100.0,3,5126.24,2004-08-17,8,2004,Vintage Cars,101,34,Italy,Medium
+47,100.0,12,5713.79,2004-09-08,9,2004,Vintage Cars,101,34,Sweden,Medium
+46,100.0,7,4613.8,2004-10-11,10,2004,Vintage Cars,101,34,France,Medium
+37,100.0,4,3711.1,2004-10-21,10,2004,Vintage Cars,101,34,USA,Medium
+33,100.0,12,3524.73,2004-11-04,11,2004,Vintage Cars,101,34,USA,Medium
+31,90.17,5,2795.27,2004-11-18,11,2004,Vintage Cars,101,34,USA,Small
+48,100.0,9,4814.4,2004-11-29,11,2004,Vintage Cars,101,34,Australia,Medium
+41,87.13,6,3572.33,2004-12-10,12,2004,Vintage Cars,101,34,USA,Medium
+42,100.0,1,4581.36,2005-01-20,1,2005,Vintage Cars,101,34,USA,Medium
+41,100.0,8,4319.76,2005-02-17,2,2005,Vintage Cars,101,34,USA,Medium
+32,45.25,6,1448.0,2005-03-09,3,2005,Vintage Cars,101,34,Australia,Small
+10,88.14,1,881.4,2005-05-30,5,2005,Vintage Cars,101,34,Belgium,Small
+35,57.46,14,2011.1,2003-01-29,1,2003,Vintage Cars,62,35,Norway,Small
+28,64.33,2,1801.24,2003-03-25,3,2003,Vintage Cars,62,35,USA,Small
+46,73.7,14,3390.2,2003-05-28,5,2003,Vintage Cars,62,35,Spain,Medium
+20,71.2,3,1424.0,2003-07-16,7,2003,Vintage Cars,62,35,Australia,Small
+30,49.97,11,1499.1,2003-09-19,9,2003,Vintage Cars,62,35,Singapore,Small
+48,69.96,4,3358.08,2003-10-20,10,2003,Vintage Cars,62,35,USA,Medium
+28,53.72,2,1504.16,2003-11-05,11,2003,Vintage Cars,62,35,Italy,Small
+39,68.08,11,2655.12,2003-11-13,11,2003,Vintage Cars,62,35,USA,Small
+24,51.84,3,1244.16,2003-11-21,11,2003,Vintage Cars,62,35,Australia,Small
+28,67.46,9,1888.88,2003-12-05,12,2003,Vintage Cars,62,35,Canada,Small
+31,58.71,6,1820.01,2004-01-29,1,2004,Vintage Cars,62,35,USA,Small
+45,63.71,5,2866.95,2004-03-10,3,2004,Vintage Cars,62,35,USA,Small
+24,58.09,3,1394.16,2004-04-29,4,2004,Vintage Cars,62,35,Spain,Small
+49,53.72,3,2632.28,2004-06-14,6,2004,Vintage Cars,62,35,USA,Small
+32,63.08,1,2018.56,2004-07-16,7,2004,Vintage Cars,62,35,Austria,Small
+43,68.71,5,2954.53,2004-08-17,8,2004,Vintage Cars,62,35,Italy,Small
+37,50.59,14,1871.83,2004-09-08,9,2004,Vintage Cars,62,35,Sweden,Small
+24,64.96,9,1559.04,2004-10-11,10,2004,Vintage Cars,62,35,France,Small
+35,53.72,6,1880.2,2004-10-21,10,2004,Vintage Cars,62,35,USA,Small
+41,29.87,13,1224.67,2004-11-04,11,2004,Vintage Cars,62,35,USA,Small
+26,100.0,17,2979.08,2004-11-17,11,2004,Vintage Cars,62,35,UK,Small
+34,64.96,10,2208.64,2004-11-29,11,2004,Vintage Cars,62,35,Australia,Small
+49,70.58,5,3458.42,2004-12-10,12,2004,Vintage Cars,62,35,USA,Medium
+28,44.21,6,1237.88,2005-01-20,1,2005,Vintage Cars,62,35,USA,Small
+40,68.08,4,2723.2,2005-02-17,2,2005,Vintage Cars,62,35,USA,Small
+37,59.96,3,2218.52,2005-03-10,3,2005,Vintage Cars,62,35,Austria,Small
+31,53.72,3,1665.32,2005-05-30,5,2005,Vintage Cars,62,35,Belgium,Small
+41,83.44,18,3421.04,2003-02-17,2,2003,Ships,86,36,Italy,Medium
+21,89.46,9,1878.66,2003-04-28,4,2003,Ships,86,36,Austria,Small
+40,96.34,2,3853.6,2003-06-16,6,2003,Ships,86,36,USA,Medium
+46,74.84,13,3442.64,2003-08-10,8,2003,Ships,86,36,USA,Medium
+44,79.14,11,3482.16,2003-10-06,10,2003,Ships,86,36,Finland,Medium
+46,73.12,7,3363.52,2003-10-23,10,2003,Ships,86,36,Sweden,Medium
+41,81.72,10,3350.52,2003-11-08,11,2003,Ships,86,36,France,Medium
+32,89.46,7,2862.72,2003-11-14,11,2003,Ships,86,36,UK,Small
+46,87.74,4,4036.04,2003-11-26,11,2003,Ships,86,36,Spain,Medium
+28,100.0,6,2817.92,2004-01-09,1,2004,Ships,86,36,USA,Small
+49,94.62,10,4636.38,2004-02-19,2,2004,Ships,86,36,USA,Medium
+21,73.98,1,1553.58,2004-05-07,5,2004,Ships,86,36,USA,Small
+32,84.3,15,2697.6,2004-06-24,6,2004,Ships,86,36,Spain,Small
+34,98.06,2,3334.04,2004-07-21,7,2004,Ships,86,36,Belgium,Medium
+21,98.06,4,2059.26,2004-08-20,8,2004,Ships,86,36,Canada,Small
+21,96.34,13,2023.14,2004-09-15,9,2004,Ships,86,36,Germany,Small
+31,83.44,7,2586.64,2004-10-14,10,2004,Ships,86,36,USA,Small
+21,94.62,15,1987.02,2004-11-01,11,2004,Ships,86,36,UK,Small
+25,45.86,5,1146.5,2004-11-10,11,2004,Ships,86,36,Denmark,Small
+28,82.58,3,2312.24,2004-11-22,11,2004,Ships,86,36,Belgium,Small
+43,64.97,6,2793.71,2004-12-02,12,2004,Ships,86,36,Spain,Small
+22,86.74,5,1908.28,2005-01-31,1,2005,Ships,86,36,Finland,Small
+37,93.01,5,3441.37,2005-03-01,3,2005,Ships,86,36,Spain,Medium
+28,72.26,18,2023.28,2005-03-30,3,2005,Ships,86,36,France,Small
+30,74.84,7,2245.2,2005-04-01,4,2005,Ships,86,36,USA,Small
+44,73.98,1,3255.12,2005-05-06,5,2005,Ships,86,36,USA,Medium
+25,100.0,13,2539.5,2003-01-29,1,2003,Vintage Cars,104,37,Norway,Small
+43,100.0,1,4818.15,2003-03-25,3,2003,Vintage Cars,104,37,USA,Medium
+30,97.39,13,2921.7,2003-05-28,5,2003,Vintage Cars,104,37,Spain,Small
+20,90.06,2,1801.2,2003-07-16,7,2003,Vintage Cars,104,37,Australia,Small
+26,100.0,10,2804.36,2003-09-19,9,2003,Vintage Cars,104,37,Singapore,Small
+40,100.0,3,4900.8,2003-10-20,10,2003,Vintage Cars,104,37,USA,Medium
+31,89.01,1,2759.31,2003-11-05,11,2003,Vintage Cars,104,37,Italy,Small
+22,100.0,10,2488.2,2003-11-13,11,2003,Vintage Cars,104,37,USA,Small
+23,100.0,2,2769.89,2003-11-21,11,2003,Vintage Cars,104,37,Australia,Small
+30,100.0,8,3581.4,2003-12-05,12,2003,Vintage Cars,104,37,Canada,Medium
+49,100.0,5,5285.14,2004-01-29,1,2004,Vintage Cars,104,37,USA,Medium
+31,100.0,4,3181.53,2004-03-10,3,2004,Vintage Cars,104,37,USA,Medium
+29,100.0,2,3340.51,2004-04-29,4,2004,Vintage Cars,104,37,Spain,Medium
+37,84.82,2,3138.34,2004-06-14,6,2004,Vintage Cars,104,37,USA,Medium
+38,100.0,11,4775.08,2004-07-19,7,2004,Vintage Cars,104,37,Australia,Medium
+29,100.0,4,3006.43,2004-08-17,8,2004,Vintage Cars,104,37,Italy,Medium
+23,100.0,13,2866.26,2004-09-08,9,2004,Vintage Cars,104,37,Sweden,Small
+26,85.87,8,2232.62,2004-10-11,10,2004,Vintage Cars,104,37,France,Small
+38,100.0,5,4457.02,2004-10-21,10,2004,Vintage Cars,104,37,USA,Medium
+48,47.04,7,2257.92,2004-11-04,11,2004,Vintage Cars,104,37,USA,Small
+40,39.8,18,1592.0,2004-11-17,11,2004,Vintage Cars,104,37,UK,Small
+45,100.0,11,4948.2,2004-11-29,11,2004,Vintage Cars,104,37,Australia,Medium
+44,100.0,4,5160.76,2004-12-10,12,2004,Vintage Cars,104,37,USA,Medium
+21,94.22,5,1978.62,2005-01-20,1,2005,Vintage Cars,104,37,USA,Small
+35,100.0,5,4288.2,2005-02-17,2,2005,Vintage Cars,104,37,USA,Medium
+29,86.92,2,2520.68,2005-03-10,3,2005,Vintage Cars,104,37,Austria,Small
+21,84.82,2,1781.22,2005-05-30,5,2005,Vintage Cars,104,37,Belgium,Small
+22,100.0,11,3065.04,2003-02-11,2,2003,Vintage Cars,136,38,Denmark,Medium
+26,100.0,5,3551.34,2003-04-16,4,2003,Vintage Cars,136,38,Singapore,Medium
+41,100.0,2,5544.02,2003-06-06,6,2003,Vintage Cars,136,38,Spain,Medium
+47,100.0,8,6034.33,2003-08-08,8,2003,Vintage Cars,136,38,USA,Medium
+31,100.0,7,3641.57,2003-09-28,9,2003,Vintage Cars,136,38,Spain,Medium
+43,100.0,2,6930.74,2003-10-21,10,2003,Vintage Cars,136,38,USA,Medium
+23,100.0,9,3675.63,2003-11-07,11,2003,Vintage Cars,136,38,Spain,Medium
+28,100.0,9,3442.04,2003-11-14,11,2003,Vintage Cars,136,38,USA,Medium
+49,100.0,1,6893.81,2003-11-26,11,2003,Vintage Cars,136,38,USA,Medium
+24,100.0,9,2622.48,2004-01-02,1,2004,Vintage Cars,136,38,France,Small
+33,100.0,3,4417.38,2004-02-18,2,2004,Vintage Cars,136,38,Belgium,Medium
+22,100.0,6,3606.02,2004-03-20,3,2004,Vintage Cars,136,38,UK,Medium
+32,100.0,12,3802.56,2004-05-07,5,2004,Vintage Cars,136,38,USA,Medium
+40,100.0,13,5026.4,2004-07-21,7,2004,Vintage Cars,136,38,Belgium,Medium
+43,100.0,1,6695.53,2004-08-20,8,2004,Vintage Cars,136,38,USA,Medium
+24,100.0,4,2819.28,2004-09-09,9,2004,Vintage Cars,136,38,Italy,Small
+32,100.0,9,3759.04,2004-10-14,10,2004,Vintage Cars,136,38,UK,Medium
+20,100.0,1,2731.8,2004-10-22,10,2004,Vintage Cars,136,38,Denmark,Small
+24,69.12,9,1658.88,2004-11-05,11,2004,Vintage Cars,136,38,Norway,Small
+48,100.0,12,5778.24,2004-11-20,11,2004,Vintage Cars,136,38,France,Medium
+44,100.0,1,5191.12,2004-12-02,12,2004,Vintage Cars,136,38,Spain,Medium
+28,100.0,3,3862.88,2005-01-26,1,2005,Vintage Cars,136,38,Japan,Medium
+24,61.52,9,1476.48,2005-02-22,2,2005,Vintage Cars,136,38,Spain,Small
+33,100.0,2,5273.73,2005-03-23,3,2005,Vintage Cars,136,38,USA,Medium
+41,100.0,12,4872.03,2005-05-06,5,2005,Vintage Cars,136,38,USA,Medium
+23,100.0,13,4556.99,2003-01-31,1,2003,Classic Cars,169,39,Spain,Medium
+46,100.0,5,8257.0,2003-03-10,3,2003,Classic Cars,169,39,USA,Large
+48,100.0,4,8209.44,2003-04-01,4,2003,Classic Cars,169,39,France,Large
+25,100.0,3,3598.5,2003-05-08,5,2003,Classic Cars,169,39,France,Medium
+22,100.0,15,3837.24,2003-06-03,6,2003,Classic Cars,169,39,USA,Medium
+41,100.0,3,8331.61,2003-07-04,7,2003,Classic Cars,169,39,France,Large
+34,100.0,9,4836.5,2003-08-01,8,2003,Classic Cars,169,39,Finland,Medium
+32,100.0,14,5418.88,2003-09-11,9,2003,Classic Cars,169,39,Australia,Medium
+21,100.0,7,3734.01,2003-09-21,9,2003,Classic Cars,169,39,Finland,Medium
+20,100.0,1,3996.4,2003-10-11,10,2003,Classic Cars,169,39,USA,Medium
+47,100.0,16,8754.69,2003-10-22,10,2003,Classic Cars,169,39,Singapore,Large
+39,100.0,3,5481.45,2003-11-05,11,2003,Classic Cars,169,39,Canada,Medium
+29,100.0,5,4419.89,2003-11-06,11,2003,Classic Cars,169,39,UK,Medium
+45,100.0,7,6324.75,2003-11-12,11,2003,Classic Cars,169,39,Norway,Medium
+28,100.0,10,4409.72,2003-11-14,11,2003,Classic Cars,169,39,Spain,Medium
+26,100.0,12,3918.46,2003-11-20,11,2003,Classic Cars,169,39,USA,Medium
+50,100.0,10,7620.5,2003-11-25,11,2003,Classic Cars,169,39,USA,Large
+48,100.0,1,8291.04,2003-12-02,12,2003,Classic Cars,169,39,Spain,Large
+25,100.0,11,3937.25,2003-12-09,12,2003,Classic Cars,169,39,USA,Medium
+40,100.0,11,5554.4,2004-01-16,1,2004,Classic Cars,169,39,Spain,Medium
+43,100.0,2,6407.86,2004-02-22,2,2004,Classic Cars,169,39,Switzerland,Medium
+22,100.0,5,4172.52,2004-03-11,3,2004,Classic Cars,169,39,USA,Medium
+47,100.0,1,7083.37,2004-04-12,4,2004,Classic Cars,169,39,Finland,Large
+36,100.0,9,7132.68,2004-05-05,5,2004,Classic Cars,169,39,Spain,Large
+40,100.0,6,6773.6,2004-06-01,6,2004,Classic Cars,169,39,UK,Medium
+27,100.0,8,3657.69,2004-06-15,6,2004,Classic Cars,169,39,Singapore,Medium
+29,100.0,7,4812.55,2004-07-06,7,2004,Classic Cars,169,39,Italy,Medium
+20,100.0,9,3928.6,2004-07-20,7,2004,Classic Cars,169,39,USA,Medium
+42,100.0,7,6401.22,2004-08-06,8,2004,Classic Cars,169,39,USA,Medium
+25,100.0,5,4191.25,2004-08-19,8,2004,Classic Cars,169,39,USA,Medium
+36,100.0,5,5852.52,2004-08-30,8,2004,Classic Cars,169,39,Switzerland,Medium
+21,100.0,12,2844.87,2004-09-08,9,2004,Classic Cars,169,39,USA,Small
+23,100.0,9,4011.66,2003-10-05,10,2003,Classic Cars,169,39,Norway,Medium
+37,100.0,9,7455.87,2004-10-13,10,2004,Classic Cars,169,39,USA,Large
+48,100.0,3,8940.96,2004-10-16,10,2004,Classic Cars,169,39,Germany,Large
+25,100.0,3,4572.25,2004-10-22,10,2004,Classic Cars,169,39,Canada,Medium
+33,100.0,11,5700.09,2004-11-04,11,2004,Classic Cars,169,39,USA,Medium
+27,100.0,12,3155.49,2004-11-05,11,2004,Classic Cars,169,39,USA,Medium
+27,100.0,11,4170.69,2004-11-17,11,2004,Classic Cars,169,39,USA,Medium
+20,100.0,3,2878.8,2004-11-19,11,2004,Classic Cars,169,39,Sweden,Small
+30,100.0,4,5029.5,2004-11-24,11,2004,Classic Cars,169,39,Australia,Medium
+48,100.0,6,7396.8,2004-12-01,12,2004,Classic Cars,169,39,USA,Large
+32,93.49,12,2991.68,2004-12-10,12,2004,Classic Cars,169,39,Spain,Small
+34,100.0,1,6275.72,2005-01-10,1,2005,Classic Cars,169,39,Belgium,Medium
+27,56.85,9,1534.95,2005-01-20,1,2005,Classic Cars,169,39,Australia,Small
+39,100.0,3,7264.53,2005-02-09,2,2005,Classic Cars,169,39,Finland,Large
+47,100.0,6,6869.05,2005-02-22,2,2005,Classic Cars,169,39,Spain,Medium
+22,100.0,5,3353.02,2005-03-15,3,2005,Classic Cars,169,39,Spain,Medium
+55,100.0,1,8289.05,2005-04-14,4,2005,Classic Cars,169,39,France,Large
+60,100.0,9,11887.8,2005-05-03,5,2005,Classic Cars,169,39,Spain,Large
+35,100.0,6,5926.9,2005-05-17,5,2005,Classic Cars,169,39,Austria,Medium
+28,100.0,8,3793.16,2005-05-31,5,2005,Classic Cars,169,39,France,Medium
+38,100.0,13,4330.1,2003-02-11,2,2003,Trains,100,40,Denmark,Medium
+21,95.8,7,2011.8,2003-04-16,4,2003,Trains,100,40,Singapore,Small
+41,100.0,4,4837.18,2003-06-06,6,2003,Trains,100,40,Spain,Medium
+22,97.81,10,2151.82,2003-08-08,8,2003,Trains,100,40,USA,Small
+29,88.74,9,2573.46,2003-09-28,9,2003,Trains,100,40,Spain,Small
+50,100.0,1,5344.5,2003-10-22,10,2003,Trains,100,40,Singapore,Medium
+29,100.0,11,3070.52,2003-11-07,11,2003,Trains,100,40,Spain,Medium
+49,80.67,11,3952.83,2003-11-14,11,2003,Trains,100,40,USA,Medium
+35,100.0,3,3564.75,2003-11-26,11,2003,Trains,100,40,USA,Medium
+48,100.0,11,5614.56,2004-01-02,1,2004,Trains,100,40,France,Medium
+23,80.67,5,1855.41,2004-02-18,2,2004,Trains,100,40,Belgium,Small
+48,95.8,8,4598.4,2004-03-20,3,2004,Trains,100,40,UK,Medium
+42,100.0,14,5082.42,2004-05-07,5,2004,Trains,100,40,USA,Medium
+47,100.0,15,5450.59,2004-07-21,7,2004,Trains,100,40,Belgium,Medium
+36,100.0,3,4174.92,2004-08-20,8,2004,Trains,100,40,USA,Medium
+22,100.0,6,2418.24,2004-09-09,9,2004,Trains,100,40,Italy,Small
+40,91.76,11,3670.4,2004-10-14,10,2004,Trains,100,40,UK,Medium
+23,100.0,3,2481.7,2004-10-22,10,2004,Trains,100,40,Denmark,Small
+32,100.0,6,3807.68,2004-11-09,11,2004,Trains,100,40,Sweden,Medium
+21,100.0,7,2230.41,2004-11-20,11,2004,Trains,100,40,France,Small
+41,93.04,2,3814.64,2004-12-02,12,2004,Trains,100,40,Spain,Medium
+25,84.71,5,2117.75,2005-01-26,1,2005,Trains,100,40,Japan,Small
+26,100.0,12,3340.48,2005-02-22,2,2005,Trains,100,40,Spain,Medium
+24,89.75,4,2154.0,2005-03-23,3,2005,Trains,100,40,USA,Small
+48,100.0,14,5808.48,2005-05-06,5,2005,Trains,100,40,USA,Medium
+26,68.35,9,1777.1,2003-03-03,3,2003,Classic Cars,80,41,Philippines,Small
+21,73.17,13,1536.57,2003-05-08,5,2003,Classic Cars,80,41,France,Small
+45,78.0,10,3510.0,2003-07-02,7,2003,Classic Cars,80,41,USA,Medium
+36,86.04,10,3097.44,2003-09-05,9,2003,Classic Cars,80,41,USA,Medium
+21,81.21,5,1705.41,2003-10-10,10,2003,Classic Cars,80,41,USA,Small
+32,70.76,5,2264.32,2003-11-04,11,2003,Classic Cars,80,41,Australia,Small
+30,82.82,17,2484.6,2003-11-12,11,2003,Classic Cars,80,41,Norway,Small
+36,94.88,6,3415.68,2003-11-20,11,2003,Classic Cars,80,41,Germany,Medium
+33,86.04,11,2839.32,2003-12-02,12,2003,Classic Cars,80,41,Spain,Small
+35,78.0,5,2730.0,2004-01-15,1,2004,Classic Cars,80,41,France,Small
+37,95.69,12,3540.53,2004-02-22,2,2004,Classic Cars,80,41,Switzerland,Medium
+41,73.17,6,2999.97,2004-04-09,4,2004,Classic Cars,80,41,Denmark,Small
+20,76.39,2,1527.8,2004-05-26,5,2004,Classic Cars,80,41,France,Small
+45,86.84,2,3907.8,2004-07-02,7,2004,Classic Cars,80,41,Australia,Medium
+38,69.96,6,2658.48,2004-08-02,8,2004,Classic Cars,80,41,USA,Small
+43,70.76,15,3042.68,2004-08-30,8,2004,Classic Cars,80,41,Switzerland,Medium
+49,78.8,8,3861.2,2003-10-04,10,2003,Classic Cars,80,41,Germany,Medium
+27,80.41,13,2171.07,2004-10-16,10,2004,Classic Cars,80,41,Germany,Small
+46,73.98,1,3403.08,2004-11-03,11,2004,Classic Cars,80,41,USA,Medium
+38,59.1,10,2245.8,2004-11-15,11,2004,Classic Cars,80,41,USA,Small
+25,66.74,5,1668.5,2004-11-24,11,2004,Classic Cars,80,41,Australia,Small
+46,60.3,10,2773.8,2005-01-06,1,2005,Classic Cars,80,41,Finland,Small
+22,100.0,4,2464.0,2005-02-10,2,2005,Classic Cars,80,41,Spain,Small
+40,100.0,9,5491.6,2005-03-04,3,2005,Classic Cars,80,41,USA,Medium
+46,100.0,16,4791.82,2003-01-29,1,2003,Vintage Cars,99,42,Norway,Medium
+39,100.0,4,4178.85,2003-03-25,3,2003,Vintage Cars,99,42,USA,Medium
+38,82.34,16,3128.92,2003-05-28,5,2003,Vintage Cars,99,42,Spain,Medium
+30,100.0,5,3095.4,2003-07-16,7,2003,Vintage Cars,99,42,Australia,Medium
+42,94.25,2,3958.5,2003-09-12,9,2003,Vintage Cars,99,42,USA,Medium
+43,100.0,6,4991.44,2003-10-20,10,2003,Vintage Cars,99,42,USA,Medium
+29,95.24,4,2761.96,2003-11-05,11,2003,Vintage Cars,99,42,Italy,Small
+33,86.31,1,2848.23,2003-11-12,11,2003,Vintage Cars,99,42,USA,Small
+32,79.37,5,2539.84,2003-11-21,11,2003,Vintage Cars,99,42,Australia,Small
+28,87.3,11,2444.4,2003-12-05,12,2003,Vintage Cars,99,42,Canada,Small
+41,100.0,8,4555.92,2004-01-29,1,2004,Vintage Cars,99,42,USA,Medium
+33,100.0,1,3666.96,2004-03-02,3,2004,Vintage Cars,99,42,France,Medium
+36,84.33,5,3035.88,2004-04-29,4,2004,Vintage Cars,99,42,Spain,Medium
+26,89.29,5,2321.54,2004-06-14,6,2004,Vintage Cars,99,42,USA,Small
+34,100.0,7,3474.46,2004-08-17,8,2004,Vintage Cars,99,42,Italy,Medium
+26,96.23,2,2501.98,2004-09-07,9,2004,Vintage Cars,99,42,USA,Small
+38,100.0,11,3958.46,2004-10-11,10,2004,Vintage Cars,99,42,France,Medium
+33,100.0,8,3535.95,2004-10-21,10,2004,Vintage Cars,99,42,USA,Medium
+33,91.27,2,3011.91,2004-11-05,11,2004,Vintage Cars,99,42,Germany,Medium
+46,100.0,2,11336.7,2004-11-18,11,2004,Vintage Cars,99,42,USA,Large
+26,100.0,12,2656.94,2004-11-29,11,2004,Vintage Cars,99,42,Australia,Small
+25,100.0,3,2604.25,2004-12-10,12,2004,Vintage Cars,99,42,USA,Small
+45,73.08,4,3288.6,2005-01-20,1,2005,Vintage Cars,99,42,USA,Medium
+50,100.0,7,8935.5,2005-02-17,2,2005,Vintage Cars,99,42,USA,Large
+36,100.0,1,4035.96,2005-03-10,3,2005,Vintage Cars,99,42,Austria,Medium
+21,89.29,5,1875.09,2005-05-30,5,2005,Vintage Cars,99,42,Belgium,Small
+29,100.0,8,4049.56,2003-03-03,3,2003,Classic Cars,146,43,Philippines,Medium
+21,100.0,12,2469.39,2003-05-08,5,2003,Classic Cars,146,43,France,Small
+42,100.0,9,5432.7,2003-07-02,7,2003,Classic Cars,146,43,USA,Medium
+37,100.0,9,4405.22,2003-09-05,9,2003,Classic Cars,146,43,USA,Medium
+25,100.0,4,3638.0,2003-10-10,10,2003,Classic Cars,146,43,USA,Medium
+36,100.0,4,4444.92,2003-11-04,11,2003,Classic Cars,146,43,Australia,Medium
+22,100.0,16,3395.48,2003-11-12,11,2003,Classic Cars,146,43,Norway,Medium
+23,100.0,5,3414.58,2003-11-20,11,2003,Classic Cars,146,43,Germany,Medium
+32,100.0,10,5127.04,2003-12-02,12,2003,Classic Cars,146,43,Spain,Medium
+28,100.0,4,3745.28,2004-01-15,1,2004,Classic Cars,146,43,France,Medium
+27,100.0,11,4564.08,2004-02-22,2,2004,Classic Cars,146,43,Switzerland,Medium
+49,100.0,5,6554.24,2004-04-09,4,2004,Classic Cars,146,43,Denmark,Medium
+41,100.0,1,6749.83,2004-05-26,5,2004,Classic Cars,146,43,France,Medium
+49,100.0,1,8427.02,2004-07-02,7,2004,Classic Cars,146,43,Australia,Large
+30,100.0,5,3924.6,2004-08-02,8,2004,Classic Cars,146,43,USA,Medium
+40,100.0,14,6761.6,2004-08-30,8,2004,Classic Cars,146,43,Switzerland,Medium
+23,100.0,7,3786.49,2003-10-04,10,2003,Classic Cars,146,43,Germany,Medium
+49,100.0,12,6266.12,2004-10-16,10,2004,Classic Cars,146,43,Germany,Medium
+25,100.0,5,3491.0,2004-11-03,11,2004,Classic Cars,146,43,Sweden,Medium
+37,100.0,3,4405.22,2004-11-16,11,2004,Classic Cars,146,43,Philippines,Medium
+55,100.0,7,6548.3,2004-11-24,11,2004,Classic Cars,146,43,Australia,Medium
+23,100.0,7,3177.91,2004-12-07,12,2004,Classic Cars,146,43,Spain,Medium
+24,100.0,11,4142.64,2005-01-06,1,2005,Classic Cars,146,43,Finland,Medium
+43,96.49,10,4149.07,2005-02-10,2,2005,Classic Cars,146,43,Spain,Medium
+50,100.0,1,7397.0,2005-03-04,3,2005,Classic Cars,146,43,USA,Large
+47,100.0,2,6241.6,2003-03-10,3,2003,Classic Cars,141,44,USA,Medium
+34,100.0,4,5331.88,2003-05-20,5,2003,Classic Cars,141,44,France,Medium
+31,100.0,4,5124.3,2003-07-10,7,2003,Classic Cars,141,44,France,Medium
+28,100.0,11,3639.44,2003-09-11,9,2003,Classic Cars,141,44,Australia,Medium
+36,100.0,10,5544.0,2003-10-17,10,2003,Classic Cars,141,44,Denmark,Medium
+48,100.0,8,5493.12,2003-11-05,11,2003,Classic Cars,141,44,USA,Medium
+39,100.0,4,5785.26,2003-11-12,11,2003,Classic Cars,141,44,Norway,Medium
+45,100.0,9,5340.6,2003-11-20,11,2003,Classic Cars,141,44,USA,Medium
+35,100.0,15,5735.8,2003-12-02,12,2003,Classic Cars,141,44,USA,Medium
+45,100.0,8,6357.6,2004-01-16,1,2004,Classic Cars,141,44,Spain,Medium
+46,100.0,6,7343.9,2004-02-26,2,2004,Classic Cars,141,44,USA,Large
+37,100.0,1,5959.22,2004-04-13,4,2004,Classic Cars,141,44,Japan,Medium
+31,100.0,3,4029.38,2004-06-01,6,2004,Classic Cars,141,44,UK,Medium
+33,100.0,4,5035.14,2004-07-06,7,2004,Classic Cars,141,44,Italy,Medium
+31,100.0,4,4116.8,2004-08-06,8,2004,Classic Cars,141,44,USA,Medium
+27,100.0,2,4310.55,2004-08-30,8,2004,Classic Cars,141,44,Switzerland,Medium
+39,100.0,6,6446.7,2003-10-05,10,2003,Classic Cars,141,44,Norway,Medium
+32,100.0,11,3616.64,2004-10-16,10,2004,Classic Cars,141,44,Spain,Medium
+28,100.0,8,4232.76,2004-11-04,11,2004,Classic Cars,141,44,USA,Medium
+26,67.91,12,1765.66,2004-11-17,11,2004,Classic Cars,141,44,USA,Small
+44,84.88,2,3734.72,2004-11-24,11,2004,Classic Cars,141,44,France,Medium
+46,100.0,6,4808.38,2005-01-12,1,2005,Classic Cars,141,44,USA,Medium
+32,70.83,4,2266.56,2005-02-10,2,2005,Classic Cars,141,44,Spain,Small
+65,100.0,1,10468.9,2005-04-15,4,2005,Classic Cars,141,44,Denmark,Large
+43,100.0,3,5589.14,2005-05-17,5,2005,Classic Cars,141,44,Austria,Medium
+43,67.77,12,2914.11,2003-03-03,3,2003,Motorcycles,62,45,Philippines,Small
+35,49.74,16,1740.9,2003-05-08,5,2003,Motorcycles,62,45,France,Small
+45,50.36,13,2266.2,2003-07-02,7,2003,Motorcycles,62,45,USA,Small
+47,67.14,2,3155.58,2003-09-03,9,2003,Motorcycles,62,45,USA,Medium
+21,64.66,8,1357.86,2003-10-10,10,2003,Motorcycles,62,45,USA,Small
+38,68.39,8,2598.82,2003-11-04,11,2003,Motorcycles,62,45,Australia,Small
+21,50.36,3,1057.56,2003-11-11,11,2003,Motorcycles,62,45,France,Small
+43,72.74,9,3127.82,2003-11-20,11,2003,Motorcycles,62,45,Germany,Medium
+46,54.09,8,2488.14,2004-01-15,1,2004,Motorcycles,62,45,France,Small
+38,58.44,1,2220.72,2004-02-21,2,2004,Motorcycles,62,45,France,Small
+26,52.22,1,1357.72,2004-04-05,4,2004,Motorcycles,62,45,USA,Small
+31,52.84,5,1638.04,2004-05-26,5,2004,Motorcycles,62,45,France,Small
+48,54.71,3,2626.08,2004-06-30,6,2004,Motorcycles,62,45,USA,Small
+33,50.36,9,1661.88,2004-08-02,8,2004,Motorcycles,62,45,USA,Small
+38,57.2,1,2173.6,2004-08-28,8,2004,Motorcycles,62,45,France,Small
+39,55.95,3,2182.05,2004-09-30,9,2004,Motorcycles,62,45,Finland,Small
+42,67.14,16,2819.88,2004-10-16,10,2004,Motorcycles,62,45,Germany,Small
+44,59.06,4,2598.64,2004-11-03,11,2004,Motorcycles,62,45,USA,Small
+29,69.63,2,2019.27,2004-11-16,11,2004,Motorcycles,62,45,Philippines,Small
+26,55.95,8,1454.7,2004-11-24,11,2004,Motorcycles,62,45,Australia,Small
+31,53.47,1,1657.57,2004-12-07,12,2004,Motorcycles,62,45,Spain,Small
+32,89.12,12,2851.84,2005-01-06,1,2005,Motorcycles,62,45,Finland,Small
+28,100.0,9,4609.64,2005-02-10,2,2005,Motorcycles,62,45,Spain,Medium
+36,100.0,2,5079.96,2005-03-04,3,2005,Motorcycles,62,45,USA,Medium
+36,52.22,1,1879.92,2005-04-08,4,2005,Motorcycles,62,45,UK,Small
+41,100.0,17,4774.86,2003-02-17,2,2003,Vintage Cars,105,46,Italy,Medium
+27,99.52,8,2687.04,2003-04-28,4,2003,Vintage Cars,105,46,Austria,Small
+33,100.0,1,3423.75,2003-06-16,6,2003,Vintage Cars,105,46,USA,Medium
+34,100.0,12,3455.76,2003-08-10,8,2003,Vintage Cars,105,46,USA,Medium
+29,100.0,10,3622.97,2003-10-06,10,2003,Vintage Cars,105,46,Finland,Medium
+34,100.0,6,3599.58,2003-10-23,10,2003,Vintage Cars,105,46,Sweden,Medium
+48,100.0,9,5386.56,2003-11-08,11,2003,Vintage Cars,105,46,France,Medium
+46,100.0,6,4918.78,2003-11-14,11,2003,Vintage Cars,105,46,UK,Medium
+22,100.0,3,2538.8,2003-11-26,11,2003,Vintage Cars,105,46,Spain,Small
+20,100.0,5,2498.6,2004-01-09,1,2004,Vintage Cars,105,46,USA,Small
+45,85.75,9,3858.75,2004-02-19,2,2004,Vintage Cars,105,46,USA,Medium
+46,100.0,5,5600.5,2004-05-08,5,2004,Vintage Cars,105,46,USA,Medium
+34,100.0,14,4103.46,2004-06-24,6,2004,Vintage Cars,105,46,Spain,Medium
+50,85.75,1,4287.5,2004-07-21,7,2004,Vintage Cars,105,46,Belgium,Medium
+46,100.0,3,5795.54,2004-08-20,8,2004,Vintage Cars,105,46,Canada,Medium
+22,84.7,12,1863.4,2004-09-15,9,2004,Vintage Cars,105,46,Germany,Small
+48,86.81,6,4166.88,2004-10-14,10,2004,Vintage Cars,105,46,USA,Medium
+47,86.81,14,4080.07,2004-11-01,11,2004,Vintage Cars,105,46,UK,Medium
+34,100.0,6,3815.48,2004-11-12,11,2004,Vintage Cars,105,46,Italy,Medium
+45,100.0,2,5526.45,2004-11-22,11,2004,Vintage Cars,105,46,Belgium,Medium
+20,100.0,2,3374.6,2004-12-03,12,2004,Vintage Cars,105,46,UK,Medium
+50,60.49,6,3024.5,2005-01-31,1,2005,Vintage Cars,105,46,Finland,Medium
+22,57.55,6,1266.1,2005-03-01,3,2005,Vintage Cars,105,46,Spain,Small
+45,100.0,17,4811.85,2005-03-30,3,2005,Vintage Cars,105,46,France,Medium
+58,100.0,6,7307.42,2005-04-01,4,2005,Vintage Cars,105,46,USA,Large
+51,100.0,5,6209.25,2005-05-09,5,2005,Vintage Cars,105,46,Australia,Medium
+38,100.0,3,5348.5,2003-01-31,1,2003,Classic Cars,143,47,Spain,Medium
+22,100.0,12,2780.58,2003-04-16,4,2003,Classic Cars,143,47,Singapore,Small
+25,100.0,5,3447.0,2003-06-03,6,2003,Classic Cars,143,47,USA,Medium
+24,100.0,15,3791.52,2003-08-08,8,2003,Classic Cars,143,47,USA,Medium
+35,100.0,1,4524.1,2003-09-25,9,2003,Classic Cars,143,47,Australia,Medium
+28,100.0,6,3337.6,2003-10-22,10,2003,Classic Cars,143,47,Singapore,Medium
+36,100.0,5,5532.12,2003-11-06,11,2003,Classic Cars,143,47,Italy,Medium
+39,100.0,16,5096.91,2003-11-14,11,2003,Classic Cars,143,47,USA,Medium
+27,100.0,8,4537.08,2003-11-26,11,2003,Classic Cars,143,47,USA,Medium
+40,100.0,1,6146.8,2003-12-09,12,2003,Classic Cars,143,47,USA,Medium
+50,100.0,5,8258.0,2004-02-12,2,2004,Classic Cars,143,47,Ireland,Large
+42,100.0,3,7238.28,2004-03-15,3,2004,Classic Cars,143,47,Germany,Large
+48,100.0,5,6756.0,2004-05-05,5,2004,Classic Cars,143,47,Finland,Medium
+25,100.0,5,3734.0,2004-07-20,7,2004,Classic Cars,143,47,USA,Medium
+31,100.0,8,4674.8,2004-08-20,8,2004,Classic Cars,143,47,USA,Medium
+44,100.0,2,7140.76,2004-09-08,9,2004,Classic Cars,143,47,USA,Large
+23,100.0,16,3600.65,2004-10-14,10,2004,Classic Cars,143,47,UK,Medium
+29,100.0,8,4206.74,2004-10-22,10,2004,Classic Cars,143,47,Denmark,Medium
+49,100.0,13,5379.71,2004-11-05,11,2004,Classic Cars,143,47,USA,Medium
+36,100.0,3,5679.36,2004-11-21,11,2004,Classic Cars,143,47,USA,Medium
+34,100.0,5,4394.84,2004-12-01,12,2004,Classic Cars,143,47,USA,Medium
+25,100.0,13,2528.25,2004-12-10,12,2004,Classic Cars,143,47,Spain,Small
+48,100.0,6,7031.52,2005-01-26,1,2005,Classic Cars,143,47,Japan,Large
+38,100.0,1,5340.9,2005-02-22,2,2005,Classic Cars,143,47,Spain,Medium
+37,100.0,1,6376.58,2005-03-15,3,2005,Classic Cars,143,47,Spain,Medium
+49,100.0,5,6896.75,2005-05-05,5,2005,Classic Cars,143,47,USA,Medium
+22,86.51,4,1903.22,2003-01-06,1,2003,Vintage Cars,92,48,USA,Small
+28,89.27,8,2499.56,2003-03-18,3,2003,Vintage Cars,92,48,UK,Small
+36,85.59,7,3081.24,2003-05-21,5,2003,Vintage Cars,92,48,USA,Medium
+34,100.0,1,3598.22,2003-09-11,9,2003,Vintage Cars,92,48,Australia,Medium
+39,100.0,10,3912.09,2003-10-18,10,2003,Vintage Cars,92,48,USA,Medium
+21,75.46,14,1584.66,2003-11-05,11,2003,Vintage Cars,92,48,Italy,Small
+36,100.0,11,3942.72,2003-11-12,11,2003,Vintage Cars,92,48,USA,Medium
+24,97.55,15,2341.2,2003-11-21,11,2003,Vintage Cars,92,48,Australia,Small
+29,85.59,5,2482.11,2003-12-02,12,2003,Vintage Cars,92,48,USA,Small
+38,94.79,1,3602.02,2004-01-22,1,2004,Vintage Cars,92,48,UK,Medium
+34,100.0,11,3566.94,2004-03-02,3,2004,Vintage Cars,92,48,France,Medium
+42,90.19,3,3787.98,2004-04-13,4,2004,Vintage Cars,92,48,France,Medium
+35,100.0,17,3704.05,2004-08-17,8,2004,Vintage Cars,92,48,Italy,Medium
+35,80.99,6,2834.65,2004-09-01,9,2004,Vintage Cars,92,48,Singapore,Small
+38,89.27,2,3392.26,2003-10-06,10,2003,Vintage Cars,92,48,UK,Medium
+41,81.91,1,3358.31,2004-10-16,10,2004,Vintage Cars,92,48,Spain,Medium
+50,100.0,2,7310.0,2004-11-17,11,2004,Vintage Cars,92,48,UK,Large
+21,100.0,4,2203.11,2004-11-25,11,2004,Vintage Cars,92,48,France,Small
+43,62.72,8,2696.96,2005-01-12,1,2005,Vintage Cars,92,48,USA,Small
+32,100.0,1,3376.64,2005-02-16,2,2005,Vintage Cars,92,48,Spain,Medium
+6,90.19,3,541.14,2005-04-22,4,2005,Vintage Cars,92,48,USA,Small
+66,92.95,6,6134.7,2005-05-29,5,2005,Vintage Cars,92,48,Australia,Medium
+41,82.5,10,3382.5,2003-02-11,2,2003,Vintage Cars,87,49,Denmark,Medium
+23,97.42,4,2240.66,2003-04-16,4,2003,Vintage Cars,87,49,Singapore,Small
+43,92.16,1,3962.88,2003-06-06,6,2003,Vintage Cars,87,49,Spain,Medium
+24,70.22,7,1685.28,2003-08-08,8,2003,Vintage Cars,87,49,USA,Small
+22,83.38,6,1834.36,2003-09-28,9,2003,Vintage Cars,87,49,Spain,Small
+26,73.73,1,1916.98,2003-10-21,10,2003,Vintage Cars,87,49,USA,Small
+35,74.6,8,2611.0,2003-11-07,11,2003,Vintage Cars,87,49,Spain,Small
+47,77.24,8,3630.28,2003-11-14,11,2003,Vintage Cars,87,49,USA,Medium
+50,100.0,14,5090.5,2003-11-26,11,2003,Vintage Cars,87,49,Spain,Medium
+45,87.77,8,3949.65,2004-01-02,1,2004,Vintage Cars,87,49,France,Medium
+39,89.53,2,3491.67,2004-02-18,2,2004,Vintage Cars,87,49,Belgium,Medium
+23,89.53,5,2059.19,2004-03-20,3,2004,Vintage Cars,87,49,UK,Small
+42,75.48,11,3170.16,2004-05-07,5,2004,Vintage Cars,87,49,USA,Medium
+20,89.53,9,1790.6,2004-06-17,6,2004,Vintage Cars,87,49,Canada,Small
+33,71.09,12,2345.97,2004-07-21,7,2004,Vintage Cars,87,49,Belgium,Small
+34,100.0,14,3580.88,2004-08-20,8,2004,Vintage Cars,87,49,Canada,Medium
+49,100.0,3,4946.06,2004-09-09,9,2004,Vintage Cars,87,49,Italy,Medium
+39,90.4,8,3525.6,2004-10-14,10,2004,Vintage Cars,87,49,UK,Medium
+36,100.0,7,3602.16,2004-10-29,10,2004,Vintage Cars,87,49,France,Medium
+50,86.01,5,4300.5,2004-11-09,11,2004,Vintage Cars,87,49,Sweden,Medium
+29,100.0,2,4498.19,2004-11-21,11,2004,Vintage Cars,87,49,USA,Medium
+30,100.0,3,3023.1,2004-12-02,12,2004,Vintage Cars,87,49,Spain,Medium
+41,86.89,7,3562.49,2005-01-26,1,2005,Vintage Cars,87,49,Japan,Medium
+28,58.58,7,1640.24,2005-02-22,2,2005,Vintage Cars,87,49,Spain,Small
+45,100.0,5,4739.4,2005-03-23,3,2005,Vintage Cars,87,49,USA,Medium
+16,75.48,11,1207.68,2005-05-06,5,2005,Vintage Cars,87,49,USA,Small
+36,100.0,5,4228.2,2003-01-29,1,2003,Trucks and Buses,121,50,Norway,Medium
+41,100.0,9,4815.45,2003-04-01,4,2003,Trucks and Buses,121,50,France,Medium
+50,100.0,5,7083.0,2003-05-28,5,2003,Trucks and Buses,121,50,Spain,Large
+40,100.0,5,4601.2,2003-07-24,7,2003,Trucks and Buses,121,50,USA,Medium
+49,100.0,2,6467.02,2003-09-19,9,2003,Trucks and Buses,121,50,Singapore,Medium
+45,100.0,3,5012.55,2003-10-21,10,2003,Trucks and Buses,121,50,Austria,Medium
+47,100.0,10,5121.59,2003-11-06,11,2003,Trucks and Buses,121,50,UK,Medium
+21,100.0,2,2441.04,2003-11-13,11,2003,Trucks and Buses,121,50,USA,Small
+32,100.0,5,4262.08,2003-11-25,11,2003,Trucks and Buses,121,50,France,Medium
+47,100.0,16,6658.02,2003-12-09,12,2003,Trucks and Buses,121,50,USA,Medium
+38,100.0,5,4509.08,2004-02-04,2,2004,Trucks and Buses,121,50,Singapore,Medium
+41,100.0,10,4716.23,2004-03-11,3,2004,Trucks and Buses,121,50,USA,Medium
+21,100.0,3,2390.22,2004-05-04,5,2004,Trucks and Buses,121,50,USA,Small
+41,100.0,13,4666.62,2004-06-15,6,2004,Trucks and Buses,121,50,Singapore,Medium
+38,100.0,3,5383.08,2004-07-19,7,2004,Trucks and Buses,121,50,Australia,Medium
+25,99.29,10,2482.25,2004-08-19,8,2004,Trucks and Buses,121,50,USA,Small
+48,100.0,5,5288.64,2004-09-08,9,2004,Trucks and Buses,121,50,Sweden,Medium
+22,99.29,14,2184.38,2004-10-13,10,2004,Trucks and Buses,121,50,USA,Small
+28,100.0,8,2881.76,2004-10-22,10,2004,Trucks and Buses,121,50,Canada,Small
+47,100.0,1,6203.06,2004-11-05,11,2004,Trucks and Buses,121,50,Germany,Medium
+49,100.0,4,6763.47,2004-11-19,11,2004,Trucks and Buses,121,50,Sweden,Medium
+45,100.0,4,5884.65,2004-11-29,11,2004,Trucks and Buses,121,50,Australia,Medium
+28,100.0,2,3559.64,2004-12-10,12,2004,Trucks and Buses,121,50,USA,Medium
+29,57.53,6,1668.37,2005-01-20,1,2005,Trucks and Buses,121,50,Australia,Small
+39,100.0,1,4890.6,2005-02-17,2,2005,Trucks and Buses,121,50,USA,Medium
+46,100.0,3,5235.72,2005-05-01,5,2005,Trucks and Buses,121,50,Canada,Medium
+38,100.0,13,4325.16,2005-05-31,5,2005,Trucks and Buses,121,50,France,Medium
+41,47.29,9,1938.89,2003-01-29,1,2003,Vintage Cars,50,51,Norway,Small
+50,49.81,3,2490.5,2003-03-26,3,2003,Vintage Cars,50,51,USA,Small
+43,53.83,9,2314.69,2003-05-28,5,2003,Vintage Cars,50,51,Spain,Small
+29,43.27,9,1254.83,2003-07-24,7,2003,Vintage Cars,50,51,USA,Small
+30,42.76,6,1282.8,2003-09-19,9,2003,Vintage Cars,50,51,Singapore,Small
+25,53.83,7,1345.75,2003-10-21,10,2003,Vintage Cars,50,51,Austria,Small
+49,44.78,2,2194.22,2003-11-06,11,2003,Vintage Cars,50,51,Australia,Small
+40,49.3,6,1972.0,2003-11-13,11,2003,Vintage Cars,50,51,USA,Small
+41,44.78,9,1835.98,2003-11-25,11,2003,Vintage Cars,50,51,France,Small
+21,53.33,4,1119.93,2003-12-05,12,2003,Vintage Cars,50,51,Canada,Small
+46,45.28,1,2082.88,2004-01-29,1,2004,Vintage Cars,50,51,USA,Small
+39,40.25,14,1569.75,2004-03-11,3,2004,Vintage Cars,50,51,USA,Small
+45,59.87,7,2694.15,2004-05-04,5,2004,Vintage Cars,50,51,USA,Small
+21,59.87,4,1257.27,2004-06-15,6,2004,Vintage Cars,50,51,Japan,Small
+44,58.36,7,2567.84,2004-07-19,7,2004,Vintage Cars,50,51,Australia,Small
+44,59.87,14,2634.28,2004-08-19,8,2004,Vintage Cars,50,51,USA,Small
+29,51.82,9,1502.78,2004-09-08,9,2004,Vintage Cars,50,51,Sweden,Small
+34,49.3,4,1676.2,2004-10-11,10,2004,Vintage Cars,50,51,France,Small
+39,56.85,1,2217.15,2004-10-21,10,2004,Vintage Cars,50,51,USA,Small
+38,100.0,6,6832.02,2004-11-05,11,2004,Vintage Cars,50,51,USA,Medium
+24,79.86,8,1916.64,2004-11-18,11,2004,Vintage Cars,50,51,USA,Small
+29,100.0,6,7110.8,2004-11-01,11,2004,Vintage Cars,50,51,Spain,Large
+30,100.0,8,5302.8,2004-12-10,12,2004,Vintage Cars,50,51,Spain,Medium
+20,100.0,2,2730.0,2005-01-20,1,2005,Vintage Cars,50,51,Australia,Small
+39,100.0,2,7827.3,2005-02-17,2,2005,Vintage Cars,50,51,USA,Large
+35,59.87,7,2095.45,2005-05-01,5,2005,Vintage Cars,50,51,Canada,Small
+26,59.87,4,1556.62,2005-05-31,5,2005,Vintage Cars,50,51,Spain,Small
+44,100.0,11,5565.12,2003-03-03,3,2003,Classic Cars,148,52,Philippines,Medium
+28,100.0,15,3583.16,2003-05-08,5,2003,Classic Cars,148,52,France,Medium
+31,100.0,12,4705.18,2003-07-02,7,2003,Classic Cars,148,52,USA,Medium
+29,100.0,1,4444.54,2003-09-03,9,2003,Classic Cars,148,52,USA,Medium
+32,100.0,7,4618.88,2003-10-10,10,2003,Classic Cars,148,52,USA,Medium
+33,100.0,7,4910.4,2003-11-04,11,2003,Classic Cars,148,52,Australia,Medium
+44,100.0,2,5565.12,2003-11-11,11,2003,Classic Cars,148,52,France,Medium
+32,100.0,8,4237.76,2003-11-20,11,2003,Classic Cars,148,52,Germany,Medium
+41,100.0,7,5673.58,2004-01-15,1,2004,Classic Cars,148,52,France,Medium
+35,100.0,14,5260.15,2004-02-22,2,2004,Classic Cars,148,52,Switzerland,Medium
+44,100.0,8,6350.96,2004-04-09,4,2004,Classic Cars,148,52,Denmark,Medium
+26,100.0,4,3559.4,2004-05-26,5,2004,Classic Cars,148,52,France,Medium
+20,100.0,2,2410.6,2004-06-30,6,2004,Classic Cars,148,52,USA,Small
+48,100.0,8,5713.92,2004-08-02,8,2004,Classic Cars,148,52,USA,Medium
+34,100.0,17,4300.32,2004-08-30,8,2004,Classic Cars,148,52,Switzerland,Medium
+49,100.0,2,7947.31,2004-09-30,9,2004,Classic Cars,148,52,Finland,Large
+40,100.0,15,5356.8,2004-10-16,10,2004,Classic Cars,148,52,Germany,Medium
+45,100.0,3,7901.1,2004-11-03,11,2004,Classic Cars,148,52,USA,Large
+50,100.0,4,6101.0,2004-11-16,11,2004,Classic Cars,148,52,Philippines,Medium
+38,100.0,11,6276.46,2004-11-24,11,2004,Classic Cars,148,52,Australia,Medium
+25,100.0,2,4203.5,2004-12-07,12,2004,Classic Cars,148,52,Spain,Medium
+28,58.18,13,1629.04,2005-01-06,1,2005,Classic Cars,148,52,Finland,Small
+49,67.14,8,3289.86,2005-02-10,2,2005,Classic Cars,148,52,Spain,Medium
+49,100.0,3,6862.94,2005-03-04,3,2005,Classic Cars,148,52,USA,Medium
+42,61.29,9,2574.18,2003-03-18,3,2003,Classic Cars,71,53,UK,Small
+23,57.73,8,1327.79,2003-05-21,5,2003,Classic Cars,71,53,USA,Small
+29,81.25,2,2356.25,2003-09-11,9,2003,Classic Cars,71,53,Australia,Small
+25,80.54,1,2013.5,2003-10-17,10,2003,Classic Cars,71,53,Denmark,Small
+39,71.98,15,2807.22,2003-11-05,11,2003,Classic Cars,71,53,Italy,Small
+44,69.84,12,3072.96,2003-11-12,11,2003,Classic Cars,71,53,USA,Medium
+25,76.26,16,1906.5,2003-11-21,11,2003,Classic Cars,71,53,Australia,Small
+45,76.26,6,3431.7,2003-12-02,12,2003,Classic Cars,71,53,USA,Medium
+25,83.39,2,2084.75,2004-01-22,1,2004,Classic Cars,71,53,UK,Small
+37,57.73,12,2136.01,2004-03-02,3,2004,Classic Cars,71,53,France,Small
+30,66.99,4,2009.7,2004-04-13,4,2004,Classic Cars,71,53,France,Small
+36,75.55,1,2719.8,2004-07-07,7,2004,Classic Cars,71,53,USA,Small
+26,60.58,1,1575.08,2004-08-09,8,2004,Classic Cars,71,53,Spain,Small
+23,73.41,7,1688.43,2004-09-01,9,2004,Classic Cars,71,53,Singapore,Small
+23,72.7,3,1672.1,2003-10-06,10,2003,Classic Cars,71,53,UK,Small
+25,66.99,2,1674.75,2004-10-16,10,2004,Classic Cars,71,53,Spain,Small
+21,100.0,3,3472.98,2004-11-17,11,2004,Classic Cars,71,53,UK,Medium
+26,63.43,5,1649.18,2004-11-25,11,2004,Classic Cars,71,53,France,Small
+44,85.25,9,3751.0,2005-01-12,1,2005,Classic Cars,71,53,USA,Medium
+24,100.0,2,4536.0,2005-02-16,2,2005,Classic Cars,71,53,Spain,Medium
+66,66.99,4,4421.34,2005-04-22,4,2005,Classic Cars,71,53,USA,Medium
+36,57.73,7,2078.28,2005-05-29,5,2005,Classic Cars,71,53,Australia,Small
+36,85.25,13,3069.0,2003-03-18,3,2003,Classic Cars,73,54,UK,Medium
+22,77.9,12,1713.8,2003-05-21,5,2003,Classic Cars,73,54,USA,Small
+25,60.26,6,1506.5,2003-09-11,9,2003,Classic Cars,73,54,Australia,Small
+37,72.76,5,2692.12,2003-10-17,10,2003,Classic Cars,73,54,Denmark,Small
+32,75.69,3,2422.08,2003-11-05,11,2003,Classic Cars,73,54,USA,Small
+47,74.22,16,3488.34,2003-11-12,11,2003,Classic Cars,73,54,USA,Medium
+37,69.82,4,2583.34,2003-11-20,11,2003,Classic Cars,73,54,USA,Small
+20,62.47,10,1249.4,2003-12-02,12,2003,Classic Cars,73,54,USA,Small
+41,82.31,3,3374.71,2004-01-16,1,2004,Classic Cars,73,54,Spain,Medium
+21,60.26,1,1265.46,2004-02-26,2,2004,Classic Cars,73,54,USA,Small
+22,76.43,8,1681.46,2004-04-13,4,2004,Classic Cars,73,54,France,Small
+40,80.1,5,3204.0,2004-07-07,7,2004,Classic Cars,73,54,USA,Medium
+32,74.96,5,2398.72,2004-08-09,8,2004,Classic Cars,73,54,Spain,Small
+36,66.14,11,2381.04,2004-09-01,9,2004,Classic Cars,73,54,Singapore,Small
+27,72.02,1,1944.54,2003-10-05,10,2003,Classic Cars,73,54,Norway,Small
+26,87.45,6,2273.7,2004-10-16,10,2004,Classic Cars,73,54,Spain,Small
+30,70.55,3,2116.5,2004-11-04,11,2004,Classic Cars,73,54,USA,Small
+23,56.84,4,1307.32,2004-11-17,11,2004,Classic Cars,73,54,UK,Small
+29,59.53,7,1726.37,2004-11-25,11,2004,Classic Cars,73,54,France,Small
+21,60.37,10,1267.77,2005-01-12,1,2005,Classic Cars,73,54,USA,Small
+34,100.0,3,3441.82,2005-02-16,2,2005,Classic Cars,73,54,Spain,Medium
+26,76.43,8,1987.18,2005-04-22,4,2005,Classic Cars,73,54,USA,Small
+60,64.67,11,3880.2,2005-05-29,5,2005,Classic Cars,73,54,Australia,Medium
+35,55.49,6,1942.15,2003-01-31,1,2003,Classic Cars,57,55,Spain,Small
+47,69.36,2,3259.92,2003-04-04,4,2003,Classic Cars,57,55,USA,Medium
+20,60.69,8,1213.8,2003-06-03,6,2003,Classic Cars,57,55,USA,Small
+20,54.33,2,1086.6,2003-08-01,8,2003,Classic Cars,57,55,Finland,Small
+25,65.31,4,1632.75,2003-09-25,9,2003,Classic Cars,57,55,Australia,Small
+25,69.36,9,1734.0,2003-10-22,10,2003,Classic Cars,57,55,Singapore,Small
+27,68.78,8,1857.06,2003-11-06,11,2003,Classic Cars,57,55,Italy,Small
+31,60.11,3,1863.41,2003-11-14,11,2003,Classic Cars,57,55,Spain,Small
+44,66.47,3,2924.68,2003-11-25,11,2003,Classic Cars,57,55,USA,Small
+49,46.82,4,2294.18,2003-12-09,12,2003,Classic Cars,57,55,USA,Small
+26,56.07,8,1457.82,2004-02-12,2,2004,Classic Cars,57,55,Ireland,Small
+36,54.33,6,1955.88,2004-03-15,3,2004,Classic Cars,57,55,Germany,Small
+44,52.6,2,2314.4,2004-05-05,5,2004,Classic Cars,57,55,Spain,Small
+28,46.82,1,1310.96,2004-06-15,6,2004,Classic Cars,57,55,Singapore,Small
+45,64.74,2,2913.3,2004-07-20,7,2004,Classic Cars,57,55,USA,Small
+29,46.82,11,1357.78,2004-08-20,8,2004,Classic Cars,57,55,USA,Small
+40,53.75,5,2150.0,2004-09-08,9,2004,Classic Cars,57,55,USA,Small
+45,61.85,2,2783.25,2004-10-13,10,2004,Classic Cars,57,55,USA,Small
+44,53.18,11,2339.92,2004-10-22,10,2004,Classic Cars,57,55,Denmark,Small
+25,69.16,14,1729.0,2004-11-05,11,2004,Classic Cars,57,55,USA,Small
+45,100.0,4,5972.4,2004-11-20,11,2004,Classic Cars,57,55,France,Medium
+48,47.4,4,2275.2,2004-12-01,12,2004,Classic Cars,57,55,USA,Small
+44,60.76,14,2673.44,2004-12-10,12,2004,Classic Cars,57,55,Spain,Small
+25,97.27,12,2431.75,2005-01-23,1,2005,Classic Cars,57,55,USA,Small
+22,91.76,2,2018.72,2005-02-22,2,2005,Classic Cars,57,55,Spain,Small
+31,50.29,2,1558.99,2005-03-15,3,2005,Classic Cars,57,55,Spain,Small
+21,52.6,2,1104.6,2005-05-03,5,2005,Classic Cars,57,55,Spain,Small
+55,46.82,1,2575.1,2005-05-31,5,2005,Classic Cars,57,55,France,Small
+25,100.0,3,2845.75,2003-02-24,2,2003,Motorcycles,112,56,USA,Small
+35,98.05,1,3431.75,2003-04-29,4,2003,Motorcycles,112,56,Australia,Medium
+35,93.54,3,3273.9,2003-07-01,7,2003,Motorcycles,112,56,France,Medium
+43,95.8,7,4119.4,2003-08-25,8,2003,Motorcycles,112,56,USA,Medium
+44,100.0,15,5355.68,2003-10-10,10,2003,Motorcycles,112,56,USA,Medium
+50,100.0,2,5747.5,2003-10-28,10,2003,Motorcycles,112,56,USA,Medium
+48,100.0,10,5355.36,2003-11-11,11,2003,Motorcycles,112,56,France,Medium
+25,100.0,2,2535.75,2003-11-18,11,2003,Motorcycles,112,56,Norway,Small
+39,100.0,3,4351.23,2003-12-01,12,2003,Motorcycles,112,56,USA,Medium
+25,90.16,15,2254.0,2004-01-15,1,2004,Motorcycles,112,56,France,Small
+32,91.29,2,2921.28,2004-02-20,2,2004,Motorcycles,112,56,Australia,Small
+20,100.0,8,2299.0,2004-04-05,4,2004,Motorcycles,112,56,USA,Small
+26,100.0,3,2637.18,2004-05-18,5,2004,Motorcycles,112,56,USA,Small
+42,100.0,3,4307.52,2004-06-28,6,2004,Motorcycles,112,56,USA,Medium
+21,100.0,2,2153.76,2004-07-23,7,2004,Motorcycles,112,56,France,Small
+34,100.0,7,3716.88,2004-08-27,8,2004,Motorcycles,112,56,USA,Medium
+47,100.0,10,5455.76,2004-09-30,9,2004,Motorcycles,112,56,Finland,Medium
+21,100.0,6,2650.62,2004-10-15,10,2004,Motorcycles,112,56,Norway,Small
+48,100.0,2,6437.28,2004-11-02,11,2004,Motorcycles,112,56,USA,Medium
+30,87.78,7,2633.4,2004-11-15,11,2004,Motorcycles,112,56,USA,Small
+27,84.39,10,2278.53,2004-11-23,11,2004,Motorcycles,112,56,Japan,Small
+50,96.92,2,4846.0,2005-01-05,1,2005,Motorcycles,112,56,USA,Medium
+38,100.0,6,4197.1,2005-02-02,2,2005,Motorcycles,112,56,Australia,Medium
+45,100.0,1,4597.65,2005-03-03,3,2005,Motorcycles,112,56,Sweden,Medium
+46,100.0,8,5287.7,2005-04-08,4,2005,Motorcycles,112,56,UK,Medium
+35,100.0,3,3550.05,2005-05-13,5,2005,Motorcycles,112,56,Spain,Medium
+29,59.37,15,1721.73,2003-03-18,3,2003,Classic Cars,50,57,UK,Small
+50,59.87,1,2993.5,2003-05-20,5,2003,Classic Cars,50,57,France,Small
+26,49.81,1,1295.06,2003-07-10,7,2003,Classic Cars,50,57,France,Small
+47,56.85,8,2671.95,2003-09-11,9,2003,Classic Cars,50,57,Australia,Small
+23,53.33,7,1226.59,2003-10-17,10,2003,Classic Cars,50,57,Denmark,Small
+34,42.76,5,1453.84,2003-11-05,11,2003,Classic Cars,50,57,USA,Small
+34,53.83,1,1830.22,2003-11-12,11,2003,Classic Cars,50,57,Norway,Small
+47,53.83,6,2530.01,2003-11-20,11,2003,Classic Cars,50,57,USA,Small
+45,49.81,12,2241.45,2003-12-02,12,2003,Classic Cars,50,57,USA,Small
+45,53.33,5,2399.85,2004-01-16,1,2004,Classic Cars,50,57,Spain,Small
+36,43.27,3,1557.72,2004-02-26,2,2004,Classic Cars,50,57,USA,Small
+21,40.25,10,845.25,2004-04-13,4,2004,Classic Cars,50,57,France,Small
+28,48.3,1,1352.4,2004-07-06,7,2004,Classic Cars,50,57,Italy,Small
+35,45.28,1,1584.8,2004-08-06,8,2004,Classic Cars,50,57,USA,Small
+50,52.32,13,2616.0,2004-09-01,9,2004,Classic Cars,50,57,Singapore,Small
+22,51.32,3,1129.04,2003-10-05,10,2003,Classic Cars,50,57,Norway,Small
+45,49.3,8,2218.5,2004-10-16,10,2004,Classic Cars,50,57,Spain,Small
+48,42.26,5,2028.48,2004-11-04,11,2004,Classic Cars,50,57,USA,Small
+20,87.96,5,1759.2,2004-11-17,11,2004,Classic Cars,50,57,UK,Small
+27,36.21,6,977.67,2004-11-24,11,2004,Classic Cars,50,57,France,Small
+38,38.5,11,1463.0,2005-01-12,1,2005,Classic Cars,50,57,USA,Small
+32,100.0,3,3970.56,2005-02-10,2,2005,Classic Cars,50,57,Spain,Medium
+64,40.25,10,2576.0,2005-04-22,4,2005,Classic Cars,50,57,USA,Small
+37,60.37,13,2233.69,2005-05-29,5,2005,Classic Cars,50,57,Australia,Small
+28,88.63,4,2481.64,2003-02-17,2,2003,Planes,109,58,Italy,Small
+39,100.0,10,4651.53,2003-04-29,4,2003,Planes,109,58,Australia,Medium
+41,94.1,5,3858.1,2003-06-27,6,2003,Planes,109,58,Spain,Medium
+40,87.54,16,3501.6,2003-08-25,8,2003,Planes,109,58,USA,Medium
+49,100.0,11,6433.7,2003-10-28,10,2003,Planes,109,58,USA,Medium
+27,98.48,9,2658.96,2004-01-12,1,2004,Planes,109,58,Japan,Small
+34,100.0,11,3608.76,2004-02-20,2,2004,Planes,109,58,Australia,Medium
+23,96.29,5,2214.67,2004-04-02,4,2004,Planes,109,58,Canada,Small
+31,88.63,6,2747.53,2004-05-11,5,2004,Planes,109,58,USA,Small
+34,97.38,1,3310.92,2004-06-24,6,2004,Planes,109,58,Spain,Medium
+25,95.2,11,2380.0,2004-07-23,7,2004,Planes,109,58,France,Small
+22,100.0,3,2310.88,2004-08-21,8,2004,Planes,109,58,Norway,Small
+32,100.0,6,4061.76,2004-09-16,9,2004,Planes,109,58,Ireland,Medium
+31,100.0,9,3493.7,2004-10-15,10,2004,Planes,109,58,USA,Medium
+25,100.0,1,2872.25,2004-11-01,11,2004,Planes,109,58,UK,Small
+47,87.54,14,4114.38,2004-11-12,11,2004,Planes,109,58,Italy,Medium
+21,50.65,7,1063.65,2004-11-23,11,2004,Planes,109,58,Japan,Small
+28,71.73,2,2008.44,2004-12-04,12,2004,Planes,109,58,USA,Small
+46,94.1,3,4328.6,2005-02-02,2,2005,Planes,109,58,Australia,Medium
+33,41.71,11,1376.43,2005-03-01,3,2005,Planes,109,58,Spain,Small
+43,100.0,16,5552.16,2005-03-30,3,2005,Planes,109,58,France,Medium
+38,96.29,5,3659.02,2005-04-03,4,2005,Planes,109,58,USA,Medium
+47,88.63,6,4165.61,2005-05-10,5,2005,Planes,109,58,Italy,Medium
+45,31.2,3,1404.0,2003-01-09,1,2003,Vintage Cars,33,59,Germany,Small
+20,35.51,3,710.2,2003-03-18,3,2003,Vintage Cars,33,59,UK,Small
+45,37.84,2,1702.8,2003-05-21,5,2003,Vintage Cars,33,59,USA,Small
+36,33.19,7,1194.84,2003-09-12,9,2003,Vintage Cars,33,59,USA,Small
+37,27.22,5,1007.14,2003-10-18,10,2003,Vintage Cars,33,59,USA,Small
+31,31.53,9,977.43,2003-11-05,11,2003,Vintage Cars,33,59,Italy,Small
+39,36.84,6,1436.76,2003-11-12,11,2003,Vintage Cars,33,59,USA,Small
+26,29.21,10,759.46,2003-11-21,11,2003,Vintage Cars,33,59,Australia,Small
+32,37.17,5,1189.44,2003-12-03,12,2003,Vintage Cars,33,59,Spain,Small
+20,34.19,3,683.8,2004-01-26,1,2004,Vintage Cars,33,59,Spain,Small
+42,29.21,6,1226.82,2004-03-02,3,2004,Vintage Cars,33,59,France,Small
+33,29.54,1,974.82,2004-04-26,4,2004,Vintage Cars,33,59,USA,Small
+20,28.88,12,577.6,2004-08-17,8,2004,Vintage Cars,33,59,Italy,Small
+29,38.17,1,1106.93,2004-09-01,9,2004,Vintage Cars,33,59,Singapore,Small
+23,30.2,16,694.6,2004-10-11,10,2004,Vintage Cars,33,59,France,Small
+39,29.54,13,1152.06,2004-10-21,10,2004,Vintage Cars,33,59,USA,Small
+20,100.0,3,2624.0,2004-11-04,11,2004,Vintage Cars,33,59,USA,Small
+45,81.91,6,3685.95,2004-11-17,11,2004,Vintage Cars,33,59,UK,Medium
+20,35.18,6,703.6,2004-11-25,11,2004,Vintage Cars,33,59,France,Small
+48,100.0,5,9720.0,2004-12-09,12,2004,Vintage Cars,33,59,France,Large
+23,36.29,13,834.67,2005-01-12,1,2005,Vintage Cars,33,59,USA,Small
+32,70.56,4,2257.92,2005-02-16,2,2005,Vintage Cars,33,59,Spain,Small
+33,100.0,8,8344.71,2005-03-09,3,2005,Vintage Cars,33,59,Australia,Large
+61,29.54,1,1801.94,2005-04-23,4,2005,Vintage Cars,33,59,Singapore,Small
+45,26.88,1,1209.6,2005-05-29,5,2005,Vintage Cars,33,59,Australia,Small
+38,83.03,7,3155.14,2003-02-24,2,2003,Motorcycles,76,60,USA,Medium
+34,83.79,5,2848.86,2003-04-29,4,2003,Motorcycles,76,60,Australia,Small
+43,83.03,7,3570.29,2003-07-01,7,2003,Motorcycles,76,60,France,Medium
+47,83.03,11,3902.41,2003-08-25,8,2003,Motorcycles,76,60,USA,Medium
+22,67.03,1,1474.66,2003-10-10,10,2003,Motorcycles,76,60,Norway,Small
+29,75.41,6,2186.89,2003-10-28,10,2003,Motorcycles,76,60,USA,Small
+28,68.55,14,1919.4,2003-11-11,11,2003,Motorcycles,76,60,France,Small
+40,91.4,6,3656.0,2003-11-18,11,2003,Motorcycles,76,60,Norway,Medium
+25,73.88,7,1847.0,2003-12-01,12,2003,Motorcycles,76,60,USA,Small
+30,61.7,4,1851.0,2004-01-12,1,2004,Motorcycles,76,60,Japan,Small
+38,69.31,6,2633.78,2004-02-20,2,2004,Motorcycles,76,60,Australia,Small
+36,87.6,3,3153.6,2004-04-03,4,2004,Motorcycles,76,60,USA,Medium
+32,87.6,1,2803.2,2004-05-11,5,2004,Motorcycles,76,60,USA,Small
+37,62.46,7,2311.02,2004-06-28,6,2004,Motorcycles,76,60,USA,Small
+30,79.98,6,2399.4,2004-07-23,7,2004,Motorcycles,76,60,France,Small
+39,70.08,11,2733.12,2004-08-27,8,2004,Motorcycles,76,60,USA,Small
+32,65.51,1,2096.32,2004-09-16,9,2004,Motorcycles,76,60,Ireland,Small
+47,63.22,4,2971.34,2004-10-15,10,2004,Motorcycles,76,60,USA,Small
+26,86.83,6,2257.58,2004-11-02,11,2004,Motorcycles,76,60,USA,Small
+37,94.43,4,3493.91,2004-11-15,11,2004,Motorcycles,76,60,USA,Medium
+55,79.98,8,4398.9,2004-11-24,11,2004,Motorcycles,76,60,Spain,Medium
+21,100.0,8,3595.62,2005-01-06,1,2005,Motorcycles,76,60,Finland,Medium
+23,100.0,9,2443.29,2005-02-03,2,2005,Motorcycles,76,60,France,Small
+49,81.4,2,3988.6,2005-03-03,3,2005,Motorcycles,76,60,Sweden,Medium
+59,87.6,3,5168.4,2005-04-07,4,2005,Motorcycles,76,60,France,Medium
+32,87.6,1,2803.2,2005-05-10,5,2005,Motorcycles,76,60,Italy,Small
+43,100.0,9,6341.21,2003-02-11,2,2003,Ships,122,61,Denmark,Medium
+41,100.0,3,5189.78,2003-04-16,4,2003,Ships,122,61,Singapore,Medium
+45,100.0,9,6027.75,2003-06-12,6,2003,Ships,122,61,UK,Medium
+33,100.0,6,3366.0,2003-08-08,8,2003,Ships,122,61,USA,Medium
+40,100.0,5,5456.4,2003-09-28,9,2003,Ships,122,61,Spain,Medium
+33,100.0,16,3812.16,2003-10-23,10,2003,Ships,122,61,Sweden,Medium
+50,100.0,7,6083.0,2003-11-07,11,2003,Ships,122,61,Spain,Medium
+30,100.0,7,3170.7,2003-11-14,11,2003,Ships,122,61,USA,Medium
+41,100.0,13,4534.6,2003-11-26,11,2003,Ships,122,61,Spain,Medium
+35,100.0,7,4301.15,2004-01-02,1,2004,Ships,122,61,France,Medium
+49,100.0,1,6804.63,2004-02-18,2,2004,Ships,122,61,Belgium,Medium
+46,100.0,4,5652.94,2004-03-20,3,2004,Ships,122,61,UK,Medium
+48,100.0,10,6960.48,2004-05-07,5,2004,Ships,122,61,USA,Medium
+36,100.0,8,4512.6,2004-06-17,6,2004,Ships,122,61,Canada,Medium
+22,100.0,11,2784.76,2004-07-21,7,2004,Ships,122,61,Belgium,Small
+42,100.0,13,5316.36,2004-08-20,8,2004,Ships,122,61,Canada,Medium
+21,100.0,2,2941.89,2004-09-09,9,2004,Ships,122,61,Italy,Small
+29,100.0,7,3207.4,2004-10-14,10,2004,Ships,122,61,UK,Medium
+35,100.0,6,4215.05,2004-10-29,10,2004,Ships,122,61,France,Medium
+41,100.0,4,4333.29,2004-11-09,11,2004,Ships,122,61,Sweden,Medium
+29,71.97,4,2087.13,2004-11-21,11,2004,Ships,122,61,USA,Small
+34,50.33,7,1711.22,2004-12-02,12,2004,Ships,122,61,Spain,Small
+37,100.0,8,3910.53,2005-01-26,1,2005,Ships,122,61,Japan,Medium
+28,80.54,3,2255.12,2005-02-23,2,2005,Ships,122,61,USA,Small
+49,100.0,6,5720.75,2005-03-23,3,2005,Ships,122,61,USA,Medium
+23,100.0,10,3335.23,2005-05-06,5,2005,Ships,122,61,USA,Medium
+46,53.76,2,2472.96,2003-01-09,1,2003,Vintage Cars,44,62,Germany,Small
+39,44.35,2,1729.65,2003-03-18,3,2003,Vintage Cars,44,62,UK,Small
+22,45.25,1,995.5,2003-05-21,5,2003,Vintage Cars,44,62,USA,Small
+49,49.28,6,2414.72,2003-09-12,9,2003,Vintage Cars,44,62,USA,Small
+43,36.29,4,1560.47,2003-10-18,10,2003,Vintage Cars,44,62,USA,Small
+27,41.22,8,1112.94,2003-11-05,11,2003,Vintage Cars,44,62,Italy,Small
+31,36.74,5,1138.94,2003-11-12,11,2003,Vintage Cars,44,62,USA,Small
+20,50.62,9,1012.4,2003-11-21,11,2003,Vintage Cars,44,62,Australia,Small
+24,38.08,4,913.92,2003-12-03,12,2003,Vintage Cars,44,62,Spain,Small
+49,47.94,2,2349.06,2004-01-26,1,2004,Vintage Cars,44,62,Spain,Small
+24,48.38,5,1161.12,2004-03-02,3,2004,Vintage Cars,44,62,France,Small
+39,45.25,9,1764.75,2004-04-29,4,2004,Vintage Cars,44,62,Spain,Small
+37,45.7,2,1690.9,2004-06-04,6,2004,Vintage Cars,44,62,France,Small
+45,47.49,11,2137.05,2004-08-17,8,2004,Vintage Cars,44,62,Italy,Small
+45,48.38,4,2177.1,2004-09-03,9,2004,Vintage Cars,44,62,Norway,Small
+44,39.42,15,1734.48,2004-10-11,10,2004,Vintage Cars,44,62,France,Small
+23,37.63,12,865.49,2004-10-21,10,2004,Vintage Cars,44,62,USA,Small
+30,100.0,4,3500.1,2004-11-04,11,2004,Vintage Cars,44,62,USA,Medium
+26,85.52,10,2223.52,2004-11-17,11,2004,Vintage Cars,44,62,UK,Small
+43,53.76,1,2311.68,2004-11-25,11,2004,Vintage Cars,44,62,France,Small
+26,31.86,7,828.36,2004-12-09,12,2004,Vintage Cars,44,62,France,Small
+28,30.59,12,856.52,2005-01-12,1,2005,Vintage Cars,44,62,USA,Small
+27,68.35,5,1845.45,2005-02-16,2,2005,Vintage Cars,44,62,Spain,Small
+24,100.0,1,4042.08,2005-03-09,3,2005,Vintage Cars,44,62,Australia,Medium
+40,45.7,2,1828.0,2005-05-29,5,2005,Vintage Cars,44,62,USA,Small
+36,100.0,1,3680.28,2003-01-29,1,2003,Trucks and Buses,127,63,Norway,Medium
+21,100.0,5,2925.09,2003-04-01,4,2003,Trucks and Buses,127,63,France,Small
+27,100.0,1,3415.77,2003-05-28,5,2003,Trucks and Buses,127,63,Spain,Medium
+47,100.0,1,5105.14,2003-07-24,7,2003,Trucks and Buses,127,63,USA,Medium
+42,100.0,8,5098.8,2003-09-21,9,2003,Trucks and Buses,127,63,Finland,Medium
+32,100.0,17,4661.76,2003-10-22,10,2003,Trucks and Buses,127,63,Singapore,Medium
+28,100.0,6,2969.96,2003-11-06,11,2003,Trucks and Buses,127,63,UK,Small
+24,100.0,11,3496.32,2003-11-14,11,2003,Trucks and Buses,127,63,Spain,Medium
+49,100.0,1,5760.93,2003-11-25,11,2003,Trucks and Buses,127,63,France,Medium
+46,100.0,12,6819.04,2003-12-09,12,2003,Trucks and Buses,127,63,USA,Medium
+28,100.0,1,3148.88,2004-02-04,2,2004,Trucks and Buses,127,63,Singapore,Medium
+48,100.0,6,5704.32,2004-03-11,3,2004,Trucks and Buses,127,63,USA,Medium
+29,100.0,10,3520.6,2004-05-05,5,2004,Trucks and Buses,127,63,Spain,Medium
+47,100.0,9,5285.62,2004-06-15,6,2004,Trucks and Buses,127,63,Singapore,Medium
+43,100.0,10,5605.05,2004-07-20,7,2004,Trucks and Buses,127,63,USA,Medium
+25,100.0,6,2779.5,2004-08-19,8,2004,Trucks and Buses,127,63,USA,Small
+48,100.0,1,5398.08,2004-09-08,9,2004,Trucks and Buses,127,63,Sweden,Medium
+24,100.0,10,3189.6,2004-10-13,10,2004,Trucks and Buses,127,63,USA,Medium
+42,100.0,4,5581.8,2004-10-22,10,2004,Trucks and Buses,127,63,Canada,Medium
+31,100.0,2,3820.44,2004-11-05,11,2004,Trucks and Buses,127,63,USA,Medium
+42,100.0,5,5528.04,2004-11-19,11,2004,Trucks and Buses,127,63,Sweden,Medium
+37,100.0,1,5981.42,2004-11-01,11,2004,Trucks and Buses,127,63,Spain,Medium
+41,100.0,7,5684.65,2004-12-10,12,2004,Trucks and Buses,127,63,Spain,Medium
+20,100.0,5,3449.4,2005-01-23,1,2005,Trucks and Buses,127,63,USA,Medium
+20,100.0,3,2654.4,2005-02-17,2,2005,Trucks and Buses,127,63,USA,Small
+70,100.0,10,8498.0,2005-05-03,5,2005,Trucks and Buses,127,63,Spain,Large
+49,100.0,9,5510.54,2005-05-31,5,2005,Trucks and Buses,127,63,France,Medium
+35,58.87,15,2060.45,2003-03-03,3,2003,Motorcycles,69,64,Philippines,Small
+32,76.88,2,2460.16,2003-05-07,5,2003,Motorcycles,69,64,France,Small
+29,61.64,16,1787.56,2003-07-02,7,2003,Motorcycles,69,64,USA,Small
+27,60.95,3,1645.65,2003-08-25,8,2003,Motorcycles,69,64,USA,Small
+27,80.34,11,2169.18,2003-10-10,10,2003,Motorcycles,69,64,USA,Small
+38,74.11,11,2816.18,2003-11-04,11,2003,Motorcycles,69,64,Australia,Small
+35,72.03,6,2521.05,2003-11-11,11,2003,Motorcycles,69,64,France,Small
+42,76.19,3,3199.98,2003-11-19,11,2003,Motorcycles,69,64,Spain,Medium
+21,63.72,11,1338.12,2004-01-15,1,2004,Motorcycles,69,64,France,Small
+37,80.34,4,2972.58,2004-02-21,2,2004,Motorcycles,69,64,France,Small
+26,79.65,4,2070.9,2004-04-05,4,2004,Motorcycles,69,64,USA,Small
+47,65.8,8,3092.6,2004-05-26,5,2004,Motorcycles,69,64,France,Medium
+37,65.1,6,2408.7,2004-06-30,6,2004,Motorcycles,69,64,USA,Small
+46,75.49,12,3472.54,2004-08-02,8,2004,Motorcycles,69,64,USA,Medium
+38,59.56,3,2263.28,2004-08-27,8,2004,Motorcycles,69,64,USA,Small
+33,66.49,6,2194.17,2004-09-30,9,2004,Motorcycles,69,64,Finland,Small
+24,56.1,2,1346.4,2004-10-15,10,2004,Motorcycles,69,64,Norway,Small
+31,81.73,7,2533.63,2004-11-03,11,2004,Motorcycles,69,64,USA,Small
+42,81.03,1,3403.26,2004-11-16,11,2004,Motorcycles,69,64,Philippines,Medium
+32,100.0,6,3307.2,2004-11-24,11,2004,Motorcycles,69,64,Austria,Medium
+41,70.65,3,2896.65,2004-12-07,12,2004,Motorcycles,69,64,Spain,Small
+43,61.23,14,2632.89,2005-01-06,1,2005,Motorcycles,69,64,Finland,Small
+20,100.0,14,2046.0,2005-02-03,2,2005,Motorcycles,69,64,France,Small
+35,65.13,4,2279.55,2005-03-04,3,2005,Motorcycles,69,64,USA,Small
+27,79.65,4,2150.55,2005-04-08,4,2005,Motorcycles,69,64,UK,Small
+43,78.15,11,3360.45,2003-03-18,3,2003,Classic Cars,90,65,UK,Medium
+32,72.7,10,2326.4,2003-05-21,5,2003,Classic Cars,90,65,USA,Small
+21,73.6,4,1545.6,2003-09-11,9,2003,Classic Cars,90,65,Australia,Small
+20,100.0,3,2144.6,2003-10-17,10,2003,Classic Cars,90,65,Denmark,Small
+22,74.51,1,1639.22,2003-11-05,11,2003,Classic Cars,90,65,USA,Small
+36,73.6,14,2649.6,2003-11-12,11,2003,Classic Cars,90,65,USA,Small
+46,83.6,2,3845.6,2003-11-20,11,2003,Classic Cars,90,65,USA,Medium
+47,96.32,8,4527.04,2003-12-02,12,2003,Classic Cars,90,65,USA,Medium
+45,88.14,1,3966.3,2004-01-16,1,2004,Classic Cars,90,65,Spain,Medium
+47,88.14,14,4142.58,2004-03-02,3,2004,Classic Cars,90,65,France,Medium
+47,94.5,6,4441.5,2004-04-13,4,2004,Classic Cars,90,65,France,Medium
+38,87.24,3,3315.12,2004-07-07,7,2004,Classic Cars,90,65,USA,Medium
+49,79.97,3,3918.53,2004-08-09,8,2004,Classic Cars,90,65,Spain,Medium
+35,80.87,9,2830.45,2004-09-01,9,2004,Classic Cars,90,65,Singapore,Small
+49,100.0,5,5298.86,2003-10-06,10,2003,Classic Cars,90,65,UK,Medium
+28,93.6,4,2620.8,2004-10-16,10,2004,Classic Cars,90,65,Spain,Small
+30,72.7,1,2181.0,2004-11-04,11,2004,Classic Cars,90,65,USA,Small
+39,86.72,7,3382.08,2004-11-17,11,2004,Classic Cars,90,65,UK,Medium
+25,100.0,1,2876.75,2004-11-29,11,2004,Classic Cars,90,65,USA,Small
+40,100.0,2,4107.2,2005-01-19,1,2005,Classic Cars,90,65,USA,Medium
+36,37.5,6,1350.0,2005-02-16,2,2005,Classic Cars,90,65,Spain,Small
+76,94.5,6,7182.0,2005-04-22,4,2005,Classic Cars,90,65,USA,Large
+39,100.0,9,3933.93,2005-05-29,5,2005,Classic Cars,90,65,Australia,Medium
+44,39.6,10,1742.4,2003-01-31,1,2003,Classic Cars,35,66,Spain,Small
+24,30.06,1,721.44,2003-04-01,4,2003,Classic Cars,35,66,France,Small
+39,38.19,12,1489.41,2003-06-03,6,2003,Classic Cars,35,66,USA,Small
+21,42.43,6,891.03,2003-08-01,8,2003,Classic Cars,35,66,Finland,Small
+30,40.31,4,1209.3,2003-09-21,9,2003,Classic Cars,35,66,Finland,Small
+27,31.82,13,859.14,2003-10-22,10,2003,Classic Cars,35,66,Singapore,Small
+37,31.12,2,1151.44,2003-11-06,11,2003,Classic Cars,35,66,UK,Small
+42,31.82,7,1336.44,2003-11-14,11,2003,Classic Cars,35,66,Spain,Small
+32,28.29,7,905.28,2003-11-25,11,2003,Classic Cars,35,66,USA,Small
+42,29.7,8,1247.4,2003-12-09,12,2003,Classic Cars,35,66,USA,Small
+21,40.31,3,846.51,2004-02-10,2,2004,Classic Cars,35,66,USA,Small
+33,32.88,2,1085.04,2004-03-11,3,2004,Classic Cars,35,66,USA,Small
+49,36.07,6,1767.43,2004-05-05,5,2004,Classic Cars,35,66,Spain,Small
+31,33.24,5,1030.44,2004-06-15,6,2004,Classic Cars,35,66,Singapore,Small
+38,41.72,6,1585.36,2004-07-20,7,2004,Classic Cars,35,66,USA,Small
+20,40.66,2,813.2,2004-08-19,8,2004,Classic Cars,35,66,USA,Small
+39,30.06,9,1172.34,2004-09-08,9,2004,Classic Cars,35,66,USA,Small
+48,31.47,6,1510.56,2004-10-13,10,2004,Classic Cars,35,66,USA,Small
+39,37.13,15,1448.07,2004-10-22,10,2004,Classic Cars,35,66,Denmark,Small
+30,100.0,9,3338.1,2004-11-05,11,2004,Classic Cars,35,66,USA,Medium
+33,37.13,2,1225.29,2004-11-19,11,2004,Classic Cars,35,66,USA,Small
+36,37.13,3,1336.68,2004-12-01,12,2004,Classic Cars,35,66,USA,Small
+36,82.94,4,2985.84,2004-12-10,12,2004,Classic Cars,35,66,Spain,Small
+45,100.0,8,5545.8,2005-01-23,1,2005,Classic Cars,35,66,USA,Medium
+40,100.0,3,6089.6,2005-02-22,2,2005,Classic Cars,35,66,Spain,Medium
+46,38.9,6,1789.4,2005-03-15,3,2005,Classic Cars,35,66,Spain,Small
+30,36.07,6,1082.1,2005-05-03,5,2005,Classic Cars,35,66,Spain,Small
+31,33.24,5,1030.44,2005-05-31,5,2005,Classic Cars,35,66,France,Small
+49,74.68,13,3659.32,2003-02-17,2,2003,Planes,68,67,Italy,Medium
+41,59.6,4,2443.6,2003-04-28,4,2003,Planes,68,67,Austria,Small
+35,67.14,5,2349.9,2003-06-16,6,2003,Planes,68,67,USA,Small
+27,60.97,8,1646.19,2003-08-10,8,2003,Planes,68,67,USA,Small
+23,72.62,6,1670.26,2003-10-06,10,2003,Planes,68,67,Finland,Small
+21,69.88,2,1467.48,2003-10-23,10,2003,Planes,68,67,Sweden,Small
+34,80.84,5,2748.56,2003-11-08,11,2003,Planes,68,67,France,Small
+22,69.2,2,1522.4,2003-11-14,11,2003,Planes,68,67,UK,Small
+48,67.82,5,3255.36,2003-11-27,11,2003,Planes,68,67,Philippines,Medium
+43,82.21,1,3535.03,2004-01-09,1,2004,Planes,68,67,USA,Medium
+32,81.53,5,2608.96,2004-02-19,2,2004,Planes,68,67,USA,Small
+20,67.82,1,1356.4,2004-05-08,5,2004,Planes,68,67,USA,Small
+24,67.14,10,1611.36,2004-06-24,6,2004,Planes,68,67,Spain,Small
+40,65.08,2,2603.2,2004-07-21,7,2004,Planes,68,67,USA,Small
+30,73.99,12,2219.7,2004-08-21,8,2004,Planes,68,67,Norway,Small
+21,71.25,8,1496.25,2004-09-15,9,2004,Planes,68,67,Germany,Small
+25,75.36,2,1884.0,2004-10-14,10,2004,Planes,68,67,USA,Small
+34,63.71,10,2166.14,2004-11-01,11,2004,Planes,68,67,UK,Small
+48,58.92,1,2828.16,2004-11-12,11,2004,Planes,68,67,Italy,Small
+55,100.0,12,6214.45,2004-11-23,11,2004,Planes,68,67,Japan,Medium
+25,74.68,5,1867.0,2004-12-03,12,2004,Planes,68,67,UK,Small
+38,70.44,7,2676.72,2005-01-31,1,2005,Planes,68,67,Finland,Small
+39,55.96,1,2182.44,2005-03-01,3,2005,Planes,68,67,Spain,Small
+28,57.55,3,1611.4,2005-03-30,3,2005,Planes,68,67,France,Small
+24,61.66,2,1479.84,2005-04-01,4,2005,Planes,68,67,USA,Small
+21,67.82,1,1424.22,2005-05-09,5,2005,Planes,68,67,Australia,Small
+46,100.0,10,5942.28,2003-03-18,3,2003,Classic Cars,117,68,UK,Medium
+25,93.95,9,2348.75,2003-05-21,5,2003,Classic Cars,117,68,USA,Small
+34,100.0,3,4392.12,2003-09-11,9,2003,Classic Cars,117,68,Australia,Medium
+25,100.0,2,2759.75,2003-10-17,10,2003,Classic Cars,117,68,Denmark,Small
+23,100.0,16,2728.03,2003-11-05,11,2003,Classic Cars,117,68,Italy,Small
+20,100.0,13,2395.8,2003-11-12,11,2003,Classic Cars,117,68,USA,Small
+23,100.0,1,3052.33,2003-11-20,11,2003,Classic Cars,117,68,USA,Medium
+42,100.0,7,4242.0,2003-12-02,12,2003,Classic Cars,117,68,USA,Medium
+27,100.0,3,2790.45,2004-01-22,1,2004,Classic Cars,117,68,UK,Small
+33,100.0,13,4340.49,2004-03-02,3,2004,Classic Cars,117,68,France,Medium
+28,98.65,5,2762.2,2004-04-13,4,2004,Classic Cars,117,68,France,Small
+43,100.0,2,4645.72,2004-07-07,7,2004,Classic Cars,117,68,USA,Medium
+48,100.0,2,5580.96,2004-08-09,8,2004,Classic Cars,117,68,Spain,Medium
+48,100.0,8,6539.04,2004-09-01,9,2004,Classic Cars,117,68,Singapore,Medium
+45,100.0,4,5548.95,2003-10-06,10,2003,Classic Cars,117,68,UK,Medium
+43,100.0,3,4595.41,2004-10-16,10,2004,Classic Cars,117,68,Spain,Medium
+44,42.26,11,1859.44,2004-11-17,11,2004,Classic Cars,117,68,UK,Small
+24,87.24,5,2093.76,2004-11-29,11,2004,Classic Cars,117,68,USA,Small
+31,100.0,5,4223.13,2005-01-19,1,2005,Classic Cars,117,68,USA,Medium
+44,36.29,7,1596.76,2005-02-16,2,2005,Classic Cars,117,68,Spain,Small
+59,98.65,5,5820.35,2005-04-22,4,2005,Classic Cars,117,68,USA,Medium
+55,96.3,8,5296.5,2005-05-29,5,2005,Classic Cars,117,68,Australia,Medium
+29,32.1,6,930.9,2003-03-10,3,2003,Classic Cars,37,69,USA,Small
+39,30.96,4,1207.44,2003-05-08,5,2003,Classic Cars,37,69,France,Small
+20,35.87,1,717.4,2003-07-02,7,2003,Classic Cars,37,69,USA,Small
+25,42.67,1,1066.75,2003-09-05,9,2003,Classic Cars,37,69,USA,Small
+42,37.0,2,1554.0,2003-10-11,10,2003,Classic Cars,37,69,USA,Small
+36,35.49,4,1277.64,2003-11-05,11,2003,Classic Cars,37,69,Canada,Small
+37,42.67,8,1578.79,2003-11-12,11,2003,Classic Cars,37,69,Norway,Small
+30,30.59,13,917.7,2003-11-20,11,2003,Classic Cars,37,69,USA,Small
+21,37.0,2,777.0,2003-12-02,12,2003,Classic Cars,37,69,Spain,Small
+34,43.42,12,1476.28,2004-01-16,1,2004,Classic Cars,37,69,Spain,Small
+42,36.63,3,1538.46,2004-02-22,2,2004,Classic Cars,37,69,Switzerland,Small
+20,44.56,2,891.2,2004-04-12,4,2004,Classic Cars,37,69,Finland,Small
+40,42.67,7,1706.8,2004-06-01,6,2004,Classic Cars,37,69,UK,Small
+34,40.4,8,1373.6,2004-07-06,7,2004,Classic Cars,37,69,Italy,Small
+31,38.89,8,1205.59,2004-08-06,8,2004,Classic Cars,37,69,USA,Small
+36,39.65,6,1427.4,2004-08-30,8,2004,Classic Cars,37,69,Switzerland,Small
+48,34.36,10,1649.28,2003-10-05,10,2003,Classic Cars,37,69,Norway,Small
+33,41.91,4,1383.03,2004-10-16,10,2004,Classic Cars,37,69,Germany,Small
+37,33.23,12,1229.51,2004-11-04,11,2004,Classic Cars,37,69,USA,Small
+27,42.24,13,1140.48,2004-11-17,11,2004,Classic Cars,37,69,USA,Small
+39,40.4,9,1575.6,2004-11-24,11,2004,Classic Cars,37,69,Australia,Small
+36,38.52,4,1386.72,2004-12-07,12,2004,Classic Cars,37,69,Spain,Small
+36,100.0,2,5018.4,2005-01-12,1,2005,Classic Cars,37,69,USA,Medium
+41,100.0,7,5856.85,2005-02-10,2,2005,Classic Cars,37,69,Spain,Medium
+37,100.0,5,4894.73,2005-03-04,3,2005,Classic Cars,37,69,USA,Medium
+47,44.56,2,2094.32,2005-04-14,4,2005,Classic Cars,37,69,France,Small
+15,42.67,7,640.05,2005-05-17,5,2005,Classic Cars,37,69,Austria,Small
+44,72.58,4,3193.52,2003-02-11,2,2003,Vintage Cars,88,70,Denmark,Medium
+35,87.62,13,3066.7,2003-04-28,4,2003,Vintage Cars,88,70,Austria,Medium
+41,94.71,4,3883.11,2003-06-12,6,2003,Vintage Cars,88,70,UK,Medium
+49,98.25,1,4814.25,2003-08-08,8,2003,Vintage Cars,88,70,USA,Medium
+31,91.17,2,2826.27,2003-10-02,10,2003,Vintage Cars,88,70,USA,Small
+20,79.66,11,1593.2,2003-10-23,10,2003,Vintage Cars,88,70,Sweden,Small
+45,72.58,2,3266.1,2003-11-07,11,2003,Vintage Cars,88,70,Spain,Medium
+33,74.35,2,2453.55,2003-11-14,11,2003,Vintage Cars,88,70,USA,Small
+47,83.2,8,3910.4,2003-11-26,11,2003,Vintage Cars,88,70,Spain,Medium
+20,89.4,2,1788.0,2004-01-02,1,2004,Vintage Cars,88,70,France,Small
+47,70.81,14,3328.07,2004-02-19,2,2004,Vintage Cars,88,70,USA,Medium
+40,94.71,2,3788.4,2004-03-29,3,2004,Vintage Cars,88,70,USA,Medium
+30,100.0,5,3053.7,2004-05-07,5,2004,Vintage Cars,88,70,USA,Medium
+22,91.17,3,2005.74,2004-06-17,6,2004,Vintage Cars,88,70,Canada,Small
+27,100.0,6,2796.12,2004-07-21,7,2004,Vintage Cars,88,70,Belgium,Small
+34,92.94,8,3159.96,2004-08-20,8,2004,Vintage Cars,88,70,Canada,Medium
+46,84.97,3,3908.62,2004-09-10,9,2004,Vintage Cars,88,70,USA,Medium
+31,84.08,2,2606.48,2004-10-14,10,2004,Vintage Cars,88,70,UK,Small
+24,86.74,1,2081.76,2004-10-29,10,2004,Vintage Cars,88,70,France,Small
+41,85.85,3,3519.85,2004-11-09,11,2004,Vintage Cars,88,70,Sweden,Medium
+55,100.0,13,10758.0,2004-11-23,11,2004,Vintage Cars,88,70,Japan,Large
+30,100.0,9,3021.0,2004-12-02,12,2004,Vintage Cars,88,70,Spain,Medium
+33,57.32,12,1891.56,2005-01-31,1,2005,Vintage Cars,88,70,Finland,Small
+43,97.87,2,4208.41,2005-02-23,2,2005,Vintage Cars,88,70,USA,Medium
+27,83.2,7,2246.4,2005-03-23,3,2005,Vintage Cars,88,70,USA,Small
+60,100.0,5,6107.4,2005-05-06,5,2005,Vintage Cars,88,70,USA,Medium
+27,73.62,12,1987.74,2003-03-18,3,2003,Classic Cars,85,71,UK,Small
+49,83.04,11,4068.96,2003-05-21,5,2003,Classic Cars,85,71,USA,Medium
+31,73.62,5,2282.22,2003-09-11,9,2003,Classic Cars,85,71,Australia,Small
+20,77.05,4,1541.0,2003-10-17,10,2003,Classic Cars,85,71,Denmark,Small
+24,81.33,2,1951.92,2003-11-05,11,2003,Classic Cars,85,71,USA,Small
+33,94.17,15,3107.61,2003-11-12,11,2003,Classic Cars,85,71,USA,Medium
+32,72.77,3,2328.64,2003-11-20,11,2003,Classic Cars,85,71,USA,Small
+40,79.62,9,3184.8,2003-12-02,12,2003,Classic Cars,85,71,USA,Medium
+27,79.62,2,2149.74,2004-01-16,1,2004,Classic Cars,85,71,Spain,Small
+40,79.62,15,3184.8,2004-03-02,3,2004,Classic Cars,85,71,France,Medium
+26,81.33,7,2114.58,2004-04-13,4,2004,Classic Cars,85,71,France,Small
+44,96.74,4,4256.56,2004-07-07,7,2004,Classic Cars,85,71,USA,Medium
+33,71.06,4,2344.98,2004-08-09,8,2004,Classic Cars,85,71,Spain,Small
+34,68.49,10,2328.66,2004-09-01,9,2004,Classic Cars,85,71,Singapore,Small
+48,74.48,6,3575.04,2003-10-06,10,2003,Classic Cars,85,71,UK,Medium
+25,83.04,5,2076.0,2004-10-16,10,2004,Classic Cars,85,71,Spain,Small
+39,84.75,2,3305.25,2004-11-04,11,2004,Classic Cars,85,71,USA,Medium
+45,34.19,12,1538.55,2004-11-17,11,2004,Classic Cars,85,71,UK,Small
+24,100.0,2,3325.92,2004-11-29,11,2004,Classic Cars,85,71,USA,Medium
+46,79.62,1,3662.52,2005-01-19,1,2005,Classic Cars,85,71,USA,Medium
+44,79.06,9,3478.64,2005-02-16,2,2005,Classic Cars,85,71,Spain,Medium
+13,81.33,7,1057.29,2005-04-22,4,2005,Classic Cars,85,71,USA,Small
+35,96.74,10,3385.9,2005-05-29,5,2005,Classic Cars,85,71,Australia,Medium
+30,63.07,5,1892.1,2003-03-03,3,2003,Classic Cars,61,72,Philippines,Small
+34,50.21,9,1707.14,2003-05-08,5,2003,Classic Cars,61,72,France,Small
+27,66.13,6,1785.51,2003-07-02,7,2003,Classic Cars,61,72,USA,Small
+30,68.58,6,2057.4,2003-09-05,9,2003,Classic Cars,61,72,USA,Small
+50,69.8,1,3490.0,2003-10-10,10,2003,Classic Cars,61,72,USA,Medium
+34,50.21,1,1707.14,2003-11-04,11,2003,Classic Cars,61,72,Australia,Small
+23,65.52,13,1506.96,2003-11-12,11,2003,Classic Cars,61,72,Norway,Small
+48,60.01,2,2880.48,2003-11-20,11,2003,Classic Cars,61,72,Germany,Small
+34,64.9,7,2206.6,2003-12-02,12,2003,Classic Cars,61,72,Spain,Small
+48,48.98,1,2351.04,2004-01-15,1,2004,Classic Cars,61,72,France,Small
+24,50.21,8,1205.04,2004-02-22,2,2004,Classic Cars,61,72,Switzerland,Small
+47,62.45,2,2935.15,2004-04-09,4,2004,Classic Cars,61,72,Denmark,Small
+24,52.66,12,1263.84,2004-06-01,6,2004,Classic Cars,61,72,UK,Small
+47,62.45,13,2935.15,2004-07-06,7,2004,Classic Cars,61,72,Italy,Small
+20,61.23,2,1224.6,2004-08-02,8,2004,Classic Cars,61,72,USA,Small
+20,67.97,11,1359.4,2004-08-30,8,2004,Classic Cars,61,72,Switzerland,Small
+31,58.78,4,1822.18,2003-10-04,10,2003,Classic Cars,61,72,Germany,Small
+38,56.94,9,2163.72,2004-10-16,10,2004,Classic Cars,61,72,Germany,Small
+26,61.23,2,1591.98,2004-11-03,11,2004,Classic Cars,61,72,Sweden,Small
+25,100.0,9,3078.5,2004-11-17,11,2004,Classic Cars,61,72,USA,Medium
+48,62.45,10,2997.6,2004-11-24,11,2004,Classic Cars,61,72,Australia,Small
+44,62.45,6,2747.8,2004-12-07,12,2004,Classic Cars,61,72,Spain,Small
+21,100.0,15,2447.76,2005-01-06,1,2005,Classic Cars,61,72,Finland,Small
+46,41.54,6,1910.84,2005-02-10,2,2005,Classic Cars,61,72,Spain,Small
+46,52.84,6,2430.64,2005-03-04,3,2005,Classic Cars,61,72,USA,Small
+55,52.66,12,2896.3,2005-05-17,5,2005,Classic Cars,61,72,Austria,Small
+31,52.6,14,1630.6,2003-02-17,2,2003,Vintage Cars,65,73,Italy,Small
+20,72.98,5,1459.6,2003-04-28,4,2003,Vintage Cars,65,73,Austria,Small
+29,59.18,6,1716.22,2003-06-16,6,2003,Vintage Cars,65,73,USA,Small
+33,77.59,9,2560.47,2003-08-10,8,2003,Vintage Cars,65,73,USA,Small
+34,55.89,7,1900.26,2003-10-06,10,2003,Vintage Cars,65,73,Finland,Small
+32,63.12,3,2019.84,2003-10-23,10,2003,Vintage Cars,65,73,Sweden,Small
+27,73.64,6,1988.28,2003-11-08,11,2003,Vintage Cars,65,73,France,Small
+21,69.04,3,1449.84,2003-11-14,11,2003,Vintage Cars,65,73,UK,Small
+27,71.67,6,1935.09,2003-11-27,11,2003,Vintage Cars,65,73,Philippines,Small
+36,77.59,2,2793.24,2004-01-09,1,2004,Vintage Cars,65,73,USA,Small
+43,70.35,6,3025.05,2004-02-19,2,2004,Vintage Cars,65,73,USA,Medium
+25,69.7,2,1742.5,2004-05-08,5,2004,Vintage Cars,65,73,USA,Small
+46,70.35,11,3236.1,2004-06-24,6,2004,Vintage Cars,65,73,Spain,Medium
+24,72.33,3,1735.92,2004-07-21,7,2004,Vintage Cars,65,73,USA,Small
+39,71.67,13,2795.13,2004-08-21,8,2004,Vintage Cars,65,73,Norway,Small
+31,53.92,9,1671.52,2004-09-15,9,2004,Vintage Cars,65,73,Germany,Small
+22,71.67,3,1576.74,2004-10-14,10,2004,Vintage Cars,65,73,USA,Small
+47,76.93,11,3615.71,2004-11-01,11,2004,Vintage Cars,65,73,UK,Medium
+20,72.98,2,1459.6,2004-11-12,11,2004,Vintage Cars,65,73,Italy,Small
+29,99.69,14,2891.01,2004-11-23,11,2004,Vintage Cars,65,73,Japan,Small
+38,68.38,4,2598.44,2004-12-03,12,2004,Vintage Cars,65,73,UK,Small
+34,100.0,6,3871.92,2004-12-17,12,2004,Vintage Cars,65,73,Australia,Medium
+46,66.0,11,3036.0,2005-01-31,1,2005,Vintage Cars,65,73,Finland,Medium
+35,63.76,9,2231.6,2005-03-01,3,2005,Vintage Cars,65,73,Spain,Small
+34,71.67,13,2436.78,2005-03-30,3,2005,Vintage Cars,65,73,France,Small
+38,57.2,3,2173.6,2005-04-01,4,2005,Vintage Cars,65,73,USA,Small
+18,69.7,2,1254.6,2005-05-09,5,2005,Vintage Cars,65,73,Australia,Small
+37,100.0,14,3724.42,2003-03-18,3,2003,Classic Cars,107,74,UK,Medium
+43,100.0,13,5203.0,2003-05-21,5,2003,Classic Cars,107,74,USA,Medium
+27,100.0,7,3469.5,2003-09-11,9,2003,Classic Cars,107,74,Australia,Medium
+30,100.0,6,3148.2,2003-10-17,10,2003,Classic Cars,107,74,Denmark,Medium
+22,98.51,4,2167.22,2003-11-05,11,2003,Classic Cars,107,74,USA,Small
+49,100.0,17,6244.07,2003-11-12,11,2003,Classic Cars,107,74,USA,Medium
+46,100.0,5,5566.0,2003-11-20,11,2003,Classic Cars,107,74,USA,Medium
+48,91.02,11,4368.96,2003-12-02,12,2003,Classic Cars,107,74,USA,Medium
+46,87.81,4,4039.26,2004-01-16,1,2004,Classic Cars,107,74,Spain,Medium
+48,92.09,2,4420.32,2004-02-26,2,2004,Classic Cars,107,74,USA,Medium
+27,86.73,9,2341.71,2004-04-13,4,2004,Classic Cars,107,74,France,Small
+43,100.0,6,5110.98,2004-07-07,7,2004,Classic Cars,107,74,USA,Medium
+48,100.0,6,6168.0,2004-08-09,8,2004,Classic Cars,107,74,Spain,Medium
+41,100.0,12,4873.26,2004-09-01,9,2004,Classic Cars,107,74,Singapore,Medium
+22,96.37,2,2120.14,2003-10-05,10,2003,Classic Cars,107,74,Norway,Small
+46,92.09,7,4236.14,2004-10-16,10,2004,Classic Cars,107,74,Spain,Medium
+21,89.95,4,1888.95,2004-11-04,11,2004,Classic Cars,107,74,USA,Small
+31,37.18,13,1152.58,2004-11-17,11,2004,Classic Cars,107,74,UK,Small
+26,95.88,6,2492.88,2004-11-29,11,2004,Classic Cars,107,74,USA,Small
+20,99.58,4,1991.6,2005-01-19,1,2005,Classic Cars,107,74,USA,Small
+34,100.0,11,3953.18,2005-02-16,2,2005,Classic Cars,107,74,Spain,Medium
+43,86.73,9,3729.39,2005-04-22,4,2005,Classic Cars,107,74,USA,Medium
+26,100.0,12,2617.16,2005-05-29,5,2005,Classic Cars,107,74,Australia,Small
+50,79.67,1,3983.5,2003-02-11,2,2003,Vintage Cars,83,75,Denmark,Medium
+35,90.57,10,3169.95,2003-04-28,4,2003,Vintage Cars,83,75,Austria,Medium
+50,77.99,1,3899.5,2003-06-12,6,2003,Vintage Cars,83,75,UK,Medium
+23,80.51,14,1851.73,2003-08-10,8,2003,Vintage Cars,83,75,USA,Small
+37,67.93,12,2513.41,2003-10-06,10,2003,Vintage Cars,83,75,Finland,Small
+29,83.86,8,2431.94,2003-10-23,10,2003,Vintage Cars,83,75,Sweden,Small
+21,72.12,11,1514.52,2003-11-08,11,2003,Vintage Cars,83,75,France,Small
+36,85.54,8,3079.44,2003-11-14,11,2003,Vintage Cars,83,75,UK,Medium
+22,86.38,5,1900.36,2003-11-26,11,2003,Vintage Cars,83,75,Spain,Small
+22,89.73,7,1974.06,2004-01-09,1,2004,Vintage Cars,83,75,USA,Small
+46,80.51,11,3703.46,2004-02-19,2,2004,Vintage Cars,83,75,USA,Medium
+23,76.31,2,1755.13,2004-05-07,5,2004,Vintage Cars,83,75,USA,Small
+49,87.21,16,4273.29,2004-06-24,6,2004,Vintage Cars,83,75,Spain,Medium
+48,83.02,3,3984.96,2004-07-21,7,2004,Vintage Cars,83,75,Belgium,Medium
+33,72.96,5,2407.68,2004-08-20,8,2004,Vintage Cars,83,75,Canada,Small
+22,77.15,14,1697.3,2004-09-15,9,2004,Vintage Cars,83,75,Germany,Small
+22,91.41,8,2011.02,2004-10-14,10,2004,Vintage Cars,83,75,USA,Small
+25,92.25,16,2306.25,2004-11-01,11,2004,Vintage Cars,83,75,UK,Small
+20,92.25,2,1845.0,2004-11-09,11,2004,Vintage Cars,83,75,Sweden,Small
+42,59.36,16,2493.12,2004-11-23,11,2004,Vintage Cars,83,75,Japan,Small
+25,60.34,10,1508.5,2004-12-02,12,2004,Vintage Cars,83,75,Spain,Small
+23,100.0,10,2394.3,2005-01-31,1,2005,Vintage Cars,83,75,Finland,Small
+37,85.54,2,3164.98,2005-02-28,2,2005,Vintage Cars,83,75,USA,Medium
+37,90.57,8,3351.09,2005-03-23,3,2005,Vintage Cars,83,75,USA,Medium
+42,72.96,8,3064.32,2005-04-01,4,2005,Vintage Cars,83,75,USA,Medium
+51,76.31,2,3891.81,2005-05-06,5,2005,Vintage Cars,83,75,USA,Medium
+40,100.0,1,5448.8,2003-03-03,3,2003,Classic Cars,140,76,Philippines,Medium
+43,100.0,5,5494.97,2003-05-08,5,2003,Classic Cars,140,76,France,Medium
+47,100.0,2,6336.07,2003-07-02,7,2003,Classic Cars,140,76,USA,Medium
+23,100.0,2,2906.97,2003-09-05,9,2003,Classic Cars,140,76,USA,Small
+35,100.0,3,4767.7,2003-10-11,10,2003,Classic Cars,140,76,USA,Medium
+34,100.0,1,3819.56,2003-11-04,11,2003,Classic Cars,140,76,Austria,Medium
+25,100.0,9,3861.75,2003-11-12,11,2003,Classic Cars,140,76,Norway,Medium
+45,100.0,14,6319.35,2003-11-20,11,2003,Classic Cars,140,76,USA,Medium
+47,100.0,3,6996.42,2003-12-02,12,2003,Classic Cars,140,76,Spain,Medium
+49,100.0,13,6949.67,2004-01-16,1,2004,Classic Cars,140,76,Spain,Medium
+40,100.0,4,4550.0,2004-02-22,2,2004,Classic Cars,140,76,Switzerland,Medium
+29,100.0,3,4479.63,2004-04-12,4,2004,Classic Cars,140,76,Finland,Medium
+39,100.0,8,5148.0,2004-06-01,6,2004,Classic Cars,140,76,UK,Medium
+24,100.0,9,2932.08,2004-07-06,7,2004,Classic Cars,140,76,Italy,Small
+25,100.0,9,3159.75,2004-08-06,8,2004,Classic Cars,140,76,USA,Medium
+36,100.0,7,4297.32,2004-08-30,8,2004,Classic Cars,140,76,Switzerland,Medium
+50,100.0,11,7723.5,2003-10-05,10,2003,Classic Cars,140,76,Norway,Large
+45,100.0,5,5497.65,2004-10-16,10,2004,Classic Cars,140,76,Germany,Medium
+26,100.0,13,4052.88,2004-11-04,11,2004,Classic Cars,140,76,USA,Medium
+21,100.0,1,3135.93,2004-11-17,11,2004,Classic Cars,140,76,USA,Medium
+42,100.0,6,5013.54,2004-11-24,11,2004,Classic Cars,140,76,Australia,Medium
+32,100.0,8,5302.72,2004-12-07,12,2004,Classic Cars,140,76,Spain,Medium
+31,94.58,1,2931.98,2005-01-06,1,2005,Classic Cars,140,76,Finland,Small
+33,53.27,3,1757.91,2005-02-10,2,2005,Classic Cars,140,76,Spain,Small
+45,100.0,8,6763.05,2005-03-04,3,2005,Classic Cars,140,76,USA,Medium
+76,100.0,3,11739.7,2005-04-14,4,2005,Classic Cars,140,76,France,Large
+70,100.0,8,9240.0,2005-05-17,5,2005,Classic Cars,140,76,Austria,Large
+50,64.83,11,3241.5,2003-02-17,2,2003,Planes,68,77,Italy,Medium
+28,70.29,2,1968.12,2003-04-28,4,2003,Planes,68,77,Austria,Small
+50,81.89,3,4094.5,2003-06-16,6,2003,Planes,68,77,USA,Medium
+28,66.19,6,1853.32,2003-08-10,8,2003,Planes,68,77,USA,Small
+44,77.11,4,3392.84,2003-10-06,10,2003,Planes,68,77,Finland,Medium
+27,73.02,18,1971.54,2003-10-28,10,2003,Planes,68,77,USA,Small
+30,72.33,3,2169.9,2003-11-08,11,2003,Planes,68,77,France,Small
+43,66.19,3,2846.17,2003-11-27,11,2003,Planes,68,77,Philippines,Small
+29,69.6,16,2018.4,2004-01-12,1,2004,Planes,68,77,Japan,Small
+48,56.64,3,2718.72,2004-02-19,2,2004,Planes,68,77,USA,Small
+33,60.05,12,1981.65,2004-04-02,4,2004,Planes,68,77,Canada,Small
+40,75.06,13,3002.4,2004-05-11,5,2004,Planes,68,77,USA,Medium
+48,61.42,8,2948.16,2004-06-24,6,2004,Planes,68,77,Spain,Small
+41,81.89,18,3357.49,2004-07-23,7,2004,Planes,68,77,France,Medium
+21,55.96,10,1175.16,2004-08-21,8,2004,Planes,68,77,Norway,Small
+32,71.65,6,2292.8,2004-09-15,9,2004,Planes,68,77,Germany,Small
+43,76.43,16,3286.49,2004-10-15,10,2004,Planes,68,77,USA,Medium
+30,77.79,8,2333.7,2004-11-01,11,2004,Planes,68,77,UK,Small
+35,76.43,3,2675.05,2004-11-12,11,2004,Planes,68,77,Italy,Small
+45,96.92,11,4361.4,2004-11-23,11,2004,Planes,68,77,Japan,Medium
+34,59.37,3,2018.58,2004-12-03,12,2004,Planes,68,77,UK,Small
+26,100.0,7,3710.98,2004-12-17,12,2004,Planes,68,77,Australia,Medium
+39,73.0,13,2847.0,2005-01-31,1,2005,Planes,68,77,Finland,Small
+41,73.32,12,3006.12,2005-03-01,3,2005,Planes,68,77,Spain,Medium
+41,68.24,2,2797.84,2005-03-30,3,2005,Planes,68,77,France,Small
+64,60.05,12,3843.2,2005-04-03,4,2005,Planes,68,77,USA,Medium
+18,75.06,13,1351.08,2005-05-10,5,2005,Planes,68,77,Italy,Small
+49,34.47,1,1689.03,2003-01-06,1,2003,Vintage Cars,41,78,USA,Small
+48,34.47,5,1654.56,2003-03-18,3,2003,Vintage Cars,41,78,UK,Small
+46,33.23,4,1528.58,2003-05-21,5,2003,Vintage Cars,41,78,USA,Small
+26,38.98,9,1013.48,2003-09-12,9,2003,Vintage Cars,41,78,USA,Small
+37,38.98,7,1442.26,2003-10-18,10,2003,Vintage Cars,41,78,USA,Small
+35,33.23,11,1163.05,2003-11-05,11,2003,Vintage Cars,41,78,Italy,Small
+23,42.26,8,971.98,2003-11-12,11,2003,Vintage Cars,41,78,USA,Small
+22,41.03,12,902.66,2003-11-21,11,2003,Vintage Cars,41,78,Australia,Small
+39,33.23,2,1295.97,2003-12-02,12,2003,Vintage Cars,41,78,USA,Small
+44,34.88,5,1534.72,2004-01-26,1,2004,Vintage Cars,41,78,Spain,Small
+27,43.9,8,1185.3,2004-03-02,3,2004,Vintage Cars,41,78,France,Small
+46,36.93,1,1698.78,2004-04-20,4,2004,Vintage Cars,41,78,USA,Small
+33,41.85,14,1381.05,2004-08-17,8,2004,Vintage Cars,41,78,Italy,Small
+33,40.62,3,1340.46,2004-09-01,9,2004,Vintage Cars,41,78,Singapore,Small
+24,40.21,1,965.04,2004-10-06,10,2004,Vintage Cars,41,78,Spain,Small
+31,35.29,15,1093.99,2004-10-21,10,2004,Vintage Cars,41,78,USA,Small
+41,77.24,14,3166.84,2004-11-17,11,2004,Vintage Cars,41,78,UK,Medium
+22,97.44,4,2143.68,2004-11-29,11,2004,Vintage Cars,41,78,USA,Small
+46,37.34,3,1717.64,2005-01-19,1,2005,Vintage Cars,41,78,USA,Small
+43,95.03,12,4086.29,2005-02-16,2,2005,Vintage Cars,41,78,Spain,Medium
+15,36.93,1,553.95,2005-04-22,4,2005,Vintage Cars,41,78,Japan,Small
+15,43.49,3,652.35,2005-05-29,5,2005,Vintage Cars,41,78,Australia,Small
+26,100.0,5,2921.62,2003-01-31,1,2003,Classic Cars,118,79,Spain,Small
+44,100.0,1,5568.64,2003-04-04,4,2003,Classic Cars,118,79,USA,Medium
+20,96.99,7,1939.8,2003-06-03,6,2003,Classic Cars,118,79,USA,Small
+40,94.62,1,3784.8,2003-08-01,8,2003,Classic Cars,118,79,Finland,Medium
+23,100.0,3,2802.09,2003-09-25,9,2003,Classic Cars,118,79,Australia,Small
+24,99.36,8,2384.64,2003-10-22,10,2003,Classic Cars,118,79,Singapore,Small
+29,100.0,7,2915.66,2003-11-06,11,2003,Classic Cars,118,79,Italy,Small
+49,100.0,2,5795.72,2003-11-14,11,2003,Classic Cars,118,79,Spain,Medium
+34,100.0,2,3699.88,2003-11-25,11,2003,Classic Cars,118,79,USA,Medium
+28,100.0,3,2980.6,2003-12-09,12,2003,Classic Cars,118,79,USA,Small
+37,100.0,7,5032.74,2004-02-12,2,2004,Classic Cars,118,79,Ireland,Medium
+45,100.0,5,4737.15,2004-03-15,3,2004,Classic Cars,118,79,Germany,Medium
+46,100.0,1,6311.2,2004-05-05,5,2004,Classic Cars,118,79,Spain,Medium
+22,100.0,1,3070.54,2004-07-20,7,2004,Classic Cars,118,79,USA,Medium
+39,100.0,10,4797.39,2004-08-20,8,2004,Classic Cars,118,79,USA,Medium
+27,100.0,4,3832.38,2004-09-08,9,2004,Classic Cars,118,79,USA,Medium
+36,100.0,1,4641.48,2004-10-13,10,2004,Classic Cars,118,79,USA,Medium
+38,100.0,10,4000.26,2004-10-22,10,2004,Classic Cars,118,79,Denmark,Medium
+44,100.0,5,5325.76,2004-11-05,11,2004,Classic Cars,118,79,Norway,Medium
+31,100.0,5,4618.69,2004-11-20,11,2004,Classic Cars,118,79,France,Medium
+23,100.0,2,3182.97,2004-12-01,12,2004,Classic Cars,118,79,USA,Medium
+22,100.0,7,2603.04,2004-12-15,12,2004,Classic Cars,118,79,France,Small
+28,50.32,9,1408.96,2005-01-23,1,2005,Classic Cars,118,79,USA,Small
+21,93.91,4,1972.11,2005-02-22,2,2005,Classic Cars,118,79,Spain,Small
+37,100.0,7,5207.75,2005-03-15,3,2005,Classic Cars,118,79,Spain,Medium
+31,100.0,1,4253.2,2005-05-03,5,2005,Classic Cars,118,79,Spain,Medium
+25,100.0,15,2873.0,2003-01-29,1,2003,Vintage Cars,97,80,Norway,Small
+26,86.68,3,2253.68,2003-03-25,3,2003,Vintage Cars,97,80,USA,Small
+34,100.0,15,3576.12,2003-05-28,5,2003,Vintage Cars,97,80,Spain,Medium
+29,100.0,4,3276.13,2003-07-16,7,2003,Vintage Cars,97,80,Australia,Medium
+20,90.57,1,1811.4,2003-09-12,9,2003,Vintage Cars,97,80,USA,Small
+42,91.55,5,3845.1,2003-10-20,10,2003,Vintage Cars,97,80,USA,Medium
+22,100.0,3,2571.14,2003-11-05,11,2003,Vintage Cars,97,80,Italy,Small
+47,100.0,12,5035.11,2003-11-13,11,2003,Vintage Cars,97,80,USA,Medium
+20,100.0,4,2279.0,2003-11-21,11,2003,Vintage Cars,97,80,Australia,Small
+33,97.39,10,3213.87,2003-12-05,12,2003,Vintage Cars,97,80,Canada,Medium
+39,90.57,7,3532.23,2004-01-29,1,2004,Vintage Cars,97,80,USA,Medium
+33,100.0,6,3406.59,2004-03-10,3,2004,Vintage Cars,97,80,USA,Medium
+40,86.68,4,3467.2,2004-04-29,4,2004,Vintage Cars,97,80,Spain,Medium
+46,78.89,4,3628.94,2004-06-14,6,2004,Vintage Cars,97,80,USA,Medium
+48,97.39,2,4674.72,2004-07-16,7,2004,Vintage Cars,97,80,Austria,Medium
+21,78.89,6,1656.69,2004-08-17,8,2004,Vintage Cars,97,80,Italy,Small
+45,100.0,1,5171.4,2004-09-07,9,2004,Vintage Cars,97,80,USA,Medium
+33,100.0,10,3342.57,2004-10-11,10,2004,Vintage Cars,97,80,France,Medium
+44,100.0,7,4884.88,2004-10-21,10,2004,Vintage Cars,97,80,USA,Medium
+33,100.0,3,6267.69,2004-11-05,11,2004,Vintage Cars,97,80,USA,Medium
+39,100.0,1,4424.16,2004-11-18,11,2004,Vintage Cars,97,80,USA,Medium
+39,50.31,2,1962.09,2004-11-01,11,2004,Vintage Cars,97,80,Spain,Small
+41,100.0,6,6847.0,2004-12-10,12,2004,Vintage Cars,97,80,Spain,Medium
+40,86.92,3,3476.8,2005-01-20,1,2005,Vintage Cars,97,80,USA,Medium
+33,100.0,4,4592.61,2005-02-17,2,2005,Vintage Cars,97,80,USA,Medium
+28,78.89,4,2208.92,2005-05-30,5,2005,Vintage Cars,97,80,Belgium,Small
+26,63.76,3,1657.76,2003-02-17,2,2003,Planes,72,81,Italy,Small
+29,85.49,9,2479.21,2003-04-29,4,2003,Planes,72,81,Australia,Small
+46,77.52,4,3565.92,2003-06-27,6,2003,Planes,72,81,Spain,Medium
+33,84.77,15,2797.41,2003-08-25,8,2003,Planes,72,81,USA,Small
+48,78.25,10,3756.0,2003-10-28,10,2003,Planes,72,81,USA,Medium
+40,71.0,8,2840.0,2004-01-12,1,2004,Planes,72,81,Japan,Small
+23,74.62,10,1716.26,2004-02-20,2,2004,Planes,72,81,Australia,Small
+40,81.14,4,3245.6,2004-04-02,4,2004,Planes,72,81,Canada,Medium
+37,74.62,5,2760.94,2004-05-11,5,2004,Planes,72,81,USA,Small
+24,75.35,11,1808.4,2004-06-28,6,2004,Planes,72,81,USA,Small
+27,62.31,10,1682.37,2004-07-23,7,2004,Planes,72,81,France,Small
+21,71.0,2,1491.0,2004-08-21,8,2004,Planes,72,81,Norway,Small
+23,72.45,5,1666.35,2004-09-16,9,2004,Planes,72,81,Ireland,Small
+44,83.32,8,3666.08,2004-10-15,10,2004,Planes,72,81,USA,Medium
+35,83.32,1,2916.2,2004-11-02,11,2004,Planes,72,81,USA,Small
+43,60.86,4,2616.98,2004-11-12,11,2004,Planes,72,81,Italy,Small
+40,84.77,1,3390.8,2004-11-24,11,2004,Planes,72,81,Spain,Medium
+35,89.9,3,3146.5,2004-12-04,12,2004,Planes,72,81,USA,Medium
+25,62.46,1,1561.5,2004-12-17,12,2004,Planes,72,81,Australia,Small
+43,100.0,2,10039.6,2005-02-03,2,2005,Planes,72,81,France,Large
+50,63.34,8,3167.0,2005-03-01,3,2005,Planes,72,81,Spain,Medium
+45,78.25,14,3521.25,2005-03-30,3,2005,Planes,72,81,France,Medium
+52,81.14,4,4219.28,2005-04-03,4,2005,Planes,72,81,USA,Medium
+48,74.62,5,3581.76,2005-05-10,5,2005,Planes,72,81,Italy,Medium
+31,68.71,10,2130.01,2003-03-03,3,2003,Classic Cars,80,82,Philippines,Small
+29,71.14,14,2063.06,2003-05-08,5,2003,Classic Cars,80,82,France,Small
+23,87.31,11,2008.13,2003-07-02,7,2003,Classic Cars,80,82,USA,Small
+31,64.67,11,2004.77,2003-09-05,9,2003,Classic Cars,80,82,USA,Small
+23,67.1,6,1543.3,2003-10-10,10,2003,Classic Cars,80,82,USA,Small
+24,94.58,6,2269.92,2003-11-04,11,2003,Classic Cars,80,82,Australia,Small
+28,71.14,1,1991.92,2003-11-11,11,2003,Classic Cars,80,82,France,Small
+44,66.29,7,2916.76,2003-11-20,11,2003,Classic Cars,80,82,Germany,Small
+22,92.16,6,2027.52,2004-01-15,1,2004,Classic Cars,80,82,France,Small
+46,70.33,13,3235.18,2004-02-22,2,2004,Classic Cars,80,82,Switzerland,Medium
+22,93.77,7,2062.94,2004-04-09,4,2004,Classic Cars,80,82,Denmark,Small
+38,87.31,3,3317.78,2004-05-26,5,2004,Classic Cars,80,82,France,Medium
+47,83.27,1,3913.69,2004-06-30,6,2004,Classic Cars,80,82,USA,Medium
+48,75.18,7,3608.64,2004-08-02,8,2004,Classic Cars,80,82,USA,Medium
+40,88.12,16,3524.8,2004-08-30,8,2004,Classic Cars,80,82,Switzerland,Medium
+32,80.84,1,2586.88,2004-09-30,9,2004,Classic Cars,80,82,Finland,Small
+49,97.01,14,4753.49,2004-10-16,10,2004,Classic Cars,80,82,Germany,Medium
+43,85.69,2,3684.67,2004-11-03,11,2004,Classic Cars,80,82,USA,Medium
+41,100.0,2,5715.4,2004-11-17,11,2004,Classic Cars,80,82,USA,Medium
+30,100.0,1,3098.7,2004-11-24,11,2004,Classic Cars,80,82,France,Medium
+28,95.39,9,2670.92,2004-12-07,12,2004,Classic Cars,80,82,Spain,Small
+43,100.0,9,5154.41,2005-01-06,1,2005,Classic Cars,80,82,Finland,Medium
+41,100.0,2,4894.17,2005-02-10,2,2005,Classic Cars,80,82,Spain,Medium
+30,82.42,10,2472.6,2005-03-04,3,2005,Classic Cars,80,82,USA,Small
+31,100.0,3,3224.31,2003-01-29,1,2003,Trucks and Buses,96,83,Norway,Medium
+32,100.0,7,3667.52,2003-04-01,4,2003,Trucks and Buses,96,83,France,Medium
+43,96.31,3,4141.33,2003-05-28,5,2003,Trucks and Buses,96,83,Spain,Medium
+26,100.0,3,2829.58,2003-07-24,7,2003,Trucks and Buses,96,83,USA,Small
+27,100.0,10,3068.55,2003-09-21,9,2003,Trucks and Buses,96,83,Finland,Medium
+24,100.0,1,2634.96,2003-10-21,10,2003,Trucks and Buses,96,83,Austria,Small
+22,100.0,8,2436.72,2003-11-06,11,2003,Trucks and Buses,96,83,UK,Small
+46,100.0,13,4607.36,2003-11-14,11,2003,Trucks and Buses,96,83,Spain,Medium
+37,97.27,3,3598.99,2003-11-25,11,2003,Trucks and Buses,96,83,France,Medium
+49,80.9,14,3964.1,2003-12-09,12,2003,Trucks and Buses,96,83,USA,Medium
+21,100.0,3,2244.9,2004-02-04,2,2004,Trucks and Buses,96,83,Singapore,Small
+25,100.0,8,2793.0,2004-03-11,3,2004,Trucks and Buses,96,83,USA,Small
+37,100.0,1,4133.64,2004-05-04,5,2004,Trucks and Buses,96,83,USA,Medium
+45,86.68,11,3900.6,2004-06-15,6,2004,Trucks and Buses,96,83,Singapore,Medium
+32,85.72,1,2743.04,2004-07-19,7,2004,Trucks and Buses,96,83,Australia,Small
+29,82.83,8,2402.07,2004-08-19,8,2004,Trucks and Buses,96,83,USA,Small
+26,83.79,3,2178.54,2004-09-08,9,2004,Trucks and Buses,96,83,Sweden,Small
+28,100.0,12,3155.04,2004-10-13,10,2004,Trucks and Buses,96,83,USA,Medium
+27,87.64,6,2366.28,2004-10-22,10,2004,Trucks and Buses,96,83,Canada,Small
+20,98.18,11,1963.6,2004-11-05,11,2004,Trucks and Buses,96,83,USA,Small
+44,100.0,1,4746.28,2004-11-19,11,2004,Trucks and Buses,96,83,USA,Medium
+42,100.0,3,6386.94,2004-11-01,11,2004,Trucks and Buses,96,83,Spain,Medium
+41,100.0,1,4428.0,2004-12-10,12,2004,Trucks and Buses,96,83,Spain,Medium
+26,100.0,1,4044.04,2005-01-23,1,2005,Trucks and Buses,96,83,USA,Medium
+26,100.0,6,2708.42,2005-02-17,2,2005,Trucks and Buses,96,83,USA,Small
+26,100.0,1,2904.72,2005-05-01,5,2005,Trucks and Buses,96,83,Canada,Small
+41,86.68,11,3553.88,2005-05-31,5,2005,Trucks and Buses,96,83,France,Medium
+20,92.9,8,1858.0,2003-02-24,2,2003,Motorcycles,99,84,USA,Small
+22,100.0,6,2461.36,2003-04-29,4,2003,Motorcycles,99,84,Australia,Small
+23,100.0,1,2642.01,2003-06-27,6,2003,Motorcycles,99,84,Spain,Small
+33,93.9,12,3098.7,2003-08-25,8,2003,Motorcycles,99,84,USA,Medium
+28,100.0,7,3244.36,2003-10-28,10,2003,Motorcycles,99,84,USA,Medium
+44,98.89,7,4351.16,2003-11-18,11,2003,Motorcycles,99,84,Norway,Medium
+46,79.91,5,3675.86,2004-01-12,1,2004,Motorcycles,99,84,Japan,Medium
+21,100.0,7,2475.27,2004-02-20,2,2004,Motorcycles,99,84,Australia,Small
+41,100.0,1,4177.49,2004-04-02,4,2004,Motorcycles,99,84,Canada,Medium
+31,100.0,2,3282.28,2004-05-11,5,2004,Motorcycles,99,84,USA,Medium
+31,79.91,8,2477.21,2004-06-28,6,2004,Motorcycles,99,84,USA,Small
+23,81.91,7,1883.93,2004-07-23,7,2004,Motorcycles,99,84,France,Small
+37,98.89,12,3658.93,2004-08-27,8,2004,Motorcycles,99,84,USA,Medium
+26,100.0,2,2856.88,2004-09-16,9,2004,Motorcycles,99,84,Ireland,Small
+24,79.91,5,1917.84,2004-10-15,10,2004,Motorcycles,99,84,USA,Small
+47,100.0,7,5305.36,2004-11-02,11,2004,Motorcycles,99,84,USA,Medium
+45,63.91,11,2875.95,2004-11-15,11,2004,Motorcycles,99,84,USA,Small
+55,100.0,2,6482.85,2004-11-24,11,2004,Motorcycles,99,84,Spain,Medium
+46,81.17,5,3733.82,2004-12-04,12,2004,Motorcycles,99,84,USA,Medium
+50,100.0,2,6576.5,2005-01-06,1,2005,Motorcycles,99,84,Finland,Medium
+37,100.0,3,6353.27,2005-02-03,2,2005,Motorcycles,99,84,France,Medium
+44,94.9,1,4175.6,2005-03-02,3,2005,Motorcycles,99,84,Singapore,Medium
+49,100.0,1,4992.61,2005-04-03,4,2005,Motorcycles,99,84,USA,Medium
+45,100.0,2,4764.6,2005-05-10,5,2005,Motorcycles,99,84,Italy,Medium
+27,43.45,13,1173.15,2003-03-03,3,2003,Motorcycles,40,85,Philippines,Small
+31,44.66,17,1384.46,2003-05-08,5,2003,Motorcycles,40,85,France,Small
+33,40.23,14,1327.59,2003-07-02,7,2003,Motorcycles,40,85,USA,Small
+31,35.8,1,1109.8,2003-08-25,8,2003,Motorcycles,40,85,USA,Small
+35,35.4,9,1239.0,2003-10-10,10,2003,Motorcycles,40,85,USA,Small
+26,39.83,9,1035.58,2003-11-04,11,2003,Motorcycles,40,85,Australia,Small
+34,45.46,4,1545.64,2003-11-11,11,2003,Motorcycles,40,85,France,Small
+46,32.99,1,1517.54,2003-11-19,11,2003,Motorcycles,40,85,Spain,Small
+41,42.24,9,1731.84,2004-01-15,1,2004,Motorcycles,40,85,France,Small
+43,39.43,2,1695.49,2004-02-21,2,2004,Motorcycles,40,85,France,Small
+26,40.23,2,1045.98,2004-04-05,4,2004,Motorcycles,40,85,USA,Small
+36,48.28,6,1738.08,2004-05-26,5,2004,Motorcycles,40,85,France,Small
+20,32.59,4,651.8,2004-06-30,6,2004,Motorcycles,40,85,USA,Small
+27,36.61,10,988.47,2004-08-02,8,2004,Motorcycles,40,85,USA,Small
+37,41.03,1,1518.11,2004-08-27,8,2004,Motorcycles,40,85,USA,Small
+24,42.24,4,1013.76,2004-09-30,9,2004,Motorcycles,40,85,Finland,Small
+36,43.05,17,1549.8,2004-10-16,10,2004,Motorcycles,40,85,Germany,Small
+29,38.22,5,1108.38,2004-11-03,11,2004,Motorcycles,40,85,USA,Small
+28,100.0,3,4102.56,2004-11-17,11,2004,Motorcycles,40,85,USA,Medium
+29,100.0,5,3713.16,2004-11-24,11,2004,Motorcycles,40,85,France,Medium
+38,39.83,10,1513.54,2004-12-07,12,2004,Motorcycles,40,85,Spain,Small
+48,48.28,1,2317.44,2005-01-06,1,2005,Motorcycles,40,85,France,Small
+40,82.46,1,3298.4,2005-02-10,2,2005,Motorcycles,40,85,Spain,Medium
+41,44.56,11,1826.96,2005-03-04,3,2005,Motorcycles,40,85,USA,Small
+30,40.23,2,1206.9,2005-04-08,4,2005,Motorcycles,40,85,UK,Small
+35,47.62,11,1666.7,2003-01-31,1,2003,Trucks and Buses,54,86,Spain,Small
+28,55.73,2,1560.44,2003-04-01,4,2003,Trucks and Buses,54,86,France,Small
+45,51.95,13,2337.75,2003-06-03,6,2003,Trucks and Buses,54,86,USA,Small
+24,45.99,7,1103.76,2003-08-01,8,2003,Trucks and Buses,54,86,Finland,Small
+41,63.85,5,2617.85,2003-09-21,9,2003,Trucks and Buses,54,86,Finland,Small
+48,45.99,14,2207.52,2003-10-22,10,2003,Trucks and Buses,54,86,Singapore,Small
+50,63.31,3,3165.5,2003-11-06,11,2003,Trucks and Buses,54,86,UK,Medium
+33,62.77,8,2071.41,2003-11-14,11,2003,Trucks and Buses,54,86,Spain,Small
+32,43.29,8,1385.28,2003-11-25,11,2003,Trucks and Buses,54,86,USA,Small
+27,60.06,9,1621.62,2003-12-09,12,2003,Trucks and Buses,54,86,USA,Small
+35,55.19,4,1931.65,2004-02-10,2,2004,Trucks and Buses,54,86,USA,Small
+23,54.11,3,1244.53,2004-03-11,3,2004,Trucks and Buses,54,86,USA,Small
+35,48.7,7,1704.5,2004-05-05,5,2004,Trucks and Buses,54,86,Spain,Small
+40,43.83,6,1753.2,2004-06-15,6,2004,Trucks and Buses,54,86,Singapore,Small
+35,47.62,7,1666.7,2004-07-20,7,2004,Trucks and Buses,54,86,USA,Small
+31,55.19,3,1710.89,2004-08-19,8,2004,Trucks and Buses,54,86,USA,Small
+50,46.53,10,2326.5,2004-09-08,9,2004,Trucks and Buses,54,86,USA,Small
+40,57.9,7,2316.0,2004-10-13,10,2004,Trucks and Buses,54,86,USA,Small
+38,45.45,1,1727.1,2004-10-22,10,2004,Trucks and Buses,54,86,Canada,Small
+38,100.0,3,8844.12,2004-11-05,11,2004,Trucks and Buses,54,86,Norway,Large
+40,60.6,3,2424.0,2004-11-19,11,2004,Trucks and Buses,54,86,USA,Small
+33,46.53,1,1535.49,2004-12-01,12,2004,Trucks and Buses,54,86,USA,Small
+36,100.0,3,6358.68,2004-12-15,12,2004,Trucks and Buses,54,86,France,Medium
+20,66.47,2,1329.4,2005-01-23,1,2005,Trucks and Buses,54,86,USA,Small
+32,53.18,5,1701.76,2005-02-22,2,2005,Trucks and Buses,54,86,Spain,Small
+36,62.77,3,2259.72,2005-03-15,3,2005,Trucks and Buses,54,86,Spain,Small
+19,48.7,7,925.3,2005-05-03,5,2005,Trucks and Buses,54,86,Spain,Small
+11,43.83,6,482.13,2005-05-31,5,2005,Trucks and Buses,54,86,France,Small
+49,65.87,4,3227.63,2003-01-31,1,2003,Trains,62,87,Spain,Medium
+27,63.38,1,1711.26,2003-04-11,4,2003,Trains,62,87,Belgium,Small
+29,70.84,6,2054.36,2003-06-03,6,2003,Trains,62,87,USA,Small
+42,74.57,16,3131.94,2003-08-08,8,2003,Trains,62,87,USA,Medium
+33,50.95,2,1681.35,2003-09-25,9,2003,Trains,62,87,Australia,Small
+44,53.44,7,2351.36,2003-10-22,10,2003,Trains,62,87,Singapore,Small
+22,64.0,6,1408.0,2003-11-06,11,2003,Trains,62,87,Italy,Small
+48,50.95,1,2445.6,2003-11-14,11,2003,Trains,62,87,Spain,Small
+33,54.68,1,1804.44,2003-11-25,11,2003,Trains,62,87,USA,Small
+45,56.55,2,2544.75,2003-12-09,12,2003,Trains,62,87,USA,Small
+20,52.82,6,1056.4,2004-02-12,2,2004,Trains,62,87,Ireland,Small
+46,60.9,4,2801.4,2004-03-15,3,2004,Trains,62,87,Germany,Small
+40,49.71,6,1988.4,2004-05-05,5,2004,Trains,62,87,Finland,Small
+45,64.63,6,2908.35,2004-07-20,7,2004,Trains,62,87,USA,Small
+36,59.65,9,2147.4,2004-08-20,8,2004,Trains,62,87,USA,Small
+31,67.73,3,2099.63,2004-09-08,9,2004,Trains,62,87,USA,Small
+46,50.33,17,2315.18,2004-10-14,10,2004,Trains,62,87,UK,Small
+35,66.49,9,2327.15,2004-10-22,10,2004,Trains,62,87,Denmark,Small
+28,100.0,2,5377.4,2004-11-05,11,2004,Trains,62,87,Norway,Medium
+31,84.71,9,2626.01,2004-11-20,11,2004,Trains,62,87,France,Small
+27,100.0,14,4406.4,2004-12-02,12,2004,Trains,62,87,Spain,Medium
+22,100.0,1,4301.22,2004-12-15,12,2004,Trains,62,87,France,Medium
+30,99.55,11,2986.5,2005-01-23,1,2005,Trains,62,87,USA,Small
+44,36.07,8,1587.08,2005-02-22,2,2005,Trains,62,87,Spain,Small
+30,60.28,4,1808.4,2005-03-15,3,2005,Trains,62,87,Spain,Small
+24,49.71,6,1193.04,2005-05-05,5,2005,Trains,62,87,USA,Small
+45,75.63,7,3403.35,2003-01-29,1,2003,Trucks and Buses,64,88,Norway,Medium
+23,68.52,1,1575.96,2003-03-26,3,2003,Trucks and Buses,64,88,USA,Small
+26,62.7,7,1630.2,2003-05-28,5,2003,Trucks and Buses,64,88,Spain,Small
+28,60.76,7,1701.28,2003-07-24,7,2003,Trucks and Buses,64,88,USA,Small
+49,58.18,4,2850.82,2003-09-19,9,2003,Trucks and Buses,64,88,Singapore,Small
+49,54.94,5,2692.06,2003-10-21,10,2003,Trucks and Buses,64,88,Austria,Small
+29,74.98,12,2174.42,2003-11-06,11,2003,Trucks and Buses,64,88,UK,Small
+49,64.64,4,3167.36,2003-11-13,11,2003,Trucks and Buses,64,88,USA,Medium
+39,54.94,7,2142.66,2003-11-25,11,2003,Trucks and Buses,64,88,France,Small
+36,58.82,2,2117.52,2003-12-05,12,2003,Trucks and Buses,64,88,Canada,Small
+39,62.05,7,2419.95,2004-02-04,2,2004,Trucks and Buses,64,88,Singapore,Small
+30,73.04,12,2191.2,2004-03-11,3,2004,Trucks and Buses,64,88,USA,Small
+44,69.16,5,3043.04,2004-05-04,5,2004,Trucks and Buses,64,88,USA,Medium
+20,61.41,2,1228.2,2004-06-15,6,2004,Trucks and Buses,64,88,Japan,Small
+21,63.35,5,1330.35,2004-07-19,7,2004,Trucks and Buses,64,88,Australia,Small
+36,77.57,12,2792.52,2004-08-19,8,2004,Trucks and Buses,64,88,USA,Small
+32,71.75,7,2296.0,2004-09-08,9,2004,Trucks and Buses,64,88,Sweden,Small
+36,73.04,2,2629.44,2004-10-11,10,2004,Trucks and Buses,64,88,France,Small
+34,56.24,10,1912.16,2004-10-22,10,2004,Trucks and Buses,64,88,Canada,Small
+48,100.0,4,8209.44,2004-11-05,11,2004,Trucks and Buses,64,88,USA,Large
+33,73.69,4,2431.77,2004-11-18,11,2004,Trucks and Buses,64,88,USA,Small
+31,100.0,5,3139.99,2004-11-01,11,2004,Trucks and Buses,64,88,Spain,Medium
+36,100.0,2,5669.64,2004-12-10,12,2004,Trucks and Buses,64,88,Spain,Medium
+25,100.0,3,3160.25,2005-01-20,1,2005,Trucks and Buses,64,88,Australia,Medium
+48,100.0,8,6799.68,2005-02-17,2,2005,Trucks and Buses,64,88,USA,Medium
+27,69.16,5,1867.32,2005-05-01,5,2005,Trucks and Buses,64,88,Canada,Small
+44,61.41,2,2702.04,2005-05-31,5,2005,Trucks and Buses,64,88,Spain,Small
+33,72.92,5,2406.36,2003-02-17,2,2003,Vintage Cars,68,89,Italy,Small
+29,72.23,11,2094.67,2003-04-29,4,2003,Vintage Cars,68,89,Australia,Small
+49,57.1,6,2797.9,2003-06-27,6,2003,Vintage Cars,68,89,Spain,Small
+20,81.86,1,1637.2,2003-08-13,8,2003,Vintage Cars,68,89,Belgium,Small
+31,73.61,12,2281.91,2003-10-28,10,2003,Vintage Cars,68,89,USA,Small
+39,59.16,10,2307.24,2004-01-12,1,2004,Vintage Cars,68,89,Japan,Small
+20,66.04,12,1320.8,2004-02-20,2,2004,Vintage Cars,68,89,Australia,Small
+34,77.73,6,2642.82,2004-04-02,4,2004,Vintage Cars,68,89,Canada,Small
+50,61.22,7,3061.0,2004-05-11,5,2004,Vintage Cars,68,89,USA,Medium
+40,79.11,2,3164.4,2004-06-24,6,2004,Vintage Cars,68,89,Spain,Medium
+28,63.97,12,1791.16,2004-07-23,7,2004,Vintage Cars,68,89,France,Small
+50,81.86,4,4093.0,2004-08-21,8,2004,Vintage Cars,68,89,Norway,Medium
+28,79.8,7,2234.4,2004-09-16,9,2004,Vintage Cars,68,89,Ireland,Small
+46,66.04,10,3037.84,2004-10-15,10,2004,Vintage Cars,68,89,USA,Medium
+24,59.16,2,1419.84,2004-11-01,11,2004,Vintage Cars,68,89,UK,Small
+24,81.17,5,1948.08,2004-11-12,11,2004,Vintage Cars,68,89,Italy,Small
+39,59.16,3,2307.24,2004-11-24,11,2004,Vintage Cars,68,89,Spain,Small
+40,44.51,7,1780.4,2004-12-04,12,2004,Vintage Cars,68,89,USA,Small
+49,72.33,2,3544.17,2004-12-17,12,2004,Vintage Cars,68,89,Australia,Medium
+44,82.26,4,3619.44,2005-02-03,2,2005,Vintage Cars,68,89,France,Medium
+35,100.0,8,3918.95,2005-03-03,3,2005,Vintage Cars,68,89,USA,Medium
+22,67.41,4,1483.02,2005-03-30,3,2005,Vintage Cars,68,89,France,Small
+62,77.73,6,4819.26,2005-04-03,4,2005,Vintage Cars,68,89,USA,Medium
+26,61.22,7,1591.72,2005-05-10,5,2005,Vintage Cars,68,89,Italy,Small
+31,100.0,16,3669.78,2003-03-03,3,2003,Motorcycles,102,90,Philippines,Medium
+25,86.74,3,2168.5,2003-05-07,5,2003,Motorcycles,102,90,France,Small
+30,89.8,17,2694.0,2003-07-02,7,2003,Motorcycles,102,90,USA,Small
+27,100.0,4,3251.34,2003-08-25,8,2003,Motorcycles,102,90,USA,Medium
+23,100.0,12,2347.15,2003-10-10,10,2003,Motorcycles,102,90,USA,Small
+34,100.0,12,3920.88,2003-11-04,11,2003,Motorcycles,102,90,Australia,Medium
+22,100.0,7,2514.6,2003-11-11,11,2003,Motorcycles,102,90,France,Small
+42,85.72,4,3600.24,2003-11-19,11,2003,Motorcycles,102,90,Spain,Medium
+37,100.0,12,4040.03,2004-01-15,1,2004,Motorcycles,102,90,France,Medium
+30,100.0,5,3336.9,2004-02-21,2,2004,Motorcycles,102,90,France,Medium
+27,100.0,5,3113.64,2004-04-05,4,2004,Motorcycles,102,90,USA,Medium
+25,100.0,9,2832.0,2004-05-26,5,2004,Motorcycles,102,90,France,Small
+34,97.97,7,3330.98,2004-06-30,6,2004,Motorcycles,102,90,USA,Medium
+38,100.0,13,4304.64,2004-08-02,8,2004,Motorcycles,102,90,USA,Medium
+26,100.0,4,2600.26,2004-08-27,8,2004,Motorcycles,102,90,USA,Small
+38,100.0,7,4382.16,2004-09-30,9,2004,Motorcycles,102,90,Finland,Medium
+50,84.7,3,4235.0,2004-10-15,10,2004,Motorcycles,102,90,Norway,Medium
+22,100.0,8,2626.8,2004-11-03,11,2004,Motorcycles,102,90,USA,Small
+32,100.0,4,5026.56,2004-11-17,11,2004,Motorcycles,102,90,USA,Medium
+31,71.02,4,2201.62,2004-11-24,11,2004,Motorcycles,102,90,Austria,Small
+40,100.0,5,4326.8,2004-12-07,12,2004,Motorcycles,102,90,Spain,Medium
+22,100.0,3,3425.18,2005-01-07,1,2005,Motorcycles,102,90,USA,Medium
+41,100.0,15,4701.88,2005-02-03,2,2005,Motorcycles,102,90,France,Medium
+45,48.98,12,2204.1,2005-03-04,3,2005,Motorcycles,102,90,USA,Small
+45,100.0,5,5189.4,2005-04-08,4,2005,Motorcycles,102,90,UK,Medium
+39,40.15,6,1565.85,2003-02-17,2,2003,Vintage Cars,43,91,Italy,Small
+49,50.62,12,2480.38,2003-04-29,4,2003,Vintage Cars,43,91,Australia,Small
+27,50.19,7,1355.13,2003-06-27,6,2003,Vintage Cars,43,91,Spain,Small
+34,36.66,1,1246.44,2003-08-10,8,2003,Vintage Cars,43,91,USA,Small
+20,41.02,1,820.4,2003-10-08,10,2003,Vintage Cars,43,91,Spain,Small
+48,51.93,13,2492.64,2003-10-28,10,2003,Vintage Cars,43,91,USA,Small
+29,38.4,1,1113.6,2003-12-01,12,2003,Vintage Cars,43,91,USA,Small
+43,41.02,11,1763.86,2004-01-12,1,2004,Vintage Cars,43,91,Japan,Small
+41,46.26,13,1896.66,2004-02-20,2,2004,Vintage Cars,43,91,Australia,Small
+41,35.35,7,1449.35,2004-04-02,4,2004,Vintage Cars,43,91,Canada,Small
+36,51.93,8,1869.48,2004-05-11,5,2004,Vintage Cars,43,91,USA,Small
+49,37.97,3,1860.53,2004-06-24,6,2004,Vintage Cars,43,91,Spain,Small
+38,45.39,13,1724.82,2004-07-23,7,2004,Vintage Cars,43,91,France,Small
+33,51.93,5,1713.69,2004-08-21,8,2004,Vintage Cars,43,91,Norway,Small
+26,48.44,1,1259.44,2004-09-15,9,2004,Vintage Cars,43,91,Germany,Small
+47,43.64,11,2051.08,2004-10-15,10,2004,Vintage Cars,43,91,USA,Small
+34,47.57,3,1617.38,2004-11-01,11,2004,Vintage Cars,43,91,UK,Small
+34,51.93,7,1765.62,2004-11-12,11,2004,Vintage Cars,43,91,Italy,Small
+40,50.62,4,2024.8,2004-11-24,11,2004,Vintage Cars,43,91,Spain,Small
+40,82.21,8,3288.4,2004-12-04,12,2004,Vintage Cars,43,91,USA,Medium
+33,82.59,3,2725.47,2004-12-17,12,2004,Vintage Cars,43,91,Australia,Small
+49,65.8,5,3224.2,2005-02-03,2,2005,Vintage Cars,43,91,France,Medium
+27,100.0,1,3211.38,2005-03-03,3,2005,Vintage Cars,43,91,USA,Medium
+49,36.66,5,1796.34,2005-03-30,3,2005,Vintage Cars,43,91,France,Small
+56,35.35,7,1979.6,2005-04-03,4,2005,Vintage Cars,43,91,USA,Small
+37,51.93,8,1921.41,2005-05-10,5,2005,Vintage Cars,43,91,Italy,Small
+33,100.0,7,3705.24,2003-01-31,1,2003,Trucks and Buses,115,92,Spain,Medium
+27,100.0,3,2843.91,2003-04-04,4,2003,Trucks and Buses,115,92,USA,Small
+46,100.0,9,6176.42,2003-06-03,6,2003,Trucks and Buses,115,92,USA,Medium
+44,100.0,3,5500.44,2003-08-01,8,2003,Trucks and Buses,115,92,Finland,Medium
+26,100.0,1,3220.1,2003-09-21,9,2003,Trucks and Buses,115,92,Finland,Medium
+48,94.92,10,4556.16,2003-10-22,10,2003,Trucks and Buses,115,92,Singapore,Medium
+23,100.0,9,3114.89,2003-11-06,11,2003,Trucks and Buses,115,92,Italy,Medium
+45,100.0,4,4948.2,2003-11-14,11,2003,Trucks and Buses,115,92,Spain,Medium
+49,100.0,4,5161.17,2003-11-25,11,2003,Trucks and Buses,115,92,USA,Medium
+28,94.92,5,2657.76,2003-12-09,12,2003,Trucks and Buses,115,92,USA,Small
+37,100.0,9,3983.05,2004-02-12,2,2004,Trucks and Buses,115,92,Ireland,Medium
+34,100.0,7,3974.94,2004-03-15,3,2004,Trucks and Buses,115,92,Germany,Medium
+22,100.0,3,2928.42,2004-05-05,5,2004,Trucks and Buses,115,92,Spain,Small
+29,100.0,2,3054.57,2004-06-15,6,2004,Trucks and Buses,115,92,Singapore,Medium
+34,98.39,3,3345.26,2004-07-20,7,2004,Trucks and Buses,115,92,USA,Medium
+38,100.0,12,4310.72,2004-08-20,8,2004,Trucks and Buses,115,92,USA,Medium
+41,100.0,6,4983.14,2004-09-08,9,2004,Trucks and Buses,115,92,USA,Medium
+42,100.0,3,4618.32,2004-10-13,10,2004,Trucks and Buses,115,92,USA,Medium
+28,100.0,12,3403.12,2004-10-22,10,2004,Trucks and Buses,115,92,Denmark,Medium
+38,100.0,4,5190.42,2004-11-05,11,2004,Trucks and Buses,115,92,Norway,Medium
+23,100.0,8,3141.57,2004-11-20,11,2004,Trucks and Buses,115,92,France,Medium
+31,71.4,8,2213.4,2004-12-02,12,2004,Trucks and Buses,115,92,Spain,Small
+46,100.0,2,4896.7,2004-12-15,12,2004,Trucks and Buses,115,92,France,Medium
+48,56.55,10,2714.4,2005-01-23,1,2005,Trucks and Buses,115,92,USA,Small
+29,100.0,13,3087.05,2005-02-22,2,2005,Trucks and Buses,115,92,Spain,Medium
+46,100.0,4,5692.96,2005-03-17,3,2005,Trucks and Buses,115,92,France,Medium
+26,100.0,3,3460.86,2005-05-03,5,2005,Trucks and Buses,115,92,Spain,Medium
+18,100.0,2,1895.94,2005-05-31,5,2005,Trucks and Buses,115,92,France,Small
+32,53.31,2,1705.92,2003-01-31,1,2003,Trains,58,93,Spain,Small
+21,49.21,11,1033.41,2003-04-16,4,2003,Trains,58,93,Singapore,Small
+46,69.12,4,3179.52,2003-06-03,6,2003,Trains,58,93,USA,Medium
+42,49.79,14,2091.18,2003-08-08,8,2003,Trains,58,93,USA,Small
+31,57.41,13,1779.71,2003-09-28,9,2003,Trains,58,93,Spain,Small
+38,66.78,5,2537.64,2003-10-22,10,2003,Trains,58,93,Singapore,Small
+38,64.44,4,2448.72,2003-11-06,11,2003,Trains,58,93,Italy,Small
+20,48.62,15,972.4,2003-11-14,11,2003,Trains,58,93,USA,Small
+46,62.09,7,2856.14,2003-11-26,11,2003,Trains,58,93,USA,Small
+30,65.61,15,1968.3,2004-01-02,1,2004,Trains,58,93,France,Small
+30,68.54,4,2056.2,2004-02-12,2,2004,Trains,58,93,Ireland,Small
+43,52.14,2,2242.02,2004-03-15,3,2004,Trains,58,93,Germany,Small
+49,63.85,4,3128.65,2004-05-05,5,2004,Trains,58,93,Finland,Medium
+43,56.82,4,2443.26,2004-07-20,7,2004,Trains,58,93,USA,Small
+37,66.78,7,2470.86,2004-08-20,8,2004,Trains,58,93,USA,Small
+35,55.07,1,1927.45,2004-09-08,9,2004,Trains,58,93,USA,Small
+34,60.34,15,2051.56,2004-10-14,10,2004,Trains,58,93,UK,Small
+38,61.51,7,2337.38,2004-10-22,10,2004,Trains,58,93,Denmark,Small
+44,100.0,7,5932.96,2004-11-05,11,2004,Trains,58,93,Norway,Medium
+21,100.0,6,2296.77,2004-11-21,11,2004,Trains,58,93,USA,Small
+44,100.0,17,6490.88,2004-12-02,12,2004,Trains,58,93,Spain,Medium
+25,64.93,4,1623.25,2004-12-15,12,2004,Trains,58,93,France,Small
+24,58.58,9,1405.92,2005-01-26,1,2005,Trains,58,93,Japan,Small
+38,60.06,10,2282.28,2005-02-22,2,2005,Trains,58,93,Spain,Small
+45,100.0,3,8977.05,2005-03-17,3,2005,Trains,58,93,France,Large
+51,63.85,4,3256.35,2005-05-05,5,2005,Trains,58,93,USA,Medium
+34,82.99,14,2821.66,2003-03-03,3,2003,Motorcycles,81,94,Philippines,Small
+44,74.85,1,3293.4,2003-05-07,5,2003,Motorcycles,81,94,France,Medium
+44,96.0,15,4224.0,2003-07-02,7,2003,Motorcycles,81,94,USA,Medium
+38,81.36,2,3091.68,2003-08-25,8,2003,Motorcycles,81,94,USA,Medium
+31,71.6,10,2219.6,2003-10-10,10,2003,Motorcycles,81,94,USA,Small
+48,80.55,10,3866.4,2003-11-04,11,2003,Motorcycles,81,94,Australia,Medium
+21,93.56,5,1964.76,2003-11-11,11,2003,Motorcycles,81,94,France,Small
+40,66.72,2,2668.8,2003-11-19,11,2003,Motorcycles,81,94,Spain,Small
+40,80.55,10,3222.0,2004-01-15,1,2004,Motorcycles,81,94,France,Medium
+50,77.29,3,3864.5,2004-02-21,2,2004,Motorcycles,81,94,France,Medium
+20,68.34,3,1366.8,2004-04-05,4,2004,Motorcycles,81,94,USA,Small
+48,72.41,7,3475.68,2004-05-26,5,2004,Motorcycles,81,94,France,Medium
+47,89.5,5,4206.5,2004-06-30,6,2004,Motorcycles,81,94,USA,Medium
+21,70.78,11,1486.38,2004-08-02,8,2004,Motorcycles,81,94,USA,Small
+39,78.92,2,3077.88,2004-08-27,8,2004,Motorcycles,81,94,USA,Medium
+44,80.55,5,3544.2,2004-09-30,9,2004,Motorcycles,81,94,Finland,Medium
+28,88.68,1,2483.04,2004-10-15,10,2004,Motorcycles,81,94,Norway,Small
+45,77.29,6,3478.05,2004-11-03,11,2004,Motorcycles,81,94,USA,Medium
+20,100.0,5,3657.8,2004-11-17,11,2004,Motorcycles,81,94,USA,Medium
+38,100.0,3,4682.36,2004-11-24,11,2004,Motorcycles,81,94,Austria,Medium
+26,100.0,4,3937.7,2004-12-09,12,2004,Motorcycles,81,94,France,Medium
+44,100.0,2,4984.32,2005-01-07,1,2005,Motorcycles,81,94,USA,Medium
+49,100.0,8,5406.66,2005-02-03,2,2005,Motorcycles,81,94,France,Medium
+22,100.0,13,3491.18,2005-03-04,3,2005,Motorcycles,81,94,USA,Medium
+31,68.34,3,2118.54,2005-04-08,4,2005,Motorcycles,81,94,UK,Small
+41,70.67,5,2897.47,2003-02-11,2,2003,Ships,66,95,Denmark,Small
+25,76.67,14,1916.75,2003-04-28,4,2003,Ships,66,95,Austria,Small
+31,60.0,5,1860.0,2003-06-12,6,2003,Ships,66,95,UK,Small
+41,64.0,2,2624.0,2003-08-08,8,2003,Ships,66,95,USA,Small
+43,64.67,1,2780.81,2003-09-28,9,2003,Ships,66,95,Spain,Small
+43,75.34,12,3239.62,2003-10-23,10,2003,Ships,66,95,Sweden,Medium
+24,76.0,3,1824.0,2003-11-07,11,2003,Ships,66,95,Spain,Small
+21,54.0,3,1134.0,2003-11-14,11,2003,Ships,66,95,USA,Small
+23,64.67,9,1487.41,2003-11-26,11,2003,Ships,66,95,Spain,Small
+38,74.67,3,2837.46,2004-01-02,1,2004,Ships,66,95,France,Small
+31,62.67,15,1942.77,2004-02-19,2,2004,Ships,66,95,USA,Small
+36,70.67,3,2544.12,2004-03-29,3,2004,Ships,66,95,USA,Small
+36,71.34,6,2568.24,2004-05-07,5,2004,Ships,66,95,USA,Small
+34,62.0,4,2108.0,2004-06-17,6,2004,Ships,66,95,Canada,Small
+21,65.34,7,1372.14,2004-07-21,7,2004,Ships,66,95,Belgium,Small
+45,78.67,9,3540.15,2004-08-20,8,2004,Ships,66,95,Canada,Medium
+26,75.34,4,1958.84,2004-09-10,9,2004,Ships,66,95,USA,Small
+50,54.0,3,2700.0,2004-10-14,10,2004,Ships,66,95,UK,Small
+41,62.0,2,2542.0,2004-10-29,10,2004,Ships,66,95,France,Small
+39,60.0,1,2340.0,2004-11-09,11,2004,Ships,66,95,Sweden,Small
+22,100.0,5,2816.44,2004-11-23,11,2004,Ships,66,95,Japan,Small
+46,76.67,11,3526.82,2004-12-02,12,2004,Ships,66,95,Spain,Medium
+44,100.0,14,4627.92,2005-01-31,1,2005,Ships,66,95,Finland,Medium
+25,77.34,1,1933.5,2005-02-28,2,2005,Ships,66,95,USA,Small
+39,66.67,1,2600.13,2005-03-23,3,2005,Ships,66,95,USA,Small
+37,71.34,6,2639.58,2005-05-06,5,2005,Ships,66,95,USA,Small
+31,100.0,7,3312.97,2003-02-17,2,2003,Planes,91,96,Italy,Medium
+47,82.21,13,3863.87,2003-04-29,4,2003,Planes,91,96,Australia,Medium
+24,77.64,8,1863.36,2003-06-27,6,2003,Planes,91,96,Spain,Small
+36,100.0,2,3945.96,2003-08-10,8,2003,Planes,91,96,USA,Medium
+48,100.0,2,4954.08,2003-10-08,10,2003,Planes,91,96,Spain,Medium
+28,98.65,14,2762.2,2003-10-28,10,2003,Planes,91,96,USA,Small
+48,83.12,2,3989.76,2003-12-01,12,2003,Planes,91,96,USA,Medium
+21,78.55,12,1649.55,2004-01-12,1,2004,Planes,91,96,Japan,Small
+25,100.0,14,2534.75,2004-02-20,2,2004,Planes,91,96,Australia,Small
+25,100.0,8,2580.25,2004-04-02,4,2004,Planes,91,96,Canada,Small
+31,91.34,9,2831.54,2004-05-11,5,2004,Planes,91,96,USA,Small
+40,84.03,4,3361.2,2004-06-24,6,2004,Planes,91,96,Spain,Medium
+32,89.51,14,2864.32,2004-07-23,7,2004,Planes,91,96,France,Small
+24,83.12,6,1994.88,2004-08-21,8,2004,Planes,91,96,Norway,Small
+42,100.0,2,4296.6,2004-09-15,9,2004,Planes,91,96,Germany,Medium
+21,100.0,12,2224.95,2004-10-15,10,2004,Planes,91,96,USA,Small
+34,82.21,4,2795.14,2004-11-01,11,2004,Planes,91,96,UK,Small
+27,100.0,8,2762.1,2004-11-12,11,2004,Planes,91,96,Italy,Small
+30,88.6,5,2658.0,2004-11-24,11,2004,Planes,91,96,Spain,Small
+39,100.0,9,5043.87,2004-12-04,12,2004,Planes,91,96,USA,Medium
+20,60.54,4,1210.8,2004-12-17,12,2004,Planes,91,96,Australia,Small
+37,81.87,6,3029.19,2005-02-03,2,2005,Planes,91,96,France,Medium
+46,100.0,2,10066.6,2005-03-03,3,2005,Planes,91,96,USA,Large
+47,87.69,6,4121.43,2005-03-30,3,2005,Planes,91,96,France,Medium
+11,100.0,8,1135.31,2005-04-03,4,2005,Planes,91,96,USA,Small
+23,91.34,9,2100.82,2005-05-10,5,2005,Planes,91,96,Italy,Small
+29,70.15,12,2034.35,2003-02-11,2,2003,Ships,86,97,Denmark,Small
+38,79.68,6,3027.84,2003-04-16,4,2003,Ships,86,97,Singapore,Medium
+32,97.0,3,3104.0,2003-06-06,6,2003,Ships,86,97,Spain,Medium
+43,84.01,9,3612.43,2003-08-08,8,2003,Ships,86,97,USA,Medium
+31,87.48,8,2711.88,2003-09-28,9,2003,Ships,86,97,Spain,Small
+29,100.0,3,3013.97,2003-10-21,10,2003,Ships,86,97,USA,Medium
+31,88.34,10,2738.54,2003-11-07,11,2003,Ships,86,97,Spain,Small
+30,94.4,10,2832.0,2003-11-14,11,2003,Ships,86,97,USA,Small
+50,94.4,2,4720.0,2003-11-26,11,2003,Ships,86,97,USA,Medium
+40,80.55,10,3222.0,2004-01-02,1,2004,Ships,86,97,France,Medium
+23,97.0,4,2231.0,2004-02-18,2,2004,Ships,86,97,Belgium,Small
+26,88.34,7,2296.84,2004-03-20,3,2004,Ships,86,97,UK,Small
+40,100.0,13,4157.2,2004-05-07,5,2004,Ships,86,97,USA,Medium
+21,100.0,14,2146.2,2004-07-21,7,2004,Ships,86,97,Belgium,Small
+43,86.61,2,3724.23,2004-08-20,8,2004,Ships,86,97,USA,Medium
+29,71.89,5,2084.81,2004-09-09,9,2004,Ships,86,97,Italy,Small
+38,91.81,10,3488.78,2004-10-14,10,2004,Ships,86,97,UK,Medium
+23,76.22,2,1753.06,2004-10-22,10,2004,Ships,86,97,Denmark,Small
+20,100.0,7,3469.2,2004-11-10,11,2004,Ships,86,97,Denmark,Medium
+36,70.3,9,2530.8,2004-11-21,11,2004,Ships,86,97,USA,Small
+28,100.0,4,2924.32,2004-12-02,12,2004,Ships,86,97,Spain,Small
+44,100.0,2,4496.8,2005-01-26,1,2005,Ships,86,97,Japan,Medium
+49,100.0,1,6397.44,2005-02-23,2,2005,Ships,86,97,USA,Medium
+32,80.55,5,2577.6,2005-03-28,3,2005,Ships,86,97,France,Small
+34,100.0,13,3533.62,2005-05-06,5,2005,Ships,86,97,USA,Medium
+30,100.0,16,3177.3,2003-02-17,2,2003,Ships,90,98,Italy,Medium
+29,94.14,7,2730.06,2003-04-28,4,2003,Ships,90,98,Austria,Small
+22,85.99,8,1891.78,2003-06-16,6,2003,Ships,90,98,USA,Small
+26,100.0,11,2612.48,2003-08-10,8,2003,Ships,90,98,USA,Small
+32,91.43,9,2925.76,2003-10-06,10,2003,Ships,90,98,Finland,Small
+29,100.0,5,2940.02,2003-10-23,10,2003,Ships,90,98,Sweden,Small
+34,96.86,8,3293.24,2003-11-08,11,2003,Ships,90,98,France,Medium
+24,99.57,5,2389.68,2003-11-14,11,2003,Ships,90,98,UK,Small
+24,90.52,2,2172.48,2003-11-26,11,2003,Ships,90,98,Spain,Small
+33,88.71,4,2927.43,2004-01-09,1,2004,Ships,90,98,USA,Small
+26,100.0,8,2659.54,2004-02-19,2,2004,Ships,90,98,USA,Small
+40,95.95,4,3838.0,2004-05-08,5,2004,Ships,90,98,USA,Medium
+44,94.14,13,4142.16,2004-06-24,6,2004,Ships,90,98,Spain,Medium
+24,90.52,5,2172.48,2004-07-21,7,2004,Ships,90,98,USA,Small
+20,94.14,2,1882.8,2004-08-20,8,2004,Ships,90,98,Canada,Small
+34,100.0,11,3477.86,2004-09-15,9,2004,Ships,90,98,Germany,Medium
+34,97.76,5,3323.84,2004-10-14,10,2004,Ships,90,98,USA,Medium
+45,93.24,13,4195.8,2004-11-01,11,2004,Ships,90,98,UK,Medium
+41,100.0,9,4156.58,2004-11-12,11,2004,Ships,90,98,Italy,Medium
+55,71.25,15,3918.75,2004-11-23,11,2004,Ships,90,98,Japan,Medium
+23,100.0,3,2352.67,2004-12-03,12,2004,Ships,90,98,USA,Small
+24,45.39,14,1089.36,2004-12-17,12,2004,Ships,90,98,Australia,Small
+32,84.41,15,2701.12,2005-01-31,1,2005,Ships,90,98,Finland,Small
+29,85.76,13,2487.04,2005-03-01,3,2005,Ships,90,98,Spain,Small
+36,100.0,7,3910.32,2005-03-30,3,2005,Ships,90,98,France,Medium
+46,87.8,5,4038.8,2005-04-01,4,2005,Ships,90,98,USA,Medium
+32,95.95,4,3070.4,2005-05-09,5,2005,Ships,90,98,Australia,Medium
+34,100.0,9,3763.46,2003-02-17,2,2003,Planes,99,99,Italy,Medium
+24,100.0,15,2584.8,2003-04-29,4,2003,Planes,99,99,Australia,Small
+40,100.0,1,4427.6,2003-06-16,6,2003,Planes,99,99,USA,Medium
+26,82.77,4,2152.02,2003-08-10,8,2003,Planes,99,99,USA,Small
+20,100.0,2,2353.4,2003-10-06,10,2003,Planes,99,99,Finland,Small
+31,100.0,16,3431.39,2003-10-28,10,2003,Planes,99,99,USA,Medium
+22,87.75,1,1930.5,2003-11-08,11,2003,Planes,99,99,France,Small
+42,100.0,1,4774.56,2003-11-27,11,2003,Planes,99,99,Philippines,Medium
+26,99.72,14,2592.72,2004-01-12,1,2004,Planes,99,99,Japan,Small
+37,87.75,1,3246.75,2004-02-19,2,2004,Planes,99,99,USA,Medium
+38,88.75,10,3372.5,2004-04-02,4,2004,Planes,99,99,Canada,Medium
+35,100.0,11,3909.15,2004-05-11,5,2004,Planes,99,99,USA,Medium
+33,90.75,6,2994.75,2004-06-24,6,2004,Planes,99,99,Spain,Small
+39,100.0,16,4472.52,2004-07-23,7,2004,Planes,99,99,France,Medium
+45,100.0,8,4576.95,2004-08-21,8,2004,Planes,99,99,Norway,Medium
+24,100.0,4,2441.04,2004-09-15,9,2004,Planes,99,99,Germany,Small
+35,88.75,14,3106.25,2004-10-15,10,2004,Planes,99,99,USA,Medium
+23,100.0,6,2706.41,2004-11-01,11,2004,Planes,99,99,UK,Small
+37,100.0,10,4021.53,2004-11-12,11,2004,Planes,99,99,Italy,Medium
+55,87.75,7,4826.25,2004-11-24,11,2004,Planes,99,99,Spain,Medium
+49,100.0,2,4935.28,2004-12-03,12,2004,Planes,99,99,USA,Medium
+26,100.0,9,2754.7,2004-12-17,12,2004,Planes,99,99,Australia,Small
+33,100.0,1,3856.71,2005-02-03,2,2005,Planes,99,99,France,Medium
+37,83.84,14,3102.08,2005-03-01,3,2005,Planes,99,99,Spain,Medium
+22,86.76,8,1908.72,2005-03-30,3,2005,Planes,99,99,France,Small
+85,88.75,10,7543.75,2005-04-03,4,2005,Planes,99,99,USA,Large
+22,100.0,11,2457.18,2005-05-10,5,2005,Planes,99,99,Italy,Small
+31,65.77,3,2038.87,2003-02-11,2,2003,Ships,72,100,Denmark,Small
+38,65.77,12,2499.26,2003-04-28,4,2003,Ships,72,100,Austria,Small
+45,85.29,3,3838.05,2003-06-12,6,2003,Ships,72,100,UK,Medium
+31,85.29,16,2643.99,2003-08-10,8,2003,Ships,72,100,USA,Small
+36,64.33,1,2315.88,2003-10-02,10,2003,Ships,72,100,USA,Small
+46,70.11,10,3225.06,2003-10-23,10,2003,Ships,72,100,Sweden,Medium
+32,76.62,1,2451.84,2003-11-07,11,2003,Ships,72,100,Spain,Small
+39,57.82,1,2254.98,2003-11-14,11,2003,Ships,72,100,USA,Small
+50,78.79,7,3939.5,2003-11-26,11,2003,Ships,72,100,Spain,Medium
+46,74.45,1,3424.7,2004-01-02,1,2004,Ships,72,100,France,Medium
+36,80.95,13,2914.2,2004-02-19,2,2004,Ships,72,100,USA,Small
+29,82.4,1,2389.6,2004-03-29,3,2004,Ships,72,100,USA,Small
+32,75.89,4,2428.48,2004-05-07,5,2004,Ships,72,100,USA,Small
+44,68.67,2,3021.48,2004-06-17,6,2004,Ships,72,100,Canada,Medium
+42,62.16,5,2610.72,2004-07-21,7,2004,Ships,72,100,Belgium,Small
+47,65.77,7,3091.19,2004-08-20,8,2004,Ships,72,100,Canada,Medium
+44,58.55,2,2576.2,2004-09-10,9,2004,Ships,72,100,USA,Small
+43,75.17,1,3232.31,2004-10-14,10,2004,Ships,72,100,UK,Medium
+48,74.45,18,3573.6,2004-11-01,11,2004,Ships,72,100,UK,Medium
+21,96.31,1,2022.51,2004-11-10,11,2004,Ships,72,100,Denmark,Small
+50,74.35,9,3717.5,2004-11-23,11,2004,Ships,72,100,Japan,Medium
+29,75.35,12,2185.15,2004-12-02,12,2004,Ships,72,100,Spain,Small
+41,70.33,16,2883.53,2005-01-31,1,2005,Ships,72,100,Finland,Small
+37,100.0,10,5017.57,2005-03-01,3,2005,Ships,72,100,Spain,Medium
+22,66.5,4,1463.0,2005-03-28,3,2005,Ships,72,100,France,Small
+31,75.89,4,2352.59,2005-05-06,5,2005,Ships,72,100,USA,Small
+42,100.0,6,4460.82,2003-01-29,1,2003,Classic Cars,101,101,Norway,Medium
+42,100.0,10,4758.18,2003-04-01,4,2003,Classic Cars,101,101,France,Medium
+45,100.0,6,4597.2,2003-05-28,5,2003,Classic Cars,101,101,Spain,Medium
+36,100.0,6,4114.8,2003-07-24,7,2003,Classic Cars,101,101,USA,Medium
+20,100.0,3,2104.0,2003-09-19,9,2003,Classic Cars,101,101,Singapore,Small
+39,81.93,4,3195.27,2003-10-21,10,2003,Classic Cars,101,101,Austria,Medium
+42,85.98,11,3611.16,2003-11-06,11,2003,Classic Cars,101,101,UK,Medium
+23,86.99,3,2000.77,2003-11-13,11,2003,Classic Cars,101,101,USA,Small
+26,89.01,6,2314.26,2003-11-25,11,2003,Classic Cars,101,101,France,Small
+33,100.0,1,3871.89,2003-12-05,12,2003,Classic Cars,101,101,Canada,Medium
+31,88.0,6,2728.0,2004-02-04,2,2004,Classic Cars,101,101,Singapore,Small
+50,100.0,11,5614.0,2004-03-11,3,2004,Classic Cars,101,101,USA,Medium
+44,100.0,4,4628.8,2004-05-04,5,2004,Classic Cars,101,101,USA,Medium
+45,80.92,1,3641.4,2004-06-15,6,2004,Classic Cars,101,101,Japan,Medium
+46,88.0,4,4048.0,2004-07-19,7,2004,Classic Cars,101,101,Australia,Medium
+27,85.98,11,2321.46,2004-08-19,8,2004,Classic Cars,101,101,USA,Small
+28,100.0,6,3256.96,2004-09-08,9,2004,Classic Cars,101,101,Sweden,Medium
+40,100.0,1,4208.0,2004-10-11,10,2004,Classic Cars,101,101,France,Medium
+30,99.13,9,2973.9,2004-10-22,10,2004,Classic Cars,101,101,Canada,Small
+34,100.0,5,4248.3,2004-11-05,11,2004,Classic Cars,101,101,USA,Medium
+46,100.0,2,9558.8,2004-11-20,11,2004,Classic Cars,101,101,France,Large
+32,82.83,7,2650.56,2004-11-01,11,2004,Classic Cars,101,101,Spain,Small
+27,100.0,3,3761.37,2004-12-10,12,2004,Classic Cars,101,101,Spain,Medium
+34,100.0,3,4301.34,2005-01-23,1,2005,Classic Cars,101,101,USA,Medium
+34,54.84,9,1864.56,2005-02-17,2,2005,Classic Cars,101,101,USA,Small
+34,100.0,4,3576.8,2005-05-01,5,2005,Classic Cars,101,101,Canada,Medium
+46,80.92,1,3722.32,2005-05-31,5,2005,Classic Cars,101,101,Spain,Medium
+32,100.0,1,3986.56,2003-02-17,2,2003,Planes,118,102,Italy,Medium
+24,100.0,7,3417.12,2003-04-29,4,2003,Planes,118,102,Australia,Medium
+27,99.67,2,2691.09,2003-06-27,6,2003,Planes,118,102,Spain,Small
+20,100.0,13,2752.6,2003-08-25,8,2003,Planes,118,102,USA,Small
+36,100.0,8,4527.72,2003-10-28,10,2003,Planes,118,102,USA,Medium
+29,100.0,8,3957.05,2003-11-18,11,2003,Planes,118,102,Norway,Medium
+25,100.0,6,2818.0,2004-01-12,1,2004,Planes,118,102,Japan,Small
+29,100.0,8,3199.86,2004-02-20,2,2004,Planes,118,102,Australia,Medium
+25,96.11,2,2402.75,2004-04-02,4,2004,Planes,118,102,Canada,Small
+44,100.0,3,6055.72,2004-05-11,5,2004,Planes,118,102,USA,Medium
+47,100.0,9,5465.16,2004-06-28,6,2004,Planes,118,102,USA,Medium
+48,100.0,8,6378.72,2004-07-23,7,2004,Planes,118,102,France,Medium
+45,100.0,13,5392.8,2004-08-27,8,2004,Planes,118,102,USA,Medium
+35,100.0,3,3986.5,2004-09-16,9,2004,Planes,118,102,Ireland,Medium
+31,100.0,6,4009.23,2004-10-15,10,2004,Planes,118,102,USA,Medium
+50,100.0,8,7119.0,2004-11-02,11,2004,Planes,118,102,USA,Large
+33,100.0,11,4072.2,2004-11-12,11,2004,Planes,118,102,Italy,Medium
+29,100.0,6,4094.51,2004-11-24,11,2004,Planes,118,102,Spain,Medium
+48,68.8,4,3302.4,2004-12-04,12,2004,Planes,118,102,USA,Medium
+44,72.42,5,3186.48,2004-12-17,12,2004,Planes,118,102,Australia,Medium
+25,66.73,10,1668.25,2005-02-03,2,2005,Planes,118,102,France,Small
+50,100.0,3,7154.5,2005-03-03,3,2005,Planes,118,102,USA,Large
+23,100.0,9,2810.83,2005-03-30,3,2005,Planes,118,102,France,Small
+21,96.11,2,2018.31,2005-04-03,4,2005,Planes,118,102,USA,Small
+41,100.0,3,5642.83,2005-05-10,5,2005,Planes,118,102,Italy,Medium
+44,74.4,8,3273.6,2003-02-17,2,2003,Planes,80,103,Italy,Medium
+43,76.0,14,3268.0,2003-04-29,4,2003,Planes,80,103,Australia,Medium
+28,96.0,3,2688.0,2003-08-10,8,2003,Planes,80,103,USA,Small
+43,86.4,1,3715.2,2003-10-06,10,2003,Planes,80,103,Finland,Medium
+48,96.0,15,4608.0,2003-10-28,10,2003,Planes,80,103,USA,Medium
+38,82.4,3,3131.2,2003-12-01,12,2003,Planes,80,103,USA,Medium
+31,86.4,13,2678.4,2004-01-12,1,2004,Planes,80,103,Japan,Small
+26,67.2,15,1747.2,2004-02-20,2,2004,Planes,80,103,Australia,Small
+32,92.0,9,2944.0,2004-04-02,4,2004,Planes,80,103,Canada,Small
+44,67.2,10,2956.8,2004-05-11,5,2004,Planes,80,103,USA,Small
+27,76.0,5,2052.0,2004-06-24,6,2004,Planes,80,103,Spain,Small
+43,73.6,15,3164.8,2004-07-23,7,2004,Planes,80,103,France,Medium
+25,69.6,7,1740.0,2004-08-21,8,2004,Planes,80,103,Norway,Small
+22,80.8,3,1777.6,2004-09-15,9,2004,Planes,80,103,Germany,Small
+21,87.2,13,1831.2,2004-10-15,10,2004,Planes,80,103,USA,Small
+48,75.2,5,3609.6,2004-11-01,11,2004,Planes,80,103,UK,Medium
+33,64.0,13,2112.0,2004-11-12,11,2004,Planes,80,103,Italy,Small
+34,100.0,5,3644.12,2004-11-24,11,2004,Planes,80,103,Austria,Medium
+43,81.95,6,3523.85,2004-12-04,12,2004,Planes,80,103,USA,Medium
+44,100.0,10,5001.92,2004-12-17,12,2004,Planes,80,103,Australia,Medium
+44,100.0,11,5208.72,2005-02-03,2,2005,Planes,80,103,France,Medium
+32,94.34,17,3018.88,2005-03-01,3,2005,Planes,80,103,Spain,Medium
+29,65.6,10,1902.4,2005-03-30,3,2005,Planes,80,103,France,Small
+77,92.0,9,7084.0,2005-04-03,4,2005,Planes,80,103,USA,Large
+39,67.2,10,2620.8,2005-05-10,5,2005,Planes,80,103,Italy,Small
+39,81.14,6,3164.46,2003-02-11,2,2003,Ships,100,104,Denmark,Medium
+36,100.0,1,4219.2,2003-04-21,4,2003,Ships,100,104,Spain,Medium
+42,91.15,6,3828.3,2003-06-12,6,2003,Ships,100,104,UK,Medium
+21,100.0,3,2334.99,2003-08-08,8,2003,Ships,100,104,USA,Small
+50,88.15,2,4407.5,2003-09-28,9,2003,Ships,100,104,Spain,Medium
+24,100.0,13,2812.8,2003-10-23,10,2003,Ships,100,104,Sweden,Small
+44,92.16,4,4055.04,2003-11-07,11,2003,Ships,100,104,Spain,Medium
+37,100.0,4,3891.66,2003-11-14,11,2003,Ships,100,104,USA,Medium
+27,92.16,10,2488.32,2003-11-26,11,2003,Ships,100,104,Spain,Small
+37,100.0,4,4447.4,2004-01-02,1,2004,Ships,100,104,France,Medium
+38,100.0,16,4187.22,2004-02-19,2,2004,Ships,100,104,USA,Medium
+48,96.16,1,4615.68,2004-03-20,3,2004,Ships,100,104,UK,Medium
+30,100.0,7,3245.4,2004-05-07,5,2004,Ships,100,104,USA,Medium
+25,88.15,5,2203.75,2004-06-17,6,2004,Ships,100,104,Canada,Small
+40,86.15,8,3446.0,2004-07-21,7,2004,Ships,100,104,Belgium,Medium
+22,88.15,10,1939.3,2004-08-20,8,2004,Ships,100,104,Canada,Small
+34,100.0,5,3473.78,2004-09-10,9,2004,Ships,100,104,USA,Medium
+32,90.15,4,2884.8,2004-10-14,10,2004,Ships,100,104,UK,Small
+31,86.15,3,2670.65,2004-10-29,10,2004,Ships,100,104,France,Small
+43,80.0,2,3440.0,2004-11-10,11,2004,Ships,100,104,Denmark,Medium
+31,89.38,1,2770.78,2004-11-21,11,2004,Ships,100,104,USA,Small
+31,77.34,13,2397.54,2004-12-02,12,2004,Ships,100,104,Spain,Small
+34,96.34,2,3275.56,2005-01-31,1,2005,Ships,100,104,Finland,Medium
+45,92.08,2,4143.6,2005-03-01,3,2005,Ships,100,104,Spain,Medium
+48,100.0,3,5192.64,2005-03-28,3,2005,Ships,100,104,France,Medium
+28,100.0,7,3029.04,2005-05-06,5,2005,Ships,100,104,USA,Medium
+22,100.0,7,2556.18,2003-02-11,2,2003,Ships,99,105,Denmark,Small
+45,83.42,1,3753.9,2003-04-16,4,2003,Ships,99,105,Singapore,Medium
+30,85.41,7,2562.3,2003-06-12,6,2003,Ships,99,105,UK,Small
+38,85.41,4,3245.58,2003-08-08,8,2003,Ships,99,105,USA,Medium
+20,100.0,3,2204.6,2003-09-28,9,2003,Ships,99,105,Spain,Small
+28,100.0,14,3003.0,2003-10-23,10,2003,Ships,99,105,Sweden,Medium
+24,100.0,5,2526.48,2003-11-07,11,2003,Ships,99,105,Spain,Small
+22,79.45,5,1747.9,2003-11-14,11,2003,Ships,99,105,USA,Small
+35,93.35,11,3267.25,2003-11-26,11,2003,Ships,99,105,Spain,Medium
+33,85.41,5,2818.53,2004-01-02,1,2004,Ships,99,105,France,Small
+31,95.34,17,2955.54,2004-02-19,2,2004,Ships,99,105,USA,Small
+35,82.43,2,2885.05,2004-03-20,3,2004,Ships,99,105,UK,Small
+35,90.37,8,3162.95,2004-05-07,5,2004,Ships,99,105,USA,Medium
+50,81.43,6,4071.5,2004-06-17,6,2004,Ships,99,105,Canada,Medium
+26,100.0,9,2969.46,2004-07-21,7,2004,Ships,99,105,Belgium,Small
+38,89.38,11,3396.44,2004-08-20,8,2004,Ships,99,105,Canada,Medium
+45,100.0,1,4692.6,2004-09-10,9,2004,Ships,99,105,USA,Medium
+30,100.0,5,3515.7,2004-10-14,10,2004,Ships,99,105,UK,Medium
+37,91.37,4,3380.69,2004-10-29,10,2004,Ships,99,105,France,Medium
+37,86.61,3,3204.57,2004-11-10,11,2004,Ships,99,105,Denmark,Medium
+36,71.89,7,2588.04,2004-11-21,11,2004,Ships,99,105,USA,Small
+25,100.0,16,2854.75,2004-12-02,12,2004,Ships,99,105,Spain,Small
+37,100.0,8,4025.6,2005-01-31,1,2005,Ships,99,105,Finland,Medium
+30,95.48,3,2864.4,2005-03-01,3,2005,Ships,99,105,Spain,Small
+36,100.0,2,3789.72,2005-03-28,3,2005,Ships,99,105,France,Medium
+27,90.37,8,2439.99,2005-05-06,5,2005,Ships,99,105,USA,Small
+48,61.44,10,2949.12,2003-02-17,2,2003,Planes,74,106,Italy,Small
+26,59.22,1,1539.72,2003-04-28,4,2003,Planes,74,106,Austria,Small
+26,85.13,2,2213.38,2003-06-16,6,2003,Planes,74,106,USA,Small
+34,85.87,5,2919.58,2003-08-10,8,2003,Planes,74,106,USA,Small
+44,85.87,3,3778.28,2003-10-06,10,2003,Planes,74,106,Finland,Medium
+39,82.91,17,3233.49,2003-10-28,10,2003,Planes,74,106,USA,Medium
+45,76.25,2,3431.25,2003-11-08,11,2003,Planes,74,106,France,Medium
+40,63.67,2,2546.8,2003-11-27,11,2003,Planes,74,106,Philippines,Small
+42,70.33,15,2953.86,2004-01-12,1,2004,Planes,74,106,Japan,Small
+43,74.03,2,3183.29,2004-02-19,2,2004,Planes,74,106,USA,Medium
+34,72.55,11,2466.7,2004-04-02,4,2004,Planes,74,106,Canada,Small
+38,62.19,12,2363.22,2004-05-11,5,2004,Planes,74,106,USA,Small
+35,71.07,7,2487.45,2004-06-24,6,2004,Planes,74,106,Spain,Small
+31,72.55,17,2249.05,2004-07-23,7,2004,Planes,74,106,France,Small
+32,64.41,9,2061.12,2004-08-21,8,2004,Planes,74,106,Norway,Small
+47,86.62,5,4071.14,2004-09-15,9,2004,Planes,74,106,Germany,Medium
+39,68.11,15,2656.29,2004-10-15,10,2004,Planes,74,106,USA,Small
+44,62.19,7,2736.36,2004-11-01,11,2004,Planes,74,106,UK,Small
+39,85.87,12,3348.93,2004-11-12,11,2004,Planes,74,106,Italy,Medium
+50,57.86,8,2893.0,2004-11-23,11,2004,Planes,74,106,Japan,Small
+22,75.51,1,1661.22,2004-12-03,12,2004,Planes,74,106,USA,Small
+35,100.0,11,4277.35,2004-12-17,12,2004,Planes,74,106,Australia,Medium
+45,55.62,17,2502.9,2005-01-31,1,2005,Planes,74,106,Finland,Small
+44,86.4,15,3801.6,2005-03-01,3,2005,Planes,74,106,Spain,Medium
+36,87.36,12,3144.96,2005-03-30,3,2005,Planes,74,106,France,Medium
+28,72.55,11,2031.4,2005-04-03,4,2005,Planes,74,106,USA,Small
+43,62.19,12,2674.17,2005-05-10,5,2005,Planes,74,106,Italy,Small
+48,52.64,15,2526.72,2003-02-17,2,2003,Planes,49,107,Italy,Small
+28,48.17,6,1348.76,2003-04-28,4,2003,Planes,49,107,Austria,Small
+21,41.71,7,875.91,2003-06-16,6,2003,Planes,49,107,USA,Small
+37,50.65,10,1874.05,2003-08-10,8,2003,Planes,49,107,USA,Small
+34,49.16,8,1671.44,2003-10-06,10,2003,Planes,49,107,Finland,Small
+40,41.71,4,1668.4,2003-10-23,10,2003,Planes,49,107,Sweden,Small
+45,51.15,7,2301.75,2003-11-08,11,2003,Planes,49,107,France,Small
+28,52.14,4,1459.92,2003-11-14,11,2003,Planes,49,107,UK,Small
+29,41.71,1,1209.59,2003-11-26,11,2003,Planes,49,107,Spain,Small
+48,44.69,3,2145.12,2004-01-09,1,2004,Planes,49,107,USA,Small
+31,45.69,7,1416.39,2004-02-19,2,2004,Planes,49,107,USA,Small
+32,57.61,3,1843.52,2004-05-08,5,2004,Planes,49,107,USA,Small
+21,57.11,12,1199.31,2004-06-24,6,2004,Planes,49,107,Spain,Small
+32,58.6,4,1875.2,2004-07-21,7,2004,Planes,49,107,USA,Small
+43,57.61,1,2477.23,2004-08-20,8,2004,Planes,49,107,Canada,Small
+21,45.19,10,948.99,2004-09-15,9,2004,Planes,49,107,Germany,Small
+34,53.63,4,1823.42,2004-10-14,10,2004,Planes,49,107,USA,Small
+34,43.7,12,1485.8,2004-11-01,11,2004,Planes,49,107,UK,Small
+44,86.13,8,3789.72,2004-11-15,11,2004,Planes,49,107,USA,Medium
+27,76.31,6,2060.37,2004-11-23,11,2004,Planes,49,107,Japan,Small
+49,52.64,4,2579.36,2004-12-03,12,2004,Planes,49,107,USA,Small
+23,95.2,12,2189.6,2004-12-17,12,2004,Planes,49,107,Australia,Small
+25,64.97,9,1624.25,2005-01-31,1,2005,Planes,49,107,Finland,Small
+50,87.15,16,4357.5,2005-03-01,3,2005,Planes,49,107,Spain,Medium
+34,40.22,1,1367.48,2005-03-30,3,2005,Planes,49,107,France,Small
+20,56.12,4,1122.4,2005-04-01,4,2005,Planes,49,107,USA,Small
+42,57.61,3,2419.62,2005-05-09,5,2005,Planes,49,107,Australia,Small
+25,56.78,8,1419.5,2003-02-11,2,2003,Ships,54,108,Denmark,Small
+50,43.68,2,2184.0,2003-04-16,4,2003,Ships,54,108,Singapore,Small
+32,64.97,8,2079.04,2003-06-12,6,2003,Ships,54,108,UK,Small
+39,44.23,5,1724.97,2003-08-08,8,2003,Ships,54,108,USA,Small
+50,60.06,4,3003.0,2003-09-28,9,2003,Ships,54,108,Spain,Medium
+38,48.59,15,1846.42,2003-10-23,10,2003,Ships,54,108,Sweden,Small
+40,50.23,6,2009.2,2003-11-07,11,2003,Ships,54,108,Spain,Small
+28,64.43,6,1804.04,2003-11-14,11,2003,Ships,54,108,USA,Small
+42,50.23,12,2109.66,2003-11-26,11,2003,Ships,54,108,Spain,Small
+42,63.88,6,2682.96,2004-01-02,1,2004,Ships,54,108,France,Small
+36,63.34,18,2280.24,2004-02-19,2,2004,Ships,54,108,USA,Small
+24,49.69,3,1192.56,2004-03-20,3,2004,Ships,54,108,UK,Small
+23,65.52,9,1506.96,2004-05-07,5,2004,Ships,54,108,USA,Small
+29,50.78,7,1472.62,2004-06-17,6,2004,Ships,54,108,Canada,Small
+37,45.86,10,1696.82,2004-07-21,7,2004,Ships,54,108,Belgium,Small
+33,51.32,12,1693.56,2004-08-20,8,2004,Ships,54,108,Canada,Small
+32,60.06,1,1921.92,2004-09-09,9,2004,Ships,54,108,Italy,Small
+35,59.51,6,2082.85,2004-10-14,10,2004,Ships,54,108,UK,Small
+40,55.69,5,2227.6,2004-10-29,10,2004,Ships,54,108,France,Small
+37,86.74,4,3209.38,2004-11-10,11,2004,Ships,54,108,Denmark,Medium
+42,97.16,5,4080.72,2004-11-21,11,2004,Ships,54,108,USA,Medium
+20,100.0,15,2244.4,2004-12-02,12,2004,Ships,54,108,Spain,Small
+29,100.0,1,3978.51,2005-01-31,1,2005,Ships,54,108,Finland,Medium
+43,100.0,4,5417.57,2005-03-01,3,2005,Ships,54,108,Spain,Medium
+34,62.24,1,2116.16,2005-03-28,3,2005,Ships,54,108,France,Small
+47,65.52,9,3079.44,2005-05-06,5,2005,Ships,54,108,USA,Medium
