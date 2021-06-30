@@ -110,6 +110,8 @@ fig.update_layout(
 
 st.plotly_chart(fig)
 
+st.header('Cluster de patrones de compra')
+st.subheader('Distribución de los clusters')
 
 def dummies(x):
     dummy = pd.get_dummies(df[x])
@@ -138,8 +140,6 @@ df_cluster = pd.concat([df_2, pd.DataFrame({'cluster':labels})], axis = 1)
 
 df_2['NUM_LINEA'] = df_2['NUM_LINEA'].apply(lambda x: float(x))
 
-st.subheader('Distribución de los clusters')
-
 n_clusters = labels.max() +1
 for i in df_2.columns[:8]:
     plt.figure(figsize=(30,n_clusters))
@@ -151,15 +151,15 @@ for i in df_2.columns[:8]:
     st.set_option('deprecation.showPyplotGlobalUse', False)
     st.pyplot()
 
-st.subheader('Reducción de la dimensinalidad utilizando PCA: Visualización de los clusters de clientes')    
+st.subheader('Reducción de la dimensinalidad utilizando PCA: Visualización de los clusters')    
 
 pca = PCA(n_components= 3)
 principal_comp = pca.fit_transform(df_scaled)
 pca_df = pd.DataFrame(data = principal_comp, columns=['pca1', 'pca2', 'pca3'])
-pca_df = pd.concat([pca_df, pd.DataFrame({'cluster':labels}), clientes], axis = 1)
+pca_df = pd.concat([pca_df, pd.DataFrame({'cluster':labels}),clientes], axis = 1)
 
 fig = px.scatter_3d(pca_df, x = 'pca1', y = 'pca2', z= 'pca3',
-                    color = 'cluster', hover_name = 'CLIENTE', 
+                    color = 'cluster', 
                     size_max = 18, opacity = 0.7)
 fig.update_layout(margin = dict(l = 0, r = 0, t = 0))
 st.plotly_chart(fig)    
