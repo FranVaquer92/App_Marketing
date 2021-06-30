@@ -43,7 +43,7 @@ else:
 """
 
 """
-CANTIDAD | PRECIO UNITARIO | NÚMERO DE LÍNEA O PEDIDO | VENTA | FECHA | MES | AÑO | PRODUCTO | MSRP | CÓDIGO PRODUCTO | PAÍS | OFERTA |
+NOMBRE CLIENTE | CANTIDAD | PRECIO UNITARIO | NÚMERO DE LÍNEA O PEDIDO | VENTA | FECHA | MES | AÑO | PRODUCTO | MSRP | CÓDIGO PRODUCTO | PAÍS | OFERTA |
 """
 try:
     encoding = "unicode_escape"
@@ -64,6 +64,7 @@ def barplotvisualization(x):
                  color = df[x].value_counts().index, 
                  height = 600)
     st.plotly_chart(fig)
+
 
 df.columns = ["CANTIDAD", "PRECIO_UNITARIO", "NUM_LINEA", "VENTA", "FECHA", "MES", "AÑO", "PRODUCTO", "MSRP", "CODIGO_PRODUCTO", "PAIS", "OFERTA"]
 
