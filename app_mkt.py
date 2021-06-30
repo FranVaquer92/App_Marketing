@@ -71,6 +71,9 @@ df.columns = ["CANTIDAD", "PRECIO_UNITARIO", "NUM_LINEA", "VENTA", "FECHA", "MES
 
 st.dataframe(df)
 
+st.subheader('Clientes')
+barplotvisualization('CLIENTE')
+
 st.subheader('Productos')
 barplotvisualization('PRODUCTO')
 
@@ -82,6 +85,10 @@ fig = px.line(x = df_group.index, y = df_group.VENTA, title='EVOLUCIÓN DE LAS V
 st.plotly_chart(fig)
 
 plt.figure(figsize= (10,10))
+
+clientes = df['CLIENTE']
+
+df.drop('CLIENTE', axis = 1, inplace=True)
 
 st.subheader('Distribución según las diferentes variables')
 
@@ -149,11 +156,13 @@ st.subheader('Reducción de la dimensinalidad utilizando PCA: Visualización de 
 pca = PCA(n_components= 3)
 principal_comp = pca.fit_transform(df_scaled)
 pca_df = pd.DataFrame(data = principal_comp, columns=['pca1', 'pca2', 'pca3'])
-pca_df = pd.concat([pca_df, pd.DataFrame({'cluster':labels})], axis = 1)
+pca_df = pd.concat([pca_df, pd.DataFrame({'cluster':labels}), clientes], axis = 1)
 
 fig = px.scatter_3d(pca_df, x = 'pca1', y = 'pca2', z= 'pca3',
                     color = 'cluster', 
                     size_max = 18, opacity = 0.7)
 fig.update_layout(margin = dict(l = 0, r = 0, t = 0))
 st.plotly_chart(fig)    
+
+
 
