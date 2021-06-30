@@ -159,7 +159,7 @@ pca_df = pd.DataFrame(data = principal_comp, columns=['pca1', 'pca2', 'pca3'])
 pca_df = pd.concat([pca_df, pd.DataFrame({'cluster':labels}), clientes], axis = 1)
 
 fig = px.scatter_3d(pca_df, x = 'pca1', y = 'pca2', z= 'pca3',
-                    color = 'cluster', hover_name = 'clientes', 
+                    color = 'cluster', hover_name = 'CLIENTE', 
                     size_max = 18, opacity = 0.7)
 fig.update_layout(margin = dict(l = 0, r = 0, t = 0))
 st.plotly_chart(fig)    
