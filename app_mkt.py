@@ -43,20 +43,20 @@ else:
 """
 
 """
-NOMBRE CLIENTE | CANTIDAD | PRECIO UNITARIO | NÚMERO DE LÍNEA O PEDIDO | VENTA | FECHA | MES | AÑO | PRODUCTO | MSRP | CÓDIGO PRODUCTO | PAÍS | OFERTA |
+CANTIDAD | PRECIO UNITARIO | NÚMERO DE LÍNEA O PEDIDO | VENTA | FECHA | MES | AÑO | PRODUCTO | MSRP | CÓDIGO PRODUCTO | NOMBRE CLIENTE | PAÍS | OFERTA |
 """
 try:
     encoding = "unicode_escape"
     df = pd.read_csv(data_file, encoding=encoding)
-    st.dataframe(df)
+#    st.dataframe(df)
 except:
     try:
         encoding = "utf-8"
         df = pd.read_csv(data_file, encoding=encoding)
-        st.dataframe(df)
+#        st.dataframe(df)
     except:
         df = pd.read_csv('sales_data_summary.csv')
-        st.dataframe(df)
+#        st.dataframe(df)
 def barplotvisualization(x):
     fig = plt.Figure(figsize=(20,20))
     fig = px.bar(x = df[x].value_counts().index, 
@@ -66,8 +66,10 @@ def barplotvisualization(x):
     st.plotly_chart(fig)
 
 
-df.columns = ["CANTIDAD", "PRECIO_UNITARIO", "NUM_LINEA", "VENTA", "FECHA", "MES", "AÑO", "PRODUCTO", "MSRP", "CODIGO_PRODUCTO", "PAIS", "OFERTA"]
+    
+df.columns = ["CANTIDAD", "PRECIO_UNITARIO", "NUM_LINEA", "VENTA", "FECHA", "MES", "AÑO", "PRODUCTO", "MSRP", "CODIGO_PRODUCTO", "CLIENTE", "PAIS", "OFERTA"]
 
+st.dataframe(df)
 
 st.subheader('Productos')
 barplotvisualization('PRODUCTO')
