@@ -14,8 +14,11 @@ from sklearn.metrics.pairwise import cosine_similarity
 import plotly.express as px
 import plotly.graph_objects as go
 import plotly.figure_factory as ff
+import random
 
 import streamlit as st
+
+random.seed(100)
 
 st.header('Segmentación y clasificación de clientes')
 subido = 0
