@@ -24,15 +24,7 @@ st.set_page_config(
      layout="wide",
      initial_sidebar_state="expanded",
      )
-st.markdown("""
-<style>
-body {
-  background: #ff0099; 
-  background: -webkit-linear-gradient(to right, #ff0099, #493240); 
-  background: linear-gradient(to right, #ff0099, #493240); 
-}
-</style>
-    """, unsafe_allow_html=True)
+st.markdown("<span style=“background-color:#121922”>",unsafe_allow_html=True)
 
 st.title('Segmentación y clasificación de clientes.')
 subido = 0
