@@ -57,32 +57,35 @@ except:
     except:
         df = pd.read_csv('sales_data_summary.csv')
 #        st.dataframe(df)
-def barplotvisualization(x):
+def barplotvisualization(x, posicion):
     fig = plt.Figure(figsize=(20,20))
     fig = px.bar(x = df[x].value_counts().index, 
                  y = df[x].value_counts(), 
                  color = df[x].value_counts().index, 
                  height = 600)
-    st.plotly_chart(fig)
-
-
+    if posicion = 'col1':
+        col1.plotly_chart(fig, use_column_width=True)
+    elif posicion = 'col2':
+        col2.plotly_chart(fig, use_column_width=True)
     
 df.columns = ["CANTIDAD", "PRECIO_UNITARIO", "NUM_LINEA", "VENTA", "FECHA", "MES", "AÑO", "PRODUCTO", "MSRP", "CODIGO_PRODUCTO", "CLIENTE", "PAIS", "OFERTA"]
 
 st.dataframe(df)
 
-st.subheader('Clientes')
-barplotvisualization('CLIENTE')
+col1, col2 = st.beta_columns(2)
 
-st.subheader('Productos')
-barplotvisualization('PRODUCTO')
+col1.subheader('Clientes')
+barplotvisualization('CLIENTE', 'col1')
 
-st.subheader('País')
-barplotvisualization('PAIS')
+col2.subheader('Productos')
+barplotvisualization('PRODUCTO', 'col2')
+
+col1.subheader('País')
+barplotvisualization('PAIS', 'col1')
 
 df_group = df.groupby(by = 'FECHA').sum()
 fig = px.line(x = df_group.index, y = df_group.VENTA, title='EVOLUCIÓN DE LAS VENTAS')
-st.plotly_chart(fig)
+col2.plotly_chart(fig)
 
 plt.figure(figsize= (10,10))
 
