@@ -71,111 +71,101 @@ df.columns = ["CANTIDAD", "PRECIO_UNITARIO", "NUM_LINEA", "VENTA", "FECHA", "MES
 
 st.dataframe(df)
 
-col1, col2 = st.beta_columns((3, 1))
+expander_pc = st.beta_expander("Patrones de compra", expanded=False)
+with expander_pc:
+    col1, col2 = st.beta_columns((3, 1))
 
-col1.subheader('Clientes')
-barplotvisualization('CLIENTE', 'col1')
+    col1.subheader('Clientes')
+    barplotvisualization('CLIENTE', 'col1')
 
-col2.subheader('Productos')
-barplotvisualization('PRODUCTO', 'col2')
+    col2.subheader('Productos')
+    barplotvisualization('PRODUCTO', 'col2')
 
-col1.subheader('País')
-barplotvisualization('PAIS', 'col1')
+    col1.subheader('País')
+    barplotvisualization('PAIS', 'col1')
 
-df_group = df.groupby(by = 'FECHA').sum()
-fig = px.line(x = df_group.index, y = df_group.VENTA, title='EVOLUCIÓN DE LAS VENTAS')
-col2.plotly_chart(fig)
+    df_group = df.groupby(by = 'FECHA').sum()
+    fig = px.line(x = df_group.index, y = df_group.VENTA, title='EVOLUCIÓN DE LAS VENTAS')
+    col2.plotly_chart(fig)
 
-plt.figure(figsize= (10,10))
+    plt.figure(figsize= (10,10))
 
-clientes = df['CLIENTE']
+    clientes = df['CLIENTE']
 
-df.drop('CLIENTE', axis = 1, inplace=True)
+    df.drop('CLIENTE', axis = 1, inplace=True)
 
-st.subheader('Distribución según las diferentes variables')
+    st.subheader('Distribución según las diferentes variables')
 
-j = 0
-for i in range(8):
-    if df.columns[i]!= 'NUM_LINEA' and df.columns[i]!= 'FECHA' and df.columns[i]!= 'PRODUCTO' and df.columns[i]!= 'OFERTA' and df.columns[i]!= 'AÑO':
-        if j%2 == 0:
-            fig = ff.create_distplot([df[df.columns[i]].apply(lambda x: float(x))], ['displot'])
-            fig.update_layout(title_text = df.columns[i])
-            col1.plotly_chart(fig)
-        else:
-            fig = ff.create_distplot([df[df.columns[i]].apply(lambda x: float(x))], ['displot'])
-            fig.update_layout(title_text = df.columns[i])
-            col2.plotly_chart(fig)
-        j+=1
-        
-#plt.figure(figsize=(15,15))
+    j = 0
+    for i in range(8):
+        if df.columns[i]!= 'NUM_LINEA' and df.columns[i]!= 'FECHA' and df.columns[i]!= 'PRODUCTO' and df.columns[i]!= 'OFERTA' and df.columns[i]!= 'AÑO':
+            if j%2 == 0:
+                fig = ff.create_distplot([df[df.columns[i]].apply(lambda x: float(x))], ['displot'])
+                fig.update_layout(title_text = df.columns[i])
+                col1.plotly_chart(fig)
+            else:
+                fig = ff.create_distplot([df[df.columns[i]].apply(lambda x: float(x))], ['displot'])
+                fig.update_layout(title_text = df.columns[i])
+                col2.plotly_chart(fig)
+            j+=1
 
-#fig = px.scatter_matrix(df, dimensions=df.drop('FECHA', axis = 1, inplace= False).columns, color = 'MES')
+    st.header('Cluster de patrones de compra')
+    st.subheader('Distribución de los clusters')
 
-#fig.update_layout(
-#    title = 'DISTRIBUCIÓN MENSUAL',
-#    width = 1100,
-#    height = 1100
-#)
+    def dummies(x):
+        dummy = pd.get_dummies(df[x])
+        df.drop(columns = x, inplace= True)
+        return pd.concat([df, dummy], axis = 1)
 
-#st.plotly_chart(fig)
+    df = dummies('PAIS')
+    df = dummies('PRODUCTO')
+    df = dummies('OFERTA')
 
-st.header('Cluster de patrones de compra')
-st.subheader('Distribución de los clusters')
+    df_2 = df.drop('FECHA', axis = 1, inplace= False)
 
-def dummies(x):
-    dummy = pd.get_dummies(df[x])
-    df.drop(columns = x, inplace= True)
-    return pd.concat([df, dummy], axis = 1)
+    scaler = StandardScaler()
+    df_scaled = scaler.fit_transform(df_2)
 
-df = dummies('PAIS')
-df = dummies('PRODUCTO')
-df = dummies('OFERTA')
+    kmeans = KMeans(3)
+    kmeans.fit(df_scaled)
+    labels = kmeans.labels_
 
-df_2 = df.drop('FECHA', axis = 1, inplace= False)
+    st.subheader('Patrones de compra diferenciados:')
 
-scaler = StandardScaler()
-df_scaled = scaler.fit_transform(df_2)
+    cluster_centers = pd.DataFrame(data=kmeans.cluster_centers_, columns = [df_2.columns])
+    cluster_centers = scaler.inverse_transform(cluster_centers)
+    cluster_centers = pd.DataFrame(data= cluster_centers, columns= [df_2.columns])
+    st.dataframe(cluster_centers)
 
-kmeans = KMeans(3)
-kmeans.fit(df_scaled)
-labels = kmeans.labels_
-
-st.subheader('Patrones de compra diferenciados:')
-
-cluster_centers = pd.DataFrame(data=kmeans.cluster_centers_, columns = [df_2.columns])
-cluster_centers = scaler.inverse_transform(cluster_centers)
-cluster_centers = pd.DataFrame(data= cluster_centers, columns= [df_2.columns])
-st.dataframe(cluster_centers)
-
-y_kmeans = kmeans.fit_predict(df_scaled)
-df_cluster = pd.concat([df_2, pd.DataFrame({'cluster':labels})], axis = 1)
+    y_kmeans = kmeans.fit_predict(df_scaled)
+    df_cluster = pd.concat([df_2, pd.DataFrame({'cluster':labels})], axis = 1)
 
 
-df_2['NUM_LINEA'] = df_2['NUM_LINEA'].apply(lambda x: float(x))
+    df_2['NUM_LINEA'] = df_2['NUM_LINEA'].apply(lambda x: float(x))
 
-n_clusters = labels.max() +1
-for i in df_2.columns[:8]:
-    plt.figure(figsize=(30,n_clusters))
-    for j in range(n_clusters):
-        plt.subplot(1, n_clusters, j+1)
-        cluster = df_cluster[df_cluster['cluster'] == j]
-        cluster[i].hist()
-        plt.title('{}  \nCluster - {}'.format(i,j))
-    st.set_option('deprecation.showPyplotGlobalUse', False)
-    st.pyplot()
+    n_clusters = labels.max() +1
+    for i in df_2.columns[:8]:
+        plt.figure(figsize=(30,n_clusters))
+        for j in range(n_clusters):
+            plt.subplot(1, n_clusters, j+1)
+            cluster = df_cluster[df_cluster['cluster'] == j]
+            cluster[i].hist()
+            plt.title('{}  \nCluster - {}'.format(i,j))
+        st.set_option('deprecation.showPyplotGlobalUse', False)
+        st.pyplot()
 
-st.subheader('Reducción de la dimensinalidad utilizando PCA: Visualización de los clusters')    
+    st.subheader('Reducción de la dimensinalidad utilizando PCA: Visualización de los clusters')    
 
-pca = PCA(n_components= 3)
-principal_comp = pca.fit_transform(df_scaled)
-pca_df = pd.DataFrame(data = principal_comp, columns=['pca1', 'pca2', 'pca3'])
-pca_df = pd.concat([pca_df, pd.DataFrame({'cluster':labels}),clientes], axis = 1)
+    pca = PCA(n_components= 3)
+    principal_comp = pca.fit_transform(df_scaled)
+    pca_df = pd.DataFrame(data = principal_comp, columns=['pca1', 'pca2', 'pca3'])
+    pca_df = pd.concat([pca_df, pd.DataFrame({'cluster':labels}),clientes], axis = 1)
 
-fig = px.scatter_3d(pca_df, x = 'pca1', y = 'pca2', z= 'pca3',
-                    color = 'cluster', 
-                    size_max = 18, opacity = 0.7)
-fig.update_layout(margin = dict(l = 0, r = 0, t = 0))
-st.plotly_chart(fig)    
+    fig = px.scatter_3d(pca_df, x = 'pca1', y = 'pca2', z= 'pca3',
+                        color = 'cluster', 
+                        size_max = 18, opacity = 0.7)
+    fig.update_layout(margin = dict(l = 0, r = 0, t = 0))
+    st.plotly_chart(fig)    
 
 
 
