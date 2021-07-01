@@ -63,9 +63,9 @@ def barplotvisualization(x, posicion):
                  y = df[x].value_counts(), 
                  color = df[x].value_counts().index, 
                  height = 600)
-    if posicion = 'col1':
+    if posicion == 'col1':
         col1.plotly_chart(fig, use_column_width=True)
-    elif posicion = 'col2':
+    elif posicion == 'col2':
         col2.plotly_chart(fig, use_column_width=True)
     
 df.columns = ["CANTIDAD", "PRECIO_UNITARIO", "NUM_LINEA", "VENTA", "FECHA", "MES", "AÑO", "PRODUCTO", "MSRP", "CODIGO_PRODUCTO", "CLIENTE", "PAIS", "OFERTA"]
