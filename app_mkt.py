@@ -94,11 +94,18 @@ df.drop('CLIENTE', axis = 1, inplace=True)
 
 st.subheader('Distribución según las diferentes variables')
 
+j = 0
 for i in range(8):
     if df.columns[i]!= 'NUM_LINEA' and df.columns[i]!= 'FECHA' and df.columns[i]!= 'PRODUCTO' and df.columns[i]!= 'OFERTA' and df.columns[i]!= 'AÑO':
-        fig = ff.create_distplot([df[df.columns[i]].apply(lambda x: float(x))], ['displot'])
-        fig.update_layout(title_text = df.columns[i])
-        st.plotly_chart(fig)
+        if j%2 == 0:
+            fig = ff.create_distplot([df[df.columns[i]].apply(lambda x: float(x))], ['displot'])
+            fig.update_layout(title_text = df.columns[i])
+            col1.plotly_chart(fig)
+        else:
+            fig = ff.create_distplot([df[df.columns[i]].apply(lambda x: float(x))], ['displot'])
+            fig.update_layout(title_text = df.columns[i])
+            col2.plotly_chart(fig)
+        j+=1
         
 #plt.figure(figsize=(15,15))
 
