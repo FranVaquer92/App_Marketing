@@ -67,7 +67,7 @@ def barplotvisualization(x, posicion):
         col2.plotly_chart(fig, use_column_width=True)
     
 df.columns = ["CANTIDAD", "PRECIO_UNITARIO", "NUM_LINEA", "VENTA", "FECHA", "MES", "AÑO", "PRODUCTO", "MSRP", "CODIGO_PRODUCTO", "CLIENTE", "PAIS", "OFERTA"]
-
+st.beta_set_page_config(layout="wide")
 
 st.dataframe(df)
 
