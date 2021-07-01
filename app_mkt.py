@@ -20,6 +20,8 @@ import streamlit as st
 
 random.seed(100)
 
+st.beta_set_page_config(layout="wide")
+
 st.title('Segmentación y clasificación de clientes.')
 subido = 0
 
@@ -62,7 +64,7 @@ def barplotvisualization(x, posicion):
     fig = px.bar(x = df[x].value_counts().index, 
                  y = df[x].value_counts(), 
                  color = df[x].value_counts().index, 
-                 height = 300)
+                 height = 400)
     if posicion == 'col1':
         col1.plotly_chart(fig, use_column_width=True)
     elif posicion == 'col2':
