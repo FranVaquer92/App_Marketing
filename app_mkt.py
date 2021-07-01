@@ -18,10 +18,6 @@ import random
 
 import streamlit as st
 
-random.seed(100)
-
-st.beta_set_page_config(layout="wide")
-
 st.title('Segmentación y clasificación de clientes.')
 subido = 0
 
@@ -72,9 +68,12 @@ def barplotvisualization(x, posicion):
     
 df.columns = ["CANTIDAD", "PRECIO_UNITARIO", "NUM_LINEA", "VENTA", "FECHA", "MES", "AÑO", "PRODUCTO", "MSRP", "CODIGO_PRODUCTO", "CLIENTE", "PAIS", "OFERTA"]
 
+st.beta_set_page_config(layout="wide")
+
+
 st.dataframe(df)
 
-col1, col2 = st.beta_columns(2)
+col1, col2 = st.beta_columns((2, 2))
 
 col1.subheader('Clientes')
 barplotvisualization('CLIENTE', 'col1')
