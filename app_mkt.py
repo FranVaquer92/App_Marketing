@@ -71,45 +71,47 @@ df.columns = ["CANTIDAD", "PRECIO_UNITARIO", "NUM_LINEA", "VENTA", "FECHA", "MES
 
 st.dataframe(df)
 
-expander_pc = st.beta_expander("Patrones de compra", expanded=False)
+
+col1, col2 = st.beta_columns((3, 1))
+
+col1.subheader('Clientes')
+barplotvisualization('CLIENTE', 'col1')
+
+col2.subheader('Productos')
+barplotvisualization('PRODUCTO', 'col2')
+
+col1.subheader('País')
+barplotvisualization('PAIS', 'col1')
+
+df_group = df.groupby(by = 'FECHA').sum()
+fig = px.line(x = df_group.index, y = df_group.VENTA, title='EVOLUCIÓN DE LAS VENTAS')
+col2.plotly_chart(fig)
+
+plt.figure(figsize= (10,10))
+
+clientes = df['CLIENTE']
+
+df.drop('CLIENTE', axis = 1, inplace=True)
+
+st.subheader('Distribución según las diferentes variables')
+
+j = 0
+for i in range(8):
+    if df.columns[i]!= 'NUM_LINEA' and df.columns[i]!= 'FECHA' and df.columns[i]!= 'PRODUCTO' and df.columns[i]!= 'OFERTA' and df.columns[i]!= 'AÑO':
+        if j%2 == 0:
+            fig = ff.create_distplot([df[df.columns[i]].apply(lambda x: float(x))], ['displot'])
+            fig.update_layout(title_text = df.columns[i])
+            col1.plotly_chart(fig)
+        else:
+            fig = ff.create_distplot([df[df.columns[i]].apply(lambda x: float(x))], ['displot'])
+            fig.update_layout(title_text = df.columns[i])
+            col2.plotly_chart(fig)
+        j+=1
+        
+
+st.header('Cluster de patrones de compra')
+expander_pc = st.beta_expander("Extender", expanded=False)
 with expander_pc:
-    col1, col2 = st.beta_columns((3, 1))
-
-    col1.subheader('Clientes')
-    barplotvisualization('CLIENTE', 'col1')
-
-    col2.subheader('Productos')
-    barplotvisualization('PRODUCTO', 'col2')
-
-    col1.subheader('País')
-    barplotvisualization('PAIS', 'col1')
-
-    df_group = df.groupby(by = 'FECHA').sum()
-    fig = px.line(x = df_group.index, y = df_group.VENTA, title='EVOLUCIÓN DE LAS VENTAS')
-    col2.plotly_chart(fig)
-
-    plt.figure(figsize= (10,10))
-
-    clientes = df['CLIENTE']
-
-    df.drop('CLIENTE', axis = 1, inplace=True)
-
-    st.subheader('Distribución según las diferentes variables')
-
-    j = 0
-    for i in range(8):
-        if df.columns[i]!= 'NUM_LINEA' and df.columns[i]!= 'FECHA' and df.columns[i]!= 'PRODUCTO' and df.columns[i]!= 'OFERTA' and df.columns[i]!= 'AÑO':
-            if j%2 == 0:
-                fig = ff.create_distplot([df[df.columns[i]].apply(lambda x: float(x))], ['displot'])
-                fig.update_layout(title_text = df.columns[i])
-                col1.plotly_chart(fig)
-            else:
-                fig = ff.create_distplot([df[df.columns[i]].apply(lambda x: float(x))], ['displot'])
-                fig.update_layout(title_text = df.columns[i])
-                col2.plotly_chart(fig)
-            j+=1
-
-    st.header('Cluster de patrones de compra')
     st.subheader('Distribución de los clusters')
 
     def dummies(x):
