@@ -15,6 +15,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import plotly.figure_factory as ff
 import random
+from PIL import Image
 
 import streamlit as st
 
@@ -24,13 +25,14 @@ st.set_page_config(
      layout="wide",
      initial_sidebar_state="expanded",
      )
-st.markdown("<span style=“background-color:#121922”>",unsafe_allow_html=True)
+#st.markdown("<span style=“background-color:#121922”>",unsafe_allow_html=True)
 
 st.title('Segmentación y clasificación de clientes.')
 subido = 0
 
 
 with st.sidebar:
+    st.image(Image.open('LOGO COLOR.png'), use_column_width=True)
     st.subheader('Sube tu dataset')
     data_file = st.file_uploader("Sube el archivo CSV",type=['csv'])
     if data_file is not None:
