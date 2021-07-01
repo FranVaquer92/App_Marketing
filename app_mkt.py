@@ -21,13 +21,13 @@ import streamlit as st
 
 st.set_page_config(
      page_title="Deepsense|Marketing",
-     page_icon="chart_with_upwards_trend",
+     page_icon="ICONO DEEPSENSE.png",
      layout="wide",
      initial_sidebar_state="expanded",
      )
 #st.markdown("<span style=“background-color:#121922”>",unsafe_allow_html=True)
-
-st.title('Segmentación y clasificación de clientes.')
+st.image(Image.open('ICONO DEEPSENSE.png'), width = 100)
+st.title('Análisis avanzado de datos | Marketing')
 subido = 0
 
 
@@ -178,4 +178,76 @@ with expander_pc:
     st.plotly_chart(fig)    
 
 
+st.header('Cluster de segmentación de clientes')
+expander_pc = st.beta_expander("Extender", expanded=False)
+with expander_pc:
+    df_clientes = pd.concat([df_2, clientes], axis = 1)
+    df_clientes_group = df_clientes.groupby(by = ['CLIENTE'],as_index= False).mean().drop(["NUM_LINEA","MES", "AÑO", "CODIGO_PRODUCTO"], axis = 1)
+    clientes_unicos = df_clientes_group['CLIENTE']
+    df_clientes_group.drop('CLIENTE', axis = 1, inplace = True)
+    
+    scaler = StandardScaler()
+    group_df_scaled = scaler.fit_transform(df_clientes_group)
+    
+    scores = []
+    np.random.seed(seed = 100)
 
+    range_values = range(1, 15)
+    
+    for i in range_values:
+        kmeans = KMeans(n_clusters=i)
+        kmeans.fit(group_df_scaled)
+        scores.append(kmeans.inertia_)
+    plt.plot(range_values,scores, 'bx-')
+    plt.title('Encontrar el número correcto de clusters')
+    plt.xlabel('Nº Clusters')
+    plt.ylabel('WCSS')
+    st.pyplot()
+    
+    dif_scores = []
+
+
+    for i in range(0,len(scores)):
+        if i > 0:
+            dif_scores.append(scores[i-1] - scores[i])
+
+    n_clusters = np.argmax(dif_scores[1:])+2
+    
+    kmeans = KMeans(n_clusters)
+    kmeans.fit(group_df_scaled)
+    labels = kmeans.labels_
+    
+    st.subheader('Comportamiento de los diferentes clusters:')
+    
+    cluster_centers = pd.DataFrame(data=kmeans.cluster_centers_, columns = [df_clientes_group.columns])
+    cluster_centers = scaler.inverse_transform(cluster_centers)
+    cluster_centers = pd.DataFrame(data= cluster_centers, columns= [df_clientes_group.columns])
+    st.dataframe(cluster_centers)
+    
+    y_kmeans = kmeans.fit_predict(group_df_scaled)
+    
+    st.subheader('A qué Cluster pertenece cada cliente:')
+    clientes_group_cluster = pd.concat([df_clientes_group, pd.DataFrame({'cluster':labels}), clientes_unicos], axis = 1)
+    clientes_group_cluster
+    
+    st.subheader('Distribución de los clusters')
+    for i in df_clientes_group.columns[:4]:
+        plt.figure(figsize=(30,n_clusters))
+        for j in range(n_clusters):
+            plt.subplot(1, n_clusters, j+1)
+            cluster = clientes_group_cluster[clientes_group_cluster['cluster'] == j]
+            cluster[i].hist()
+            plt.title('{}  \nCluster - {}'.format(i,j))
+        st.set_option('deprecation.showPyplotGlobalUse', False)
+        st.pyplot()
+        
+    st.subheader('Reducción de la dimensinalidad utilizando PCA: Visualización de los clusters')     
+    pca = PCA(n_components= 3)
+    principal_comp = pca.fit_transform(group_df_scaled)
+    
+    pca_df = pd.DataFrame(data = principal_comp, columns=['pca1', 'pca2', 'pca3'])
+    pca_df = pd.concat([pca_df, pd.DataFrame({'cluster':labels}), clientes_unicos], axis = 1)
+    fig = px.scatter_3d(pca_df, x = 'pca1', y = 'pca2', z= 'pca3',
+                    color = 'cluster', symbol = 'cluster', hover_name = 'CLIENTE',size_max = 18, opacity = 0.7)
+    fig.update_layout(margin = dict(l = 0, r = 0, t = 0))
+    st.plotly_chart(fig) 
