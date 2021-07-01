@@ -131,9 +131,13 @@ kmeans = KMeans(3)
 kmeans.fit(df_scaled)
 labels = kmeans.labels_
 
+st.subheader('Patrones de compra diferenciados:')
+
 cluster_centers = pd.DataFrame(data=kmeans.cluster_centers_, columns = [df_2.columns])
 cluster_centers = scaler.inverse_transform(cluster_centers)
 cluster_centers = pd.DataFrame(data= cluster_centers, columns= [df_2.columns])
+st.dataframe(cluster_centers)
+
 y_kmeans = kmeans.fit_predict(df_scaled)
 df_cluster = pd.concat([df_2, pd.DataFrame({'cluster':labels})], axis = 1)
 
