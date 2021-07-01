@@ -17,8 +17,13 @@ import plotly.figure_factory as ff
 import random
 
 import streamlit as st
-st.page_config(layout=centered, sidebar=auto)
-st.beta_set_page_config(layout="wide")
+
+st.set_page_config(
+     page_title="Deepsense|Marketing",
+     page_icon="chart_with_upwards_trend",
+     layout="wide",
+     initial_sidebar_state="expanded",
+     )
 
 st.title('Segmentación y clasificación de clientes.')
 subido = 0
@@ -94,8 +99,6 @@ plt.figure(figsize= (10,10))
 clientes = df['CLIENTE']
 
 df.drop('CLIENTE', axis = 1, inplace=True)
-
-st.subheader('Distribución según las diferentes variables')
 
 j = 0
 for i in range(8):
