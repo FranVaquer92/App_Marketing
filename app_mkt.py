@@ -17,6 +17,7 @@ import plotly.figure_factory as ff
 import random
 
 import streamlit as st
+st.page_config(layout=centered, sidebar=auto)
 st.beta_set_page_config(layout="wide")
 
 st.title('Segmentación y clasificación de clientes.')
