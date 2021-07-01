@@ -20,7 +20,7 @@ import streamlit as st
 
 random.seed(100)
 
-st.header('Segmentación y clasificación de clientes.')
+st.title('Segmentación y clasificación de clientes.')
 subido = 0
 
 
