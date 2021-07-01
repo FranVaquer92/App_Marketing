@@ -71,7 +71,7 @@ df.columns = ["CANTIDAD", "PRECIO_UNITARIO", "NUM_LINEA", "VENTA", "FECHA", "MES
 
 st.dataframe(df)
 
-col1, col2 = st.beta_columns((2, 1))
+col1, col2 = st.beta_columns((3, 1))
 
 col1.subheader('Clientes')
 barplotvisualization('CLIENTE', 'col1')
