@@ -98,17 +98,17 @@ for i in range(8):
         fig.update_layout(title_text = df.columns[i])
         st.plotly_chart(fig)
         
-plt.figure(figsize=(15,15))
+#plt.figure(figsize=(15,15))
 
-fig = px.scatter_matrix(df, dimensions=df.drop('FECHA', axis = 1, inplace= False).columns, color = 'MES')
+#fig = px.scatter_matrix(df, dimensions=df.drop('FECHA', axis = 1, inplace= False).columns, color = 'MES')
 
-fig.update_layout(
-    title = 'DISTRIBUCIÓN MENSUAL',
-    width = 1100,
-    height = 1100
-)
+#fig.update_layout(
+#    title = 'DISTRIBUCIÓN MENSUAL',
+#    width = 1100,
+#    height = 1100
+#)
 
-st.plotly_chart(fig)
+#st.plotly_chart(fig)
 
 st.header('Cluster de patrones de compra')
 st.subheader('Distribución de los clusters')
