@@ -59,14 +59,10 @@ except:
 #        st.dataframe(df)
 def barplotvisualization(x, posicion):
     fig = plt.Figure(figsize=(20,20))
-    fig.update_layout(
-        width = 1100,
-        height = 1100
-        )
     fig = px.bar(x = df[x].value_counts().index, 
                  y = df[x].value_counts(), 
                  color = df[x].value_counts().index, 
-                 height = 600)
+                 height = 300)
     if posicion == 'col1':
         col1.plotly_chart(fig, use_column_width=True)
     elif posicion == 'col2':
