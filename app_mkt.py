@@ -263,7 +263,7 @@ titulo_object = st.empty()
 password_object = st.empty()
 inicio_object = st.empty()
 if ss.x <= 1:
-    pass_real = pd.read_excel("./password_usecases.xlsx")["PASSWORD"][0]
+    pass_real = pd.read_csv("./password_usecases.csv")["PASSWORD"][0]
     titulo_object.title('Introduce contraseña')
     password = password_object.text_input("Contraseña")
     inicio_sesion = inicio_object.button("INICIAR SESION")
