@@ -17,6 +17,7 @@ import plotly.figure_factory as ff
 import random
 from PIL import Image
 
+
 import streamlit as st
 import SessionState
 
@@ -26,25 +27,6 @@ st.set_page_config(
      layout="wide",
      initial_sidebar_state="expanded",
      )
-
-ss = SessionState.get(x=1)
-titulo_object = st.empty()
-password_object = st.empty()
-inicio_object = st.empty()
-if ss.x <= 1:
-    pass_real = pd.read_excel("./password_usecases.xlsx")["PASSWORD"][0]
-    titulo_object.title('Introduce contraseña')
-    password = password_object.text_input("Contraseña")
-    inicio_sesion = inicio_object.button("INICIAR SESION")
-    if password == pass_real and inicio_sesion:
-        ss.x = ss.x + 1
-else:
-    titulo_object.empty()
-    password_object.empty()
-    inicio_object.empty()
-    
-    #la funcion app es donde debe meterse el codigo de la aplicacion que queremos ejecutar
-    app()
 
 def app():
     #st.markdown("<span style=“background-color:#121922”>",unsafe_allow_html=True)
@@ -273,3 +255,24 @@ def app():
                         color = 'cluster', symbol = 'cluster', hover_name = 'CLIENTE',size_max = 18, opacity = 0.7)
         fig.update_layout(margin = dict(l = 0, r = 0, t = 0))
         st.plotly_chart(fig) 
+
+ss = SessionState.get(x=1)
+if ss.x<=1:
+    st.image(Image.open('LOGO COLOR.png'), width = 300)
+titulo_object = st.empty()
+password_object = st.empty()
+inicio_object = st.empty()
+if ss.x <= 1:
+    pass_real = pd.read_excel("./password_usecases.xlsx")["PASSWORD"][0]
+    titulo_object.title('Introduce contraseña')
+    password = password_object.text_input("Contraseña")
+    inicio_sesion = inicio_object.button("INICIAR SESION")
+    if password == pass_real and inicio_sesion:
+        ss.x = ss.x + 1
+else:
+    titulo_object.empty()
+    password_object.empty()
+    inicio_object.empty()
+    
+    #la funcion app es donde debe meterse el codigo de la aplicacion que queremos ejecutar
+    app()
