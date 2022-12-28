@@ -1,0 +1,10 @@
+pandas
+numpy
+seaborn
+matplotlib
+zipfile
+cv2
+plotly
+tensorflow
+IPython
+sklearn

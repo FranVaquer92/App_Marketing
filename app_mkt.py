@@ -22,7 +22,7 @@ import streamlit as st
 import SessionState
 
 st.set_page_config(
-     page_title="Deepsense|Marketing",
+     page_title="deepsense|Marketing",
      page_icon="ICONO DEEPSENSE.png",
      layout="wide",
      initial_sidebar_state="expanded",
